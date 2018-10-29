@@ -1,0 +1,504 @@
+
+[Mission]
+Title=Navigation Course
+MissionType=0
+MissionDataType=0
+Year=1939
+Month=6
+Day=15
+Hour=16
+Minute=50
+Fog=0
+FogRand=0
+Clouds=1
+CloudsRand=1
+Precip=0
+PrecipRand=0
+WindHeading=0
+WindSpeed=5.000000
+WindRand=1
+WeatherRndInterval=5
+SeaType=0
+Briefing=Leutenant z. See,||Per superare l'esame di navigazione, devi dimostrare di avere appreso le nozioni di navigazione in superficie e le procedure di immersione.||Per prima cosa, devi fare rotta verso SSE rispetto alla tua posizione di partenza, ed entrare nello stretto canale a motori pari avanti mezza. Utilizza la bussola per dirigerti nella giusta direzione.||Le tue manovre verranno seguite e giudicate. Attieniti scrupolosamente alle istruzioni riportate nei messaggi radio per portare a termine l'esercitazione.||Per superare questo esame, devi completare tutti gli ordini che riceverai via radio.
+
+[Group 1]
+GroupName=SchnellbootGroup1
+CommandUnitName=GE Schnellboot#2
+Category=0
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=true
+EvolveFromEntryDate=false
+
+[Group 1.Unit 1]
+Name=GE Schnellboot#2
+Class=PTSchnellboot
+Type=0
+Origin=German
+Side=2
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+DockedShip=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1163372.000000
+Lat=6633654.000000
+Height=0.000000
+Heading=101.658997
+Speed=30.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 1.Unit 1.Waypoint 1]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1164632.000000
+Lat=6633394.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 2]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1165972.000000
+Lat=6632154.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 3]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1166682.000000
+Lat=6629684.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 4]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1166542.000000
+Lat=6627464.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 5]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1165152.000000
+Lat=6623074.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 6]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1163072.000000
+Lat=6620324.000000
+Height=0.000000
+
+[Group 1.Unit 2]
+Name=GE Schnellboot#3
+Class=PTSchnellboot
+Type=0
+Origin=German
+Side=2
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+DockedShip=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1162756.000000
+Lat=6633776.000000
+Height=0.000000
+Heading=101.658997
+Speed=30.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 3]
+Name=GE Schnellboot#4
+Class=PTSchnellboot
+Type=0
+Origin=German
+Side=2
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+DockedShip=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1162121.000000
+Lat=6633906.000000
+Height=0.000000
+Heading=101.658997
+Speed=30.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Unit 1]
+Name=Tipo VIIB#2
+Class=SSTypeVIIB
+Type=200
+Origin=German
+Side=0
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380601
+DeleteOnLastWaypoint=true
+DockedShip=false
+GameEntryDate=19380625
+GameEntryTime=0
+GameExitDate=19430304
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1165300.000000
+Lat=6632750.000000
+Height=0.000000
+Heading=90.000000
+Speed=0.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 2]
+Name=GE Schnellboot#1
+Class=PTSchnellboot
+Type=0
+Origin=German
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+DockedShip=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1169820.000000
+Lat=6628960.000000
+Height=0.000000
+Heading=268.347992
+Speed=15.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 2.Waypoint 1]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1167860.000000
+Lat=6628930.000000
+Height=0.000000
+
+[Unit 2.Waypoint 2]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1166615.000000
+Lat=6630250.000000
+Height=0.000000
+
+[Unit 2.Waypoint 3]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1166025.000000
+Lat=6633250.000000
+Height=0.000000
+
+[Unit 2.Waypoint 4]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1164930.000000
+Lat=6636690.000000
+Height=0.000000
+
+[Unit 2.Waypoint 5]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1162360.000000
+Lat=6640470.000000
+Height=0.000000
+
+[Unit 3]
+Name=GE DD Type 34#1
+Class=DDType34
+Type=4
+Origin=German
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+DockedShip=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451201
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1169304.000000
+Lat=6623495.000000
+Height=0.000000
+Heading=270.316010
+Speed=0.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 3.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1167317.000000
+Lat=6623494.000000
+Height=0.000000
+
+[MapZone 1]
+Name=Obiettivo Area 1
+Radius=0.900000
+MaxHeight=1000.000000
+MinHeight=-1000.000000
+Long=1166255.000000
+Lat=6631750.000000
+Height=0.000000
+
+[MapZone 2]
+Name=Obiettivo Area 2
+Radius=1.200000
+MaxHeight=-6.000000
+MinHeight=-22.000000
+Long=1166995.000000
+Lat=6629840.000000
+Height=0.000000
+
+[MapZone 3]
+Name=Obiettivo Area 3
+Radius=2.300000
+MaxHeight=-6.000000
+MinHeight=-35.000000
+Long=1168150.000000
+Lat=6627455.000000
+Height=0.000000
+
+[MapZone 4]
+Name=Obiettivo Area 4
+Radius=2.000000
+MaxHeight=-10.000000
+MinHeight=-40.000000
+Long=1168195.000000
+Lat=6625520.000000
+Height=0.000000
+
+[MapZone 5]
+Name=Ordine di Immersione
+Radius=1.000000
+MaxHeight=1000.000000
+MinHeight=-1000.000000
+Long=1166597.000000
+Lat=6631018.000000
+Height=0.000000
+
+[Objective 1]
+ObjName=Entrare nel canale con rotta SSE
+Obj=1
+ObjType=0
+RenownAwarded=100
+ZoneName=Obiettivo Area 1
+
+[Objective 2]
+ObjName=Navigare attraverso il canale
+Obj=1
+ObjType=0
+RenownAwarded=100
+ZoneName=Obiettivo Area 2
+
+[Objective 3]
+ObjName=Immergersi a quota periscopio e procedere in immersione
+Obj=1
+ObjType=0
+RenownAwarded=150
+ZoneName=Obiettivo Area 3
+
+[Objective 4]
+ObjName=Navigare in immersione verso Sud a quota 25 metri
+Obj=1
+ObjType=0
+RenownAwarded=150
+ZoneName=Obiettivo Area 4
+
+[Trigger 1]
+TrigName=Area 1
+Type=0
+ZoneName=Obiettivo Area 1
+
+[Trigger 2]
+TrigName=Area 2
+Type=0
+ZoneName=Obiettivo Area 2
+
+[Trigger 3]
+TrigName=Area 3
+Type=0
+ZoneName=Obiettivo Area 3
+
+[Trigger 4]
+TrigName=Area 4
+Type=0
+ZoneName=Obiettivo Area 4
+
+[Trigger 5]
+TrigName=Obiettivo 1 completato
+Type=2
+ObjName=Entrare nel canale con rotta SSE
+ObjState=0
+
+[Trigger 6]
+TrigName=Obiettivo 2 completato
+Type=2
+ObjName=Navigare attraverso il canale
+ObjState=0
+
+[Trigger 7]
+TrigName=Obiettivo 3 completato
+Type=2
+ObjName=Immergersi a quota periscopio e procedere in immersione
+ObjState=0
+
+[Trigger 8]
+TrigName=Obiettivo 4 completato
+Type=2
+ObjName=Navigare in immersione verso Sud a quota 25 metri
+ObjState=0
+
+[Trigger 9]
+TrigName=Ordine Radio di Immersione
+Type=0
+ZoneName=Ordine di Immersione
+
+[Event 1]
+EventName=Area 1 Raggiunta
+Type=0
+TriggersNo=1
+Trigger1=Area 1
+Message=Navigare attraverso lo stretto canale a motori Pari Avanti-Tutta (tasto: "4") con rotta Sud-Sud-Est.|Fare click con il tasto sinistro sulla bussola (angolo in basso a destra) per cambiare direzione.
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 2]
+EventName=Area 2 Raggiunta
+Type=0
+TriggersNo=2
+Trigger1=Area 2
+Trigger2=Obiettivo 1 completato
+Message=Mantenere rotta e quota, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 3]
+EventName=Area 3 Raggiunta
+Type=0
+TriggersNo=3
+Trigger1=Area 3
+Trigger2=Obiettivo 1 completato
+Trigger3=Obiettivo 2 completato
+Message=Head South and dive at 25 meters. Use the interface Depth Meter in the lower right side of the game screen.
+Message=Dirigersi verso Sud a quota 25 metri. Utilizzare il profondimetro (angolo in basso a destra) per cambiare quota.
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 4]
+EventName=Area 4 Raggiunta
+Type=0
+TriggersNo=4
+Trigger1=Area 4
+Trigger2=Obiettivo 1 completato
+Trigger3=Obiettivo 2 completato
+Trigger4=Obiettivo 3 completato
+Message=Surface your U-Boat (shortcut: "S" key).|
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 5]
+EventName=End Mission
+Type=0
+TriggersNo=4
+Trigger1=Obiettivo 1 completato
+Trigger2=Obiettivo 2 completato
+Trigger3=Obiettivo 3 completato
+Trigger4=Obiettivo 4 completato
+Message=Once at surface you have successfully completed the mission.|Congratulations, lieutenant!
+Message=Una volta emersi la missione e' da ritenersi conclusa con successo.|Congratulazioni, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=true
+
+[Event 6]
+EventName=Messaggio Ordine Quota Periscopio
+Type=0
+TriggersNo=2
+Trigger1=Ordine Radio di Immersione
+Trigger2=Obiettivo 1 completato
+Message=Procedere con rotta Sud Sud Est nel canale. Immersione a quota periscopio (tasto: "P") e procedere a motori pari avanti massima (tasto: "5").
+
+RepeatedUntilReceived=false
+Critical=false
+
+[EditorParams]
+InitLongOff=6856224.000000
+InitLatOff=5586775.000000
+ZoomIndex=4

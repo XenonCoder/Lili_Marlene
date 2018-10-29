@@ -1,0 +1,92 @@
+
+[Log Entry 0]
+Type=0
+EntryText=Controllo della Velocità
+
+[Log Entry 1]
+Type=0
+EntryText=Per controllare la velocità utilizzare il Telegrafo di Velocità (interfaccia in basso a destra, lo strumento alla sinistra). Si puo' cliccare in qualsiasi parte del telegrafo. L'Ingegnere-Capo ordinerà automaticamente di portare il Sommergibile alla velocità selezionata.
+
+[Log Entry 2]
+Type=0
+EntryText=Nella parte sinistra del Telegrafo ci sono le tacche corrispondenti alle diverse velocità per muovere in avanti. Nella parte destra le rispettive velocità per muoversi indietro.
+
+[Log Entry 3]
+Type=0
+EntryText=Nella parte centrale, in basso, del Telegrafo, sono presenti i comandi per fermare i motori. In alternativa, possono essere utilizzati i seguenti comandi:|tasto BACK Ferma Motori|tasto 1 Avanti Piano|tasto 2 Avanti 1/3|tasto 3 Avanti Mezza|tasto 4 Avanti Tutta|tasto 5 Avanti Massima|tasto 6 Indietro Piano|tasto 7 Indietro Mezza|tasto 8 Indietro Tutta|tasto 9 Emergenza-indietro massima
+
+[Log Entry 4]
+Type=0
+EntryText=In alternativa, puoi impostare la velocità del Sommergibile utilizzando il tachimetro in nodi. Per visualizzare il tachimetro, premere sul tasto di commutazione al di sotto del Telegrafo di Velocità.
+
+[Log Entry 5]
+Type=0
+EntryText=Il tachimetro imposta la velocità in nodi. Mentre il Telegrafo di Velocità permette l'impostazione di velocità prestabilite. Con il tachimetro si possono impostare invece delle velocità ben definite.
+
+[Log Entry 6]
+Type=0
+EntryText=Controlli di Direzione
+[Log Entry 7]
+Type=0
+EntryText=Per controllare la rotta dei Sommergibili è possibile utilizzare la Bussola (interfaccia in basso a destra, lo strumento al centro). Facendo click sul disco esterno si imposterà la nuova rotta del Sommergibile. La Bussola permetterà di far virare il battello in una direzione e mantenere la rotta.
+
+[Log Entry 8]
+Type=0
+EntryText=In alternativa, facendo click sull'icona di commutazione sotto la Bussola, verrà visualizzato lo strumento di indicazione dell'angolo del timone. 
+
+[Log Entry 9]
+Type=0
+EntryText=Cliccando con il tasto sinistro del mouse su una parte di questo strumento, si imposterà l'angolo del timone e la conseguente virata del Sommergibile. Per finire una virata impostare il timone a zero, cliccando sul punto centrale (in alto) dello strumento.
+
+[Log Entry 10]
+Type=0
+EntryText=Per controllare il timone è possibile usare anche i seguenti tasti:|tasto [ barra tutta a sinistra|tasto ] barra tutta a dritta|tasto à barra al centro.
+
+[Log Entry 11]
+Type=0
+EntryText=Controlli di Profondità
+
+[Log Entry 12]
+Type=0
+EntryText=Per controllare la profondità del Sommergibile, usare il Profondimetro (interfaccia in basso a destra, strumento tutto a destra).
+
+[Log Entry 13]
+Type=0
+EntryText=Cliccando su qualsiasi parte del Profondimetro, il Capo-Ingegnere ordinerà l'assetto alla quota selezionata.
+
+[Log Entry 14]
+Type=0
+EntryText=Utilizzando il Profondimetro, si potrà raggiungere la quota di 25 metri. Ogni tacca sullo strumento corrisponde a 1 metro. Si possono utilizzare anche i seguenti tasti:|tasto S Emersione|tasto A livella il battello in assetto alla profondità corrente|tasto D per regolare i timoni a scendere|tasto P per ordinare l'assetto a quota periscopica|tasto "punto e virgola" per quota di utilizzo snorkel|tasto E Aria alla Rapida (Emersione di Emergenza)|tasto C Immersione Rapida.
+
+[Log Entry 15]
+Type=0
+EntryText=In alternativa, si può selezionare la profondità desiderata utilizzando il Profondimetro per Alte Profondità (selezionabile cliccando sul tasto di commutazione sotto il normale profondimetro dei 25m).
+
+[Log Entry 16]
+Type=0
+EntryText=Utilizzando il Profondimetro per Alte Profondità, sarà possibile immergersi fino alla profondità massima di collaudo (relativa al tipo di Sommergibile). Ogni tacca su questo strumento equivale a 10m.
+
+[Log Entry 17]
+Type=0
+EntryText=Utilizzate il Profondimetro (25m) per manovre in acque basse. Quello per Alte Profondità per manovre a quote in acque profonde.
+
+
+[PageImg]
+Nb=8
+Mat0=
+Crop0=
+Mat1=
+Crop1=
+Mat2=
+Crop2=
+Mat3=
+Crop3=
+Mat4=
+Crop4=
+Mat5=
+Crop5=
+Mat6=
+Crop6=
+Mat7=
+Crop7=
+

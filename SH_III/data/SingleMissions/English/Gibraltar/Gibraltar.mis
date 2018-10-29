@@ -1,0 +1,1875 @@
+
+[Mission]
+Title=Lo Stretto di Gibilterra
+MissionType=0
+MissionDataType=0
+Year=1941
+Month=12
+Day=9
+Hour=16
+Minute=0
+Fog=1
+FogRand=1
+Clouds=1
+CloudsRand=1
+Precip=0
+PrecipRand=1
+WindHeading=0
+WindSpeed=5.000000
+WindRand=0
+WeatherRndInterval=3
+SeaType=0
+Briefing=Stretto di Gibilterra, Dicembre 1941||BRIEFING| Malgrado la ferma opposizione dell'Ammiraglio Doenitz, che riteneva questa iniziativa errata perchè distoglieva forze necessarie alla guerra ai convogli mercantili , la Germania mando' più di 60 U-Boot nel Mediterraneo durante la durata della guerra.||Fin da quando lo Stretto di Gibilterra fu sotto il controllo Inglese, il suo attraversamento fu sempre un grande rischio per i sommergibili dell'Asse. Altri 19 U-Boot furono mandati, dopo il primo invio, ma tutti vennero affondati o furono costretti al rientro. Nessun sommergibile comunque uscì più dal Mediterraneo, tutti furono affondati o auto-affondati dal proprio equipaggio.||OBIETTIVO PRINCIPALE|Penetra le difese ed entra in Mediterraneo.
+
+[Group 1]
+GroupName=TaskForce
+CommandUnitName=BR CL Fiji#1
+Category=0
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=false
+EvolveFromEntryDate=false
+
+[Group 1.Unit 1]
+Name=BR CL Fiji#1
+Class=CLFiji
+Type=6
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19400501
+DeleteOnLastWaypoint=false
+GameEntryDate=19400517
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-637320.000000
+Lat=4325240.000000
+Height=0.000000
+Heading=169.240005
+Speed=15.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 1.Unit 1.Waypoint 1]
+Speed=15.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-637020.000000
+Lat=4314530.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 2]
+Speed=15.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-632200.000000
+Lat=4314250.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 3]
+Speed=15.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-634750.000000
+Lat=4330950.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 4]
+Speed=15.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-638700.000000
+Lat=4329650.000000
+Height=0.000000
+
+[Group 1.Unit 2]
+Name=BR DD Hunt I#1
+Class=DDHuntI
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19400517
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-636300.000000
+Lat=4324570.000000
+Height=0.000000
+Heading=169.240005
+Speed=15.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 3]
+Name=BR DD Tribal#6
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19400517
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-637280.000000
+Lat=4323630.000000
+Height=0.000000
+Heading=169.240005
+Speed=15.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 4]
+Name=BR DD Hunt I#2
+Class=DDHuntI
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19400517
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-638280.000000
+Lat=4324550.000000
+Height=0.000000
+Heading=169.240005
+Speed=15.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Unit 1]
+Name=U-96
+Class=SSTypeVIIC
+Type=200
+Origin=German
+Side=2
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19400701
+DeleteOnLastWaypoint=false
+GameEntryDate=19400730
+GameEntryTime=0
+GameExitDate=19450508
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-767700.000000
+Lat=4320200.000000
+Height=0.000000
+Heading=98.337402
+Speed=5.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 1.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-744500.000000
+Lat=4316800.000000
+Height=0.000000
+
+[Unit 2]
+Name=BR DD Tribal#1
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-707250.000000
+Lat=4329200.000000
+Height=0.000000
+Heading=189.089996
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 2.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-707800.000000
+Lat=4324100.000000
+Height=0.000000
+
+[Unit 2.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-715400.000000
+Lat=4324900.000000
+Height=0.000000
+
+[Unit 2.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-708600.000000
+Lat=4329150.000000
+Height=0.000000
+
+[Unit 2.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-713800.000000
+Lat=4334000.000000
+Height=0.000000
+
+[Unit 2.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-706250.000000
+Lat=4332900.000000
+Height=0.000000
+
+[Unit 2.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-713100.000000
+Lat=4329400.000000
+Height=0.000000
+
+[Unit 3]
+Name=BR DD Tribal#2
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-711230.000000
+Lat=4310840.000000
+Height=0.000000
+Heading=0.000000
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 3.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-711230.000000
+Lat=4316790.000000
+Height=0.000000
+
+[Unit 3.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-703480.000000
+Lat=4316640.000000
+Height=0.000000
+
+[Unit 3.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-710380.000000
+Lat=4311090.000000
+Height=0.000000
+
+[Unit 3.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-704330.000000
+Lat=4306290.000000
+Height=0.000000
+
+[Unit 3.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-712080.000000
+Lat=4306590.000000
+Height=0.000000
+
+[Unit 3.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-705280.000000
+Lat=4311040.000000
+Height=0.000000
+
+[Unit 4]
+Name=BR DD Tribal#3
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-720830.000000
+Lat=4318140.000000
+Height=0.000000
+Heading=0.000000
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 4.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-720730.000000
+Lat=4323990.000000
+Height=0.000000
+
+[Unit 4.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-712980.000000
+Lat=4323840.000000
+Height=0.000000
+
+[Unit 4.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-719880.000000
+Lat=4318290.000000
+Height=0.000000
+
+[Unit 4.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-713830.000000
+Lat=4313490.000000
+Height=0.000000
+
+[Unit 4.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-721580.000000
+Lat=4313790.000000
+Height=0.000000
+
+[Unit 4.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-714780.000000
+Lat=4318240.000000
+Height=0.000000
+
+[Unit 5]
+Name=BR DD Tribal#4
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-626130.000000
+Lat=4317090.000000
+Height=0.000000
+Heading=189.089996
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 5.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-626600.000000
+Lat=4312200.000000
+Height=0.000000
+
+[Unit 5.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-634200.000000
+Lat=4313000.000000
+Height=0.000000
+
+[Unit 5.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-627400.000000
+Lat=4317250.000000
+Height=0.000000
+
+[Unit 5.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-632600.000000
+Lat=4322100.000000
+Height=0.000000
+
+[Unit 5.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-625050.000000
+Lat=4321000.000000
+Height=0.000000
+
+[Unit 5.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-631900.000000
+Lat=4317500.000000
+Height=0.000000
+
+[Unit 6]
+Name=BR DD Tribal#5
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-633830.000000
+Lat=4332040.000000
+Height=0.000000
+Heading=0.000000
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 6.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-633830.000000
+Lat=4338240.000000
+Height=0.000000
+
+[Unit 6.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-626080.000000
+Lat=4338090.000000
+Height=0.000000
+
+[Unit 6.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-632980.000000
+Lat=4332540.000000
+Height=0.000000
+
+[Unit 6.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-626930.000000
+Lat=4327740.000000
+Height=0.000000
+
+[Unit 6.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-634680.000000
+Lat=4328040.000000
+Height=0.000000
+
+[Unit 6.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-627880.000000
+Lat=4332490.000000
+Height=0.000000
+
+[Unit 7]
+Name=BR DD C Class#1
+Class=DDCClass
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-683880.000000
+Lat=4318590.000000
+Height=0.000000
+Heading=100.060997
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 7.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-676680.000000
+Lat=4317290.000000
+Height=0.000000
+
+[Unit 7.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-676880.000000
+Lat=4315090.000000
+Height=0.000000
+
+[Unit 7.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-688580.000000
+Lat=4319290.000000
+Height=0.000000
+
+[Unit 7.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-698880.000000
+Lat=4315890.000000
+Height=0.000000
+
+[Unit 7.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-697480.000000
+Lat=4320390.000000
+Height=0.000000
+
+[Unit 7.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-687080.000000
+Lat=4315090.000000
+Height=0.000000
+
+[Unit 8]
+Name=BR DD C Class#2
+Class=DDCClass
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-685280.000000
+Lat=4310690.000000
+Height=0.000000
+Heading=268.806458
+Speed=13.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 8.Waypoint 1]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-690080.000000
+Lat=4310590.000000
+Height=0.000000
+
+[Unit 8.Waypoint 2]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-689880.000000
+Lat=4314390.000000
+Height=0.000000
+
+[Unit 8.Waypoint 3]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-681180.000000
+Lat=4309990.000000
+Height=0.000000
+
+[Unit 8.Waypoint 4]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-670980.000000
+Lat=4313390.000000
+Height=0.000000
+
+[Unit 8.Waypoint 5]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-671280.000000
+Lat=4309090.000000
+Height=0.000000
+
+[Unit 8.Waypoint 6]
+Speed=13.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-680080.000000
+Lat=4313190.000000
+Height=0.000000
+
+[Unit 9]
+Name=BR DD C Class#3
+Class=DDCClass
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-656780.000000
+Lat=4318090.000000
+Height=0.000000
+Heading=268.806458
+Speed=13.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 9.Waypoint 1]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-661580.000000
+Lat=4318390.000000
+Height=0.000000
+
+[Unit 9.Waypoint 2]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-661380.000000
+Lat=4322190.000000
+Height=0.000000
+
+[Unit 9.Waypoint 3]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-652680.000000
+Lat=4317790.000000
+Height=0.000000
+
+[Unit 9.Waypoint 4]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-642480.000000
+Lat=4321190.000000
+Height=0.000000
+
+[Unit 9.Waypoint 5]
+Speed=13.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-642780.000000
+Lat=4316890.000000
+Height=0.000000
+
+[Unit 9.Waypoint 6]
+Speed=13.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-651580.000000
+Lat=4320990.000000
+Height=0.000000
+
+[Unit 10]
+Name=BR DD V&W#1
+Class=DDV&W
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-726180.000000
+Lat=4324590.000000
+Height=0.000000
+Heading=171.539001
+Speed=30.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 10.Waypoint 1]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-726180.000000
+Lat=4316390.000000
+Height=0.000000
+
+[Unit 10.Waypoint 2]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-733480.000000
+Lat=4315490.000000
+Height=0.000000
+
+[Unit 10.Waypoint 3]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-726080.000000
+Lat=4330090.000000
+Height=0.000000
+
+[Unit 10.Waypoint 4]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-735980.000000
+Lat=4339390.000000
+Height=0.000000
+
+[Unit 10.Waypoint 5]
+Speed=25.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-728980.000000
+Lat=4340490.000000
+Height=0.000000
+
+[Unit 10.Waypoint 6]
+Speed=25.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-734780.000000
+Lat=4328390.000000
+Height=0.000000
+
+[Unit 11]
+Name=BR DD V&W#2
+Class=DDV&W
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-721380.000000
+Lat=4302790.000000
+Height=0.000000
+Heading=357.646698
+Speed=30.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 11.Waypoint 1]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-722180.000000
+Lat=4311390.000000
+Height=0.000000
+
+[Unit 11.Waypoint 2]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-729880.000000
+Lat=4310890.000000
+Height=0.000000
+
+[Unit 11.Waypoint 3]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-721980.000000
+Lat=4300390.000000
+Height=0.000000
+
+[Unit 11.Waypoint 4]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-728880.000000
+Lat=4289290.000000
+Height=0.000000
+
+[Unit 11.Waypoint 5]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-721080.000000
+Lat=4289390.000000
+Height=0.000000
+
+[Unit 11.Waypoint 6]
+Speed=30.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-728480.000000
+Lat=4300290.000000
+Height=0.000000
+
+[Unit 12]
+Name=BR DD V&W#3
+Class=DDV&W
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-612180.000000
+Lat=4342090.000000
+Height=0.000000
+Heading=352.073059
+Speed=30.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 12.Waypoint 1]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-611580.000000
+Lat=4355090.000000
+Height=0.000000
+
+[Unit 12.Waypoint 2]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-622180.000000
+Lat=4350590.000000
+Height=0.000000
+
+[Unit 12.Waypoint 3]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-608380.000000
+Lat=4342690.000000
+Height=0.000000
+
+[Unit 12.Waypoint 4]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-618980.000000
+Lat=4325290.000000
+Height=0.000000
+
+[Unit 12.Waypoint 5]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-604980.000000
+Lat=4326190.000000
+Height=0.000000
+
+[Unit 12.Waypoint 6]
+Speed=30.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-620280.000000
+Lat=4340490.000000
+Height=0.000000
+
+[Unit 13]
+Name=BR DD V&W#4
+Class=DDV&W
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-616380.000000
+Lat=4303890.000000
+Height=0.000000
+Heading=357.646698
+Speed=30.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 13.Waypoint 1]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-614580.000000
+Lat=4312290.000000
+Height=0.000000
+
+[Unit 13.Waypoint 2]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-621980.000000
+Lat=4312690.000000
+Height=0.000000
+
+[Unit 13.Waypoint 3]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-614980.000000
+Lat=4302190.000000
+Height=0.000000
+
+[Unit 13.Waypoint 4]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-626680.000000
+Lat=4295790.000000
+Height=0.000000
+
+[Unit 13.Waypoint 5]
+Speed=30.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-618880.000000
+Lat=4290790.000000
+Height=0.000000
+
+[Unit 13.Waypoint 6]
+Speed=30.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-622180.000000
+Lat=4303590.000000
+Height=0.000000
+
+[Unit 14]
+Name=BR CO Flower#1
+Class=COFlower
+Type=1
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19390201
+DeleteOnLastWaypoint=false
+GameEntryDate=19390214
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-662180.000000
+Lat=4310490.000000
+Height=0.000000
+Heading=272.960999
+Speed=14.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 14.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-668080.000000
+Lat=4310790.000000
+Height=0.000000
+
+[Unit 14.Waypoint 2]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-678380.000000
+Lat=4304290.000000
+Height=0.000000
+
+[Unit 14.Waypoint 3]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-691180.000000
+Lat=4307390.000000
+Height=0.000000
+
+[Unit 14.Waypoint 4]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-702380.000000
+Lat=4302090.000000
+Height=0.000000
+
+[Unit 14.Waypoint 5]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-701280.000000
+Lat=4307290.000000
+Height=0.000000
+
+[Unit 14.Waypoint 6]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-692080.000000
+Lat=4303190.000000
+Height=0.000000
+
+[Unit 14.Waypoint 7]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-681880.000000
+Lat=4307890.000000
+Height=0.000000
+
+[Unit 14.Waypoint 8]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-668380.000000
+Lat=4305790.000000
+Height=0.000000
+
+[Unit 14.Waypoint 9]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-658780.000000
+Lat=4315890.000000
+Height=0.000000
+
+[Unit 14.Waypoint 10]
+Speed=5.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-657880.000000
+Lat=4312490.000000
+Height=0.000000
+
+[Unit 15]
+Name=BR CO Flower#2
+Class=COFlower
+Type=1
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19390201
+DeleteOnLastWaypoint=false
+GameEntryDate=19390214
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-694880.000000
+Lat=4322290.000000
+Height=0.000000
+Heading=103.495728
+Speed=14.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 15.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-690780.000000
+Lat=4321290.000000
+Height=0.000000
+
+[Unit 15.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-683180.000000
+Lat=4322390.000000
+Height=0.000000
+
+[Unit 15.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-671630.000000
+Lat=4317340.000000
+Height=0.000000
+
+[Unit 15.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-662980.000000
+Lat=4321290.000000
+Height=0.000000
+
+[Unit 15.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-662680.000000
+Lat=4317590.000000
+Height=0.000000
+
+[Unit 15.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-669580.000000
+Lat=4319790.000000
+Height=0.000000
+
+[Unit 15.Waypoint 7]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-680080.000000
+Lat=4318890.000000
+Height=0.000000
+
+[Unit 15.Waypoint 8]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-689680.000000
+Lat=4324490.000000
+Height=0.000000
+
+[Unit 15.Waypoint 9]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-699080.000000
+Lat=4322690.000000
+Height=0.000000
+
+[Unit 15.Waypoint 10]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-698080.000000
+Lat=4327290.000000
+Height=0.000000
+
+[Unit 16]
+Name=BR FF Black Swan#1
+Class=FFBlackSwan
+Type=2
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19391101
+DeleteOnLastWaypoint=false
+GameEntryDate=19391103
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-645990.000000
+Lat=4330730.000000
+Height=0.000000
+Heading=96.709808
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 16.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-641590.000000
+Lat=4330880.000000
+Height=0.000000
+
+[Unit 16.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-647590.000000
+Lat=4326880.000000
+Height=0.000000
+
+[Unit 16.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-641990.000000
+Lat=4323880.000000
+Height=0.000000
+
+[Unit 16.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-647890.000000
+Lat=4323380.000000
+Height=0.000000
+
+[Unit 16.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-642640.000000
+Lat=4327180.000000
+Height=0.000000
+
+[Unit 16.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-648190.000000
+Lat=4330380.000000
+Height=0.000000
+
+[Unit 17]
+Name=BR FF Black Swan#2
+Class=FFBlackSwan
+Type=2
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19391101
+DeleteOnLastWaypoint=false
+GameEntryDate=19391103
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-642390.000000
+Lat=4320030.000000
+Height=0.000000
+Heading=96.709808
+Speed=14.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 17.Waypoint 1]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-638040.000000
+Lat=4320230.000000
+Height=0.000000
+
+[Unit 17.Waypoint 2]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-644040.000000
+Lat=4316230.000000
+Height=0.000000
+
+[Unit 17.Waypoint 3]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-638440.000000
+Lat=4313230.000000
+Height=0.000000
+
+[Unit 17.Waypoint 4]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-644340.000000
+Lat=4312730.000000
+Height=0.000000
+
+[Unit 17.Waypoint 5]
+Speed=14.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-639090.000000
+Lat=4316530.000000
+Height=0.000000
+
+[Unit 17.Waypoint 6]
+Speed=14.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-644640.000000
+Lat=4319730.000000
+Height=0.000000
+
+[Unit 18]
+Name=BR PT Boat#1
+Class=PTElco
+Type=0
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-653290.000000
+Lat=4320980.000000
+Height=0.000000
+Heading=175.869141
+Speed=40.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 18.Waypoint 1]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-652340.000000
+Lat=4313280.000000
+Height=0.000000
+
+[Unit 18.Waypoint 2]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-659140.000000
+Lat=4323380.000000
+Height=0.000000
+
+[Unit 18.Waypoint 3]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-660140.000000
+Lat=4310780.000000
+Height=0.000000
+
+[Unit 18.Waypoint 4]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-664940.000000
+Lat=4322280.000000
+Height=0.000000
+
+[Unit 18.Waypoint 5]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-655640.000000
+Lat=4313280.000000
+Height=0.000000
+
+[Unit 18.Waypoint 6]
+Speed=40.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-654140.000000
+Lat=4325380.000000
+Height=0.000000
+
+[Unit 19]
+Name=BR PT Boat#2
+Class=PTElco
+Type=0
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-619040.000000
+Lat=4326580.000000
+Height=0.000000
+Heading=175.869141
+Speed=40.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 19.Waypoint 1]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-618140.000000
+Lat=4319080.000000
+Height=0.000000
+
+[Unit 19.Waypoint 2]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-624940.000000
+Lat=4329180.000000
+Height=0.000000
+
+[Unit 19.Waypoint 3]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-625940.000000
+Lat=4316580.000000
+Height=0.000000
+
+[Unit 19.Waypoint 4]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-630740.000000
+Lat=4328080.000000
+Height=0.000000
+
+[Unit 19.Waypoint 5]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-621440.000000
+Lat=4319080.000000
+Height=0.000000
+
+[Unit 19.Waypoint 6]
+Speed=40.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-619940.000000
+Lat=4331180.000000
+Height=0.000000
+
+[Unit 20]
+Name=BR PT Boat#3
+Class=PTElco
+Type=0
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-693840.000000
+Lat=4316180.000000
+Height=0.000000
+Heading=175.869141
+Speed=40.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 20.Waypoint 1]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-692840.000000
+Lat=4308180.000000
+Height=0.000000
+
+[Unit 20.Waypoint 2]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-699640.000000
+Lat=4318280.000000
+Height=0.000000
+
+[Unit 20.Waypoint 3]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-700640.000000
+Lat=4305680.000000
+Height=0.000000
+
+[Unit 20.Waypoint 4]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-705440.000000
+Lat=4317180.000000
+Height=0.000000
+
+[Unit 20.Waypoint 5]
+Speed=40.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-696140.000000
+Lat=4308180.000000
+Height=0.000000
+
+[Unit 20.Waypoint 6]
+Speed=40.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-694640.000000
+Lat=4320280.000000
+Height=0.000000
+
+[MapZone 1]
+Name=Zone
+Radius=80.000000
+Long=-442300.000000
+Lat=4323900.000000
+Height=0.000000
+
+[MapZone 2]
+Name=Zone 2
+Radius=15.000000
+Long=1186540.000000
+Lat=5284000.000000
+Height=0.000000
+
+[Objective 1]
+ObjName=Raggiungere il quadrante CH74!
+Obj=1
+ObjType=0
+RenownAwarded=0
+ZoneName=Zone
+
+[Objective 2]
+ObjName=Raggiungere la base navale italiana di La Spezia!
+Obj=1
+ObjType=0
+RenownAwarded=0
+ZoneName=Zone 2
+
+[EditorParams]
+InitLongOff=-10988000.000000
+InitLatOff=7578500.000000
+ZoomIndex=0

@@ -1,0 +1,116 @@
+
+[Log Entry 0]
+Type=0
+EntryText=Controllo Cannoni sul Ponte
+
+[Log Entry 1]
+Type=0
+EntryText=I cannoni possono essere usati solamente in emersione e solamente in buone condizioni meteo.
+
+[Log Entry 2]
+Type=0
+EntryText=Per poter utilizzare i cannoni, dovrai assegnare personale all'artiglieria.
+
+[Log Entry 3]
+Type=0
+EntryText=Ci sono 2 modi di assegnare membri dell'equipaggio ai cannoni:
+
+[Log Entry 4]
+Type=0
+EntryText=Puoi selezionare l'Ufficiale di Vedetta (in basso a sinistra sullo schermo di gioco, seleziona l'ufficiale più a destra).
+
+[Log Entry 5]
+Type=0
+EntryText=Selezionare l'opzione "Uomini sul Ponte". Selezionare l'ordine "Uomini ai Pezzi".
+
+[Log Entry 6]
+Type=0
+EntryText=Andare nella schermata di gestione dell'equipaggio (tasto F7).
+
+[Log Entry 7]
+Type=0
+EntryText=Doppio-click sull'icona del cannone sul ponte. Questo assegnerà, in modo automatico, uomini a sufficienza al cannone.
+
+[Log Entry 8]
+Type=0
+EntryText=Per utilizzare il cannone manualmente, selezionare l'icona dell'artiglieria nella parte in alto a sinistra dello schermo di gioco. In alternativa, premere il tasto F10.
+
+[Log Entry 9]
+Type=0
+EntryText=Per avere una vista migliore del tuo obiettivo, utilizzare l'ottica di puntamento premendo il tasto TAB. Nella parte verticale sinistra dell'ottica, è mostrato l'alzo corrente del cannone.
+
+[Log Entry 10]
+Type=0
+EntryText=Muovete il mirino a croce a destra o sinistra tramite i tasti cursore o il mouse per puntare il cannone nella direzione voluta.
+
+[Log Entry 11]
+Type=0
+EntryText=Utilizzare i tasti cursore su è giu o il mouse per regolare l'alzo del cannone.
+
+[Log Entry 12]
+Type=0
+EntryText=Premere il tasto SPAZIO per sparare.
+
+[Log Entry 13]
+Type=0
+EntryText=Per ordinare all'equipaggio di utilizzare il cannone, selezionare l'Ufficiale di Vedetta (in basso a sinistra sullo schermo di gioco, seleziona l'ufficiale più a destra).
+
+[Log Entry 14]
+Type=0
+EntryText=Selezionare l'opzione "Uomini sul Ponte". Una serie di ordini verrà mostrata con delle icone.
+
+[Log Entry 15]
+Type=0
+EntryText=Fuoco a Volontà - ordina all'equipaggio di sparare liberamente agli obiettivi a portata di tiro.
+
+[Log Entry 16]
+Type=0
+EntryText=Cessate il Fuoco - ordina all'equipaggio di smettere di sparare.
+
+[Log Entry 17]
+Type=0
+EntryText=Sparare a Corto Raggio - ordina all'equipaggio di sparare ad obiettivi fino a 1000m.
+
+[Log Entry 18]
+Type=0
+EntryText=Sparare a Medio Raggio - ordina all'equipaggio di sparare ad obiettivi fino a 3000m.
+
+[Log Entry 19]
+Type=0
+EntryText=Sparare a Lungo Raggio - ordina all'equipaggio di sparare ad obiettivi fino a 5000m.
+
+[Log Entry 20]
+Type=0
+EntryText=Mirare al Ponte di Comando - ordina di mirare al Ponte di Comando del bersaglio.
+
+[Log Entry 21]
+Type=0
+EntryText=Mirare agli Armamenti - ordina di mirare agli armamenti del bersaglio.
+
+[Log Entry 22]
+Type=0
+EntryText=Mirare alla Linea di Galleggiamento - ordina di mirare alla linea di galleggiamento del bersaglio.
+
+[Log Entry 23]
+Type=0
+EntryText=Mirare allo Scafo - ordina di mirare allo Scafo del bersaglio.
+
+[PageImg]
+Nb=8
+Mat0=
+Crop0=
+Mat1=
+Crop1=
+Mat2=
+Crop2=
+Mat3=
+Crop3=
+Mat4=
+Crop4=
+Mat5=
+Crop5=
+Mat6=
+Crop6=
+Mat7=
+Crop7=
+

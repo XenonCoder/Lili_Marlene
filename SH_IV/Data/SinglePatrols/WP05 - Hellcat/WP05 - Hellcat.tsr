@@ -1,0 +1,7 @@
+
+[Text]
+MissionBriefing=Atollo Midway|8 settembre 1944|#WP05 - Hellcat.tga#0,0,400,256||BRIEFING|Con la nostra avanzata nelle Isole Mariana e con l'espansione della nostra copertura aerea, ormai le uniche acque sicure per i Giapponesi sono quelle del Mar del Giappone. Equipaggiato con l'ultimo modello di sonar, i nostri sommergibili cercheranno di superare gli stretti minati attorno alle acque territoriali giapponesi fino a penetrare nel Mar del Giappone||OBIETTIVI|Infiltrarsi nel Mar del Giappone ed affondare le navi mercantili.
+MissionTitle=Tra le mine
+WP05_Message01=ZONA PATTUGLIAMENTO RAGGIUNTA X OBIETTIVO COMPLETATO X PROCEDERE CON IL PATTUGLIAMENTO X
+WP05_Message02=TONNELLAGGIO NEMICO AFFONDATO SODDISFACENTE X MISSIONE COMPLETATA X PROCEDERE AL PORTO PER RIFORNIMENTI X
+WP05_Objective1=Pattugliare il Mar del Giappone.

@@ -1,0 +1,411 @@
+
+[Mission]
+Title=Torpedo Course
+MissionType=0
+MissionDataType=0
+Year=1939
+Month=6
+Day=15
+Hour=17
+Minute=20
+Fog=0
+FogRand=0
+Clouds=0
+CloudsRand=0
+Precip=0
+PrecipRand=0
+WindHeading=0
+WindSpeed=2.000000
+WindRand=0
+WeatherRndInterval=5
+SeaType=0
+Briefing=Leutenant z. See,||In questo esame dovrai dimostrare di sapere usare in modo appropriato l'arma principale degli U-Boat: i siluri.||There Avrai disponibili 5 bersagli||Per superare l'esame, devi affondare come minimo il cargo più grande e altre 3 navi.|
+
+[Unit 1]
+Name=Newberg
+Class=KSQ
+Type=102
+Origin=British
+Side=0
+Commander=0
+CargoExt=2
+CargoInt=0
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1904425.000000
+Lat=6625435.000000
+Height=0.000000
+Heading=134.877838
+Speed=1.500000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 1.Waypoint 1]
+Speed=0.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1905012.500000
+Lat=6624850.000000
+Height=0.000000
+
+[Unit 1.Waypoint 2]
+Speed=0.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903590.000000
+Lat=6608960.000000
+Height=0.000000
+
+[Unit 2]
+Name=Janet Marie
+Class=KLS
+Type=102
+Origin=British
+Side=0
+Commander=0
+CargoExt=2
+CargoInt=0
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1904070.000000
+Lat=6626180.000000
+Height=0.000000
+Heading=66.158958
+Speed=4.000000
+CrewRating=2
+DelayMin=142560
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 2.Waypoint 1]
+Speed=2.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1905275.000000
+Lat=6626712.500000
+Height=0.000000
+
+[Unit 2.Waypoint 2]
+Speed=2.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1920310.000000
+Lat=6632020.000000
+Height=0.000000
+
+[Unit 3]
+Name=BR Mercantile Costiero#1
+Class=KSQ
+Type=102
+Origin=British
+Side=0
+Commander=0
+CargoExt=4
+CargoInt=0
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1903670.000000
+Lat=6624610.000000
+Height=0.000000
+Heading=333.434998
+Speed=4.000000
+CrewRating=1
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 3.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903070.000000
+Lat=6625810.000000
+Height=0.000000
+
+[Unit 3.Waypoint 2]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1893010.000000
+Lat=6639770.000000
+Height=0.000000
+
+[Unit 4]
+Name=BR Mercantile Costiero#2
+Class=KSQ
+Type=102
+Origin=British
+Side=0
+Commander=0
+CargoExt=1
+CargoInt=1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1905520.000000
+Lat=6623280.000000
+Height=0.000000
+Heading=269.817993
+Speed=8.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 4.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902850.000000
+Lat=6623230.000000
+Height=0.000000
+
+[Unit 4.Waypoint 2]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1888930.000000
+Lat=6623180.000000
+Height=0.000000
+
+[Unit 5]
+Name=BR Piccola Petroliera#1
+Class=OTSF
+Type=101
+Origin=British
+Side=0
+Commander=0
+CargoExt=0
+CargoInt=2
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1905850.000000
+Lat=6626130.000000
+Height=0.000000
+Heading=179.171997
+Speed=7.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 5.Waypoint 1]
+Speed=7.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1905850.000000
+Lat=6623860.000000
+Height=0.000000
+
+[Unit 5.Waypoint 2]
+Speed=7.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1907760.000000
+Lat=6605820.000000
+Height=0.000000
+
+[Unit 6]
+Name=Tipo VIIB#1
+Class=SSTypeVIIB
+Type=200
+Origin=German
+Side=2
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380601
+DeleteOnLastWaypoint=false
+GameEntryDate=19380625
+GameEntryTime=0
+GameExitDate=19430304
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1904530.000000
+Lat=6624570.000000
+Height=-12.000000
+Heading=0.256930
+Speed=1.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 6.Waypoint 1]
+Speed=1.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1904540.000000
+Lat=6626800.000000
+Height=-12.000000
+
+[Objective 1]
+ObjName=Affondare i mercantili costieri
+Obj=0
+ObjType=0
+RenownAwarded=100
+ClassName=KSQ
+No=3
+
+[Objective 2]
+ObjName=Affondare il cargo piu' grande
+Obj=0
+ObjType=0
+RenownAwarded=100
+ClassName=KLS
+No=1
+
+[Objective 3]
+ObjName=Affondare la piccola petroliera
+Obj=0
+ObjType=1
+RenownAwarded=100
+ClassName=OTSF
+No=1
+
+[Objective 4]
+ObjName=Affondare tutti i mercantili
+Obj=2
+ObjType=1
+RenownAwarded=300
+Tonnage=15000
+TonnageType=1
+
+[Trigger 1]
+TrigName=Newberg Sunk
+Type=3
+UnitName=Newberg
+
+[Trigger 2]
+TrigName=CM1 Sunk
+Type=3
+UnitName=BR Mercantile Costiero#1
+
+[Trigger 3]
+TrigName=CM2 Sunk
+Type=3
+UnitName=BR Mercantile Costiero#2
+
+[Trigger 4]
+TrigName=Janet Sunk
+Type=3
+UnitName=Janet Marie
+
+[Trigger 5]
+TrigName=Tanker Sunk
+Type=3
+UnitName=BR Piccola Petroliera#1
+
+[Trigger 6]
+TrigName=All sunk
+Type=5
+Tonnage=15000
+TonnageType=1
+
+[Event 1]
+EventName=Newberg Sunk
+Type=0
+TriggersNo=1
+Trigger1=Newberg Sunk
+Message=Buon Lavoro, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 2]
+EventName=CM1 sunk
+Type=0
+TriggersNo=1
+Trigger1=CM1 Sunk
+Message=Continua così!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 3]
+EventName=CM2 Sunk
+Type=0
+TriggersNo=1
+Trigger1=CM2 Sunk
+Message=Continua l'ottimo lavoro, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 4]
+EventName=Janet Sunk
+Type=0
+TriggersNo=1
+Trigger1=Janet Sunk
+Message=Ben fatto, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 5]
+EventName=Tanker Sunk
+Type=0
+TriggersNo=1
+Trigger1=Tanker Sunk
+Message=Eccellente, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 6]
+EventName=All sunk
+Type=0
+TriggersNo=1
+Trigger1=All sunk
+Message=Hai superato l'esame sul lancio siluri in modo davvero lodevole!|Congratulazioni, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=true
+
+[EditorParams]
+InitLongOff=-21586524.000000
+InitLatOff=10788675.000000
+ZoomIndex=4

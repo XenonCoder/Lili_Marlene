@@ -1,0 +1,564 @@
+
+[Mission]
+Title=Bismarck
+MissionType=0
+MissionDataType=0
+Year=1941
+Month=5
+Day=27
+Hour=9
+Minute=0
+Fog=0
+FogRand=0
+Clouds=2
+CloudsRand=2
+Precip=0
+PrecipRand=0
+WindHeading=0
+WindSpeed=12.000000
+WindRand=2
+WeatherRndInterval=2
+SeaType=0
+Briefing=Atlantico del Nord, Maggio 1941||BRIEFING|La Home Fleet è stata mobilitata per la caccia alla Bismarck. La posizione corrente della Bismarck è la griglia BE. Tutti gli U-Boot nell'area hanno ordine di convergere nella zona indicata e attaccare qualsiasi nave da guerra Britannica.||OBIETTIVO PRINCIPALE|Intercettare e affondare qualsiasi nave da guerra britannica.
+
+[Group 1]
+GroupName=Battlegroup
+CommandUnitName=HMS King George V
+Category=0
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=true
+EvolveFromEntryDate=false
+
+[Group 1.Unit 1]
+Name=HMS Rodney
+Class=BBNelson
+Type=11
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19410501
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-1616643.750000
+Lat=5827915.500000
+Height=0.000000
+Heading=348.072998
+Speed=12.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 2]
+Name=HMS Mashona
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19410501
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-1617565.250000
+Lat=5827036.500000
+Height=0.000000
+Heading=348.072998
+Speed=12.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 3]
+Name=HMS King George V
+Class=BBKingGeorgeV
+Type=11
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19410501
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-1616745.375000
+Lat=5826990.000000
+Height=0.000000
+Heading=348.072998
+Speed=12.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 1.Unit 3.Waypoint 1]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1617052.000000
+Lat=5829902.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 2]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1615562.000000
+Lat=5832602.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 3]
+Speed=20.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1599152.000000
+Lat=5876392.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 4]
+Speed=27.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1239300.000000
+Lat=6060600.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 5]
+Speed=15.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-516300.000000
+Lat=6172600.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 6]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-413100.000000
+Lat=6156600.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 7]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-387300.000000
+Lat=6157400.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 8]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-361300.000000
+Lat=6172400.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 9]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-338100.000000
+Lat=6182200.000000
+Height=0.000000
+
+[Group 1.Unit 3.Waypoint 10]
+Speed=0.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-330700.000000
+Lat=6183400.000000
+Height=0.000000
+
+[Group 1.Unit 4]
+Name=HMS Tartar
+Class=DDTribal
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19410501
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-1617670.250000
+Lat=5827707.000000
+Height=0.000000
+Heading=348.072998
+Speed=12.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 2]
+GroupName=CarrierGroup
+CommandUnitName=BR CV Illustrious#1
+Category=0
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=true
+EvolveFromEntryDate=true
+
+[Group 2.Unit 1]
+Name=BR CV Illustrious#1
+Class=CVIllustrious
+Type=9
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19390101
+DeleteOnLastWaypoint=true
+GameEntryDate=19390101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=true
+Long=-1585650.000000
+Lat=5706130.000000
+Height=0.000000
+Heading=17.693172
+Speed=18.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 2.Unit 1.Waypoint 1]
+Speed=21.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1557440.000000
+Lat=5794560.000000
+Height=0.000000
+
+[Group 2.Unit 1.Waypoint 2]
+Speed=18.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1206940.000000
+Lat=5988060.000000
+Height=0.000000
+
+[Group 2.Unit 1.Waypoint 3]
+Speed=29.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-904940.000000
+Lat=6041060.000000
+Height=0.000000
+
+[Group 2.Unit 1.Waypoint 4]
+Speed=17.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-547940.000000
+Lat=6162060.000000
+Height=0.000000
+
+[Group 2.Unit 1.Waypoint 5]
+Speed=0.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-433440.000000
+Lat=6164460.000000
+Height=0.000000
+
+[Group 2.Unit 2]
+Name=BR DD J Class#2
+Class=DDJClass
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19390101
+GameEntryTime=0
+GameExitDate=19451201
+GameExitTime=0
+EvolveFromEntryDate=true
+Long=-1584810.000000
+Lat=5707050.000000
+Height=0.000000
+Heading=17.693172
+Speed=18.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 2.Unit 3]
+Name=BR DD J Class#1
+Class=DDJClass
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19390101
+GameEntryTime=0
+GameExitDate=19451201
+GameExitTime=0
+EvolveFromEntryDate=true
+Long=-1586290.000000
+Lat=5707060.000000
+Height=0.000000
+Heading=17.693172
+Speed=18.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 2.Unit 4]
+Name=BR DD J Class#3
+Class=DDJClass
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19390101
+GameEntryTime=0
+GameExitDate=19451201
+GameExitTime=0
+EvolveFromEntryDate=true
+Long=-1585390.000000
+Lat=5705320.000000
+Height=0.000000
+Heading=17.693172
+Speed=18.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 2.Unit 5]
+Name=BR DD J Class#4
+Class=DDJClass
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19390101
+GameEntryTime=0
+GameExitDate=19451201
+GameExitTime=0
+EvolveFromEntryDate=true
+Long=-1586600.000000
+Lat=5705420.000000
+Height=0.000000
+Heading=17.693172
+Speed=18.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Unit 1]
+Name=U-556
+Class=SSTypeVIIC
+Type=200
+Origin=German
+Side=2
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19410201
+DeleteOnLastWaypoint=false
+GameEntryDate=19410206
+GameEntryTime=0
+GameExitDate=19410627
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-1616320.000000
+Lat=5828735.000000
+Height=-12.000000
+Heading=309.385010
+Speed=2.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 1.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1617427.000000
+Lat=5829212.000000
+Height=-4.000000
+
+[Unit 2]
+Name=Bismarck
+Class=BBBismarck
+Type=11
+Origin=German
+Side=2
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19400501
+DeleteOnLastWaypoint=false
+GameEntryDate=19400824
+GameEntryTime=0
+GameExitDate=19410527
+GameExitTime=2300
+EvolveFromEntryDate=false
+Long=-1613442.000000
+Lat=5828972.000000
+Height=0.000000
+Heading=274.714996
+Speed=13.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 2.Waypoint 1]
+Speed=17.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1615672.000000
+Lat=5828612.000000
+Height=0.000000
+
+[Unit 2.Waypoint 2]
+Speed=17.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1616562.000000
+Lat=5828042.000000
+Height=0.000000
+
+[Unit 2.Waypoint 3]
+Speed=17.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1616542.000000
+Lat=5827062.000000
+Height=0.000000
+
+[Unit 2.Waypoint 4]
+Speed=17.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1615852.000000
+Lat=5826202.000000
+Height=0.000000
+
+[Unit 2.Waypoint 5]
+Speed=17.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1614352.000000
+Lat=5826282.000000
+Height=0.000000
+
+[Unit 2.Waypoint 6]
+Speed=17.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-1613682.000000
+Lat=5827812.000000
+Height=0.000000
+
+[Objective 1]
+ObjName=Affondare ogni nave da guerra britannica.
+Obj=0
+ObjType=0
+RenownAwarded=0
+ClassName=BBKingGeorgeV
+No=1
+
+[Trigger 1]
+TrigName=Rodney Destroyed
+Type=4
+ClassName=BBNelson
+No=1
+
+[Event 1]
+EventName=Update Obj
+Type=1
+TriggersNo=1
+Trigger1=Rodney Destroyed
+Obj=Affondare ogni nave da guerra britannica.
+Cmd=4
+
+[EditorParams]
+InitLongOff=-21595500.000000
+InitLatOff=10798608.000000
+ZoomIndex=6

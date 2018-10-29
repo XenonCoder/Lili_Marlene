@@ -1,0 +1,190 @@
+;equipment cfg file, loadout definitions are in the platform cfg file
+
+;Basic Loadout values
+[Equipment 1]
+NodeName=B01
+LinkName=NULL
+
+[Equipment 2]
+NodeName=B02
+LinkName=NULL
+
+[Equipment 3]
+NodeName=B03
+LinkName=NULL
+
+[Equipment 4]
+NodeName=B04
+LinkName=NULL
+
+[Equipment 5]
+NodeName=B05
+LinkName=NULL
+
+[Equipment 6]
+NodeName=B06
+LinkName=NULL
+
+[Equipment 7]
+NodeName=B07
+LinkName=NULL
+
+[Equipment 8]
+NodeName=B08
+LinkName=NULL
+
+[Equipment 9]
+NodeName=B09
+LinkName=NULL
+
+[Equipment 10]
+NodeName=B10
+LinkName=NULL
+
+[Equipment 11]
+NodeName=B11
+LinkName=NULL
+
+[Equipment 12]
+NodeName=B12
+LinkName=NULL
+
+[Equipment 13]
+NodeName=B13
+LinkName=NULL
+
+[Equipment 14]
+NodeName=B14
+LinkName=NULL
+
+[Equipment 15]
+NodeName=B15
+LinkName=NULL
+
+[Equipment 16]
+NodeName=B16
+LinkName=NULL
+
+
+;8xDepth Charge loadout definition
+[Equipment 17]
+NodeName=B01
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+[Equipment 18]
+NodeName=B02
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+[Equipment 19]
+NodeName=B03
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+[Equipment 20]
+NodeName=B04
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+[Equipment 21]
+NodeName=B05
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+[Equipment 22]
+NodeName=B06
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+[Equipment 23]
+NodeName=B07
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+[Equipment 24]
+NodeName=B08
+LinkName=AirDepthCharge
+Loadout=8xDepth Charge
+
+;8x250Kg loadout definition
+[Equipment 25]
+NodeName=B01
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+[Equipment 26]
+NodeName=B02
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+[Equipment 27]
+NodeName=B03
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+[Equipment 28]
+NodeName=B04
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+[Equipment 29]
+NodeName=B05
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+[Equipment 30]
+NodeName=B06
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+[Equipment 31]
+NodeName=B07
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+[Equipment 32]
+NodeName=B08
+LinkName=Bomb250Kg
+Loadout=8x250Kg Bombs
+
+;4x500Kg Bombs loadout definition
+[Equipment 33]
+NodeName=B01
+LinkName=Bomb500Kg
+Loadout=4x500Kg Bombs
+
+[Equipment 34]
+NodeName=B02
+LinkName=Bomb500Kg
+Loadout=4x500Kg Bombs
+
+[Equipment 35]
+NodeName=B03
+LinkName=NULL
+Loadout=4x500Kg Bombs
+
+[Equipment 36]
+NodeName=B04
+LinkName=NULL
+Loadout=4x500Kg Bombs
+
+[Equipment 37]
+NodeName=B05
+LinkName=Bomb500Kg
+Loadout=4x500Kg Bombs
+
+[Equipment 38]
+NodeName=B06
+LinkName=Bomb500Kg
+Loadout=4x500Kg Bombs
+
+[Equipment 39]
+NodeName=B07
+LinkName=NULL
+Loadout=4x500Kg Bombs
+
+[Equipment 40]
+NodeName=B08
+LinkName=NULL
+Loadout=4x500Kg Bombs

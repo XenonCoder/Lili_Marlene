@@ -1,0 +1,118 @@
+#120 first is the separator character and the number after it represents tab length (in pixels)
+
+# CONTROLLI DI NAVIGAZIONE
+ `C0xFFFFAAFF`CONTROLLI VELOCITA'`C0x0`
+
+~	Macchine ferme
+1	Macchine avanti piano
+2	Macchine avanti 1/3
+3	Macchine avanti normale
+4	Macchine avanti tutta
+5	Macchine avanti a tutta forza
+6	Macchine indietro piano			
+7	Macchine indietro normale
+8	Macchine indietro tutta
+9	Macchine indietro massima
+
+ `C0xFFFFAAFF`DIRECTION CONTROLS`C0x0`
+
+[	Tutto a babordo (Sinistra)
+]	Tutto a tribordo (Destra)
+'	Timone a al centro
+
+ `C0xFFFFAAFF`DEPTH CONTROLS`C0x0`
+
+S	Emersione
+D	Immersione
+A	Mantieni profondità
+P	Quota periscopio
+;	Quota snorkel
+C	Immersione rapida
+E	Emersione rapida
+Z	Navigazione silenziosa
+
+# CONTROLLI STAZIONI
+F2	Camera di manovra
+F3	Periscopio d'attacco
+F4	Ponte
+F5	Mappa di navigazione
+F6	TDC (Calcolatore dati siluri)
+F7	Situazione Danni/Equipaggio
+F8	Obiettivi missione
+F9	Radio/Sonar
+F10	Cannone di coperta
+F11	Contraerea
+F12	Visuale esterna
+R	Radio
+H	Idrofono
+U	UZO
+O	Periscopio d'osservazione
+B	Binocolo
+M	Messaggi Radio
+K	Giornale di bordo
+F	Contraerea principale
+T	Contraerea secondaria 1
+G	Contraerea secondaria 2
+I	Gestione siluri/munizioni
+
+# CONTROLLI D'ATTACCO		
+Invio		Lancia siluro
+Spazio	        Spara con cannone/contraerea
+Q	        Apri portello tubo selezionato
+W	        Chiudi portello tubo selezionato
+Y	        Selezione ciclica tubi siluri
+L	        Blocca la visuale sul bersaglio
+N	        Manuale di riconoscimento
+
+ `C0xFFFFAAFF`STRUMENTI MAPPA`C0x0`
+
+Del	        Cancella oggetto
+Shift+Del	Cancella tutti gli oggetti dello strumento selezionato
+Ctrl+Left	Inserici punto
+
+# ALTRI CONTOLLI
+ `C0xFFFFAAFF`COMPRESSIONE TEMPORALE`C0x0`
+
+NumPad -	Diminuisci compressione temporale
+NumPad +	Aumenta compressione temporale
+Indietro	Pausa
+=	        Rotta/Vista
+-	        Vista/Rotta               
+
+
+ `C0xFFFFAAFF`EVENT CAMERA`C0x0`
+
+V	Massimizza/Minimizza l'Event Camera 
+/	Chiudi Event Camera
+
+ `C0xFFFFAAFF`CONTROLLI PERISCOPIO E SNORKEL`C0x0`
+
+Ins		Alza periscopio d'osservazione
+Delete	        Abbassa periscopio d'osservazione
+PageUp	        Alza periscopio d'attaco
+PageDown	Abbassa periscopio d'attacco
+X	        Alza/abbassa Snorkel
+
+ `C0xFFFFAAFF`CONTROLLI VISUALE ESTERNA`C0x0`
+
+.		Blocca visuale sull'U-Boot
+Freccia SU	Muovi telecamera avanti
+Freccia Giù	Muovi telcamera indietro
+Freccia Sx	Gira telecamera Sx
+Freccia Dx	Gira telecamera Dx
+NumPad 7	Alza telecamera
+NumPad 1	Lower teleCamera
+NumPad 9	Visuale telecamera in alto
+NumPad 3	Visuale telecamera in basso
+
+Shift+Freccie	Movimento veloce telecamera
+Ctrl+Freccie	Movimento lento telecamera
+
+Tasto Sx mouse	Seleziona
+Tasto Dx mouse	Ritorna alla visuale precedente
+Rotella mouse	Zoom
+
+Esc	        Opzioni
+NumPad Del	Nascondi/Mostra interfaccia
+Ctrl+F11	Cattura Schermata
+Ctrl+F8	        Mostra FrameRate corrente

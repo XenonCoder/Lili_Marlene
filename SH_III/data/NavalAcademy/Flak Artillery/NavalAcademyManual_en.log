@@ -1,0 +1,115 @@
+
+[Log Entry 0]
+Type=0
+EntryText=Controllo dell'Artiglieria Anti-aerea.
+
+[Log Entry 1]
+Type=0
+EntryText=L'artiglieria AA puo' essere utilizzata solamente in superficie, e solamente in buone condizioni meteo.
+
+[Log Entry 2]
+Type=0
+EntryText=Per rendere operativo il vostro armamento AA, dovrete assegnare degli uomini dell'equipaggio al loro utilizzo.
+
+[Log Entry 3]
+Type=0
+EntryText=Ci sono due modi per assegnare del personale all'armamento AA:
+
+[Log Entry 4]
+Type=0
+EntryText=Selezionare l'Ufficiale di Vedetta (angolo in basso a sinistra dello schermo, l'ufficiale più a destra.
+Selezionate l'opzione "Uomini alle mitragliere AA".
+
+[Log Entry 5]
+Type=0
+EntryText=Selezionate l'opzione "Ordini agli uomini alla AA"
+
+[Log Entry 6]
+Type=0
+EntryText=Oppure andando nella schermata di gestione dell'equipaggio (tasto F7). Fate doppio-click sull'icona
+dell'artiglieria AA. Verranno assegnati, in modo automatico, uomini a sufficienza per rendere operativa la postazione.
+
+[Log Entry 7]
+Type=0
+EntryText=Per utilizzare l'artiglieria AA in modo automatico. Selezionate l'icona dell'artiglieria AA nella parte in alto a destra dello schermo di gioco. In alternativa, potete utilizzare il tasto F11 (se disponibile più di una mitragliera, utilizzare i tasti F, G e t).
+
+[Log Entry 8]
+Type=0
+EntryText=Per ingrandire la vista del bersaglio, premere il tasto TAB.
+
+[Log Entry 9]
+Type=0
+EntryText=Muovete il sistema di puntamento con il mouse per puntare l'artiglieria nella direzione voluta. Utilizzate il mouse 
+per regolare la gittata e seguire il vostro obiettivo.
+
+[Log Entry 10]
+Type=0
+EntryText=Premere il tasto sinistro del mouse per sparare.
+
+[Log Entry 11]
+Type=0
+EntryText=Per ordinare all'equipaggio di utilizzare l'artiglieria AA, selezionate l'ufficiale di Vedetta (angolo in basso a sinistra dello schermo di gioco, selezionate l'ufficiale più a sinistra).
+
+[Log Entry 12]
+Type=0
+EntryText=Selezionate l'opzione "Uomini alle mitragliere AA". Una serie di ordini disponibili sarà mostrata sotto forma di icone.
+
+[Log Entry 13]
+Type=0
+EntryText=Fuoco a Volontà - permette all'equipaggio di sparare a qualsiasi obiettivo a portata utile.
+
+[Log Entry 14]
+Type=0
+EntryText=Cessare il Fuoco - ordina all'equipaggio di interrompere l'attacco.
+
+[Log Entry 15]
+Type=0
+EntryText=Sparare a Corto Raggio - Ordina all'equipaggio di sparare fino a 300 (500) metri.
+
+[Log Entry 16]
+Type=0
+EntryText=Sparare a Medio Raggio - Ordina all'equipaggio di sparare fino a 500 (1000) metri.
+
+[Log Entry 17]
+Type=0
+EntryText=Sparare a Lungo Raggio - Ordina all'equipaggio di sparare fino a 1000 (1500) metri.
+
+[Log Entry 18]
+Type=0
+EntryText=Colpire i Caccia - Ordina all'equipaggio di privilegiare i Caccia come obiettivo.
+
+[Log Entry 19]
+Type=0
+EntryText=Colpire i Bombardieri - Ordina all'equipaggio di privilegiare i Bombardieri come obiettivo.
+
+[Log Entry 20]
+Type=0
+EntryText=Colpire liberamente - lascia libera scelta all'equipaggio sulla scelta degli obiettivi da colpire.
+
+[Log Entry 21]
+Type=0
+EntryText=Colpire Obiettivi in avvicinamento - Ordina all'equipaggio di colpire gli obiettivi in avvicinamento.
+
+[Log Entry 22]
+Type=0
+EntryText=Colpire qualsiasi obiettivo - Ordina all'equipaggio di colpire qualsiasi obiettivo anche se non in avvicinamento.
+
+[PageImg]
+Nb=8
+Mat0=
+Crop0=
+Mat1=
+Crop1=
+Mat2=
+Crop2=
+Mat3=
+Crop3=
+Mat4=
+Crop4=
+Mat5=
+Crop5=
+Mat6=
+Crop6=
+Mat7=
+Crop7=
+

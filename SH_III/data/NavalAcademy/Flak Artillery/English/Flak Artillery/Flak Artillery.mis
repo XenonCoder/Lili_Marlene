@@ -1,0 +1,893 @@
+
+[Mission]
+Title=Flak Artillery
+MissionType=0
+MissionDataType=0
+Year=1939
+Month=6
+Day=15
+Hour=16
+Minute=20
+Fog=0
+FogRand=0
+Clouds=0
+CloudsRand=1
+Precip=0
+PrecipRand=0
+WindHeading=0
+WindSpeed=2.000000
+WindRand=0
+WeatherRndInterval=5
+SeaType=0
+Briefing=Leutenant z. See,||Questa esercitazione simulera' uno scontro verso i tuoi peggiori nemici, gli aerei.||Dovrai affrontare 10 aerei tra caccia e bombardieri. Prova ad abbatterne il maggior numero possibile per capire quale sia il modo migliore di affrontarli.||Per passare questa esercitazione devi abbattere piu' di cinque aerei nemici.|
+
+[Group 1]
+GroupName=Stormo1
+CommandUnitName=BR FB Hurricane#4
+Category=1
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=false
+EvolveFromEntryDate=false
+
+[Group 1.Unit 1]
+Name=BR FB Hurricane#4
+Class=FBHurricaneMk1
+Type=300
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1901775.000000
+Lat=6611820.000000
+Height=75.000000
+Heading=15.357400
+Speed=130.000000
+CrewRating=0
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 1.Unit 1.Waypoint 1]
+Speed=250.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903179.000000
+Lat=6616651.000000
+Height=90.000000
+
+[Group 1.Unit 1.Waypoint 2]
+Speed=170.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902315.000000
+Lat=6616450.000000
+Height=80.000000
+
+[Group 1.Unit 1.Waypoint 3]
+Speed=170.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902248.000000
+Lat=6615434.000000
+Height=70.000000
+
+[Group 1.Unit 1.Waypoint 4]
+Speed=170.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903612.000000
+Lat=6613335.000000
+Height=80.000000
+
+[Group 1.Unit 1.Waypoint 5]
+Speed=170.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903673.500000
+Lat=6614508.500000
+Height=80.000000
+
+[Group 1.Unit 1.Waypoint 6]
+Speed=170.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903343.750000
+Lat=6615543.000000
+Height=80.000000
+
+[Group 1.Unit 1.Waypoint 7]
+Speed=150.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902799.000000
+Lat=6615609.000000
+Height=80.000000
+
+[Group 1.Unit 1.Waypoint 8]
+Speed=150.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902450.000000
+Lat=6614154.000000
+Height=80.000000
+
+[Group 1.Unit 1.Waypoint 9]
+Speed=150.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=1902316.000000
+Lat=6614209.000000
+Height=80.000000
+
+[Group 1.Unit 2]
+Name=BR FB Hurricane#6
+Class=FBHurricaneMk1
+Type=300
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1901804.000000
+Lat=6611722.000000
+Height=60.000000
+Heading=15.357400
+Speed=130.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Unit 1]
+Name=BR TB Swordfish#1
+Class=TBSSwordfish
+Type=303
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1903960.000000
+Lat=6616260.000000
+Height=70.000000
+Heading=229.264999
+Speed=90.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 1.Waypoint 1]
+Speed=110.000000
+Radius=0.000000
+Loop=2
+LoopProbability=25
+Long=1902235.000000
+Lat=6614420.000000
+Height=70.000000
+
+[Unit 1.Waypoint 2]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902080.000000
+Lat=6615105.000000
+Height=70.000000
+
+[Unit 1.Waypoint 3]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902985.000000
+Lat=6614645.000000
+Height=70.000000
+
+[Unit 1.Waypoint 4]
+Speed=110.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=1902930.000000
+Lat=6615255.000000
+Height=70.000000
+
+[Unit 2]
+Name=BR TB Swordfish#2
+Class=TBSSwordfish
+Type=303
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1899790.000000
+Lat=6617360.000000
+Height=50.000000
+Heading=134.520142
+Speed=90.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 2.Waypoint 1]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=25
+Long=1902975.000000
+Lat=6614430.000000
+Height=50.000000
+
+[Unit 2.Waypoint 2]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1901470.000000
+Lat=6615095.000000
+Height=50.000000
+
+[Unit 2.Waypoint 3]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903525.000000
+Lat=6614760.000000
+Height=50.000000
+
+[Unit 2.Waypoint 4]
+Speed=110.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=1902190.000000
+Lat=6615500.000000
+Height=50.000000
+
+[Unit 3]
+Name=BR TB Swordfish#3
+Class=TBSSwordfish
+Type=303
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1899110.000000
+Lat=6612940.000000
+Height=50.000000
+Heading=66.725670
+Speed=90.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 3.Waypoint 1]
+Speed=110.000000
+Radius=0.000000
+Loop=3
+LoopProbability=50
+Long=1903530.000000
+Lat=6615305.000000
+Height=50.000000
+
+[Unit 3.Waypoint 2]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1901520.000000
+Lat=6614420.000000
+Height=50.000000
+
+[Unit 3.Waypoint 3]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903820.000000
+Lat=6615390.000000
+Height=50.000000
+
+[Unit 3.Waypoint 4]
+Speed=110.000000
+Radius=0.000000
+Loop=1
+LoopProbability=100
+Long=1902320.000000
+Lat=6615270.000000
+Height=50.000000
+
+[Unit 4]
+Name=BR TB Swordfish#4
+Class=TBSSwordfish
+Type=303
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1904170.000000
+Lat=6613100.000000
+Height=50.000000
+Heading=307.636414
+Speed=90.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 4.Waypoint 1]
+Speed=110.000000
+Radius=0.000000
+Loop=3
+LoopProbability=25
+Long=1902335.000000
+Lat=6614515.000000
+Height=50.000000
+
+[Unit 4.Waypoint 2]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1901610.000000
+Lat=6614850.000000
+Height=50.000000
+
+[Unit 4.Waypoint 3]
+Speed=110.000000
+Radius=0.000000
+Loop=0
+LoopProbability=50
+Long=1903450.000000
+Lat=6614720.000000
+Height=50.000000
+
+[Unit 4.Waypoint 4]
+Speed=110.000000
+Radius=0.000000
+Loop=1
+LoopProbability=100
+Long=1902750.000000
+Lat=6615080.000000
+Height=50.000000
+
+[Unit 5]
+Name=BR TB Swordfish#5
+Class=TBSSwordfish
+Type=303
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1900260.000000
+Lat=6615800.000000
+Height=60.000000
+Heading=113.853996
+Speed=90.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 5.Waypoint 1]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=0
+Long=1903186.000000
+Lat=6614514.000000
+Height=60.000000
+
+[Unit 5.Waypoint 2]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1901470.000000
+Lat=6614545.000000
+Height=60.000000
+
+[Unit 5.Waypoint 3]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903505.000000
+Lat=6615070.000000
+Height=60.000000
+
+[Unit 5.Waypoint 4]
+Speed=110.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=1901950.000000
+Lat=6615020.000000
+Height=60.000000
+
+[Unit 6]
+Name=BR FB Hurricane#5
+Class=FBHurricaneMk1
+Type=300
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1904150.000000
+Lat=6614620.000000
+Height=70.000000
+Heading=275.839996
+Speed=130.000000
+CrewRating=0
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 6.Waypoint 1]
+Speed=150.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1901980.000000
+Lat=6614900.000000
+Height=70.000000
+
+[Unit 6.Waypoint 2]
+Speed=150.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902095.000000
+Lat=6615325.000000
+Height=70.000000
+
+[Unit 6.Waypoint 3]
+Speed=150.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903165.000000
+Lat=6614320.000000
+Height=70.000000
+
+[Unit 6.Waypoint 4]
+Speed=150.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1902355.000000
+Lat=6615735.000000
+Height=70.000000
+
+[Unit 6.Waypoint 5]
+Speed=150.000000
+Radius=0.000000
+Loop=1
+LoopProbability=100
+Long=1902838.000000
+Lat=6614190.000000
+Height=70.000000
+
+[Unit 7]
+Name=BR TB Swordfish#6
+Class=TBSSwordfish
+Type=303
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1903640.000000
+Lat=6617835.000000
+Height=50.000000
+Heading=203.236160
+Speed=90.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 7.Waypoint 1]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=25
+Long=1902375.000000
+Lat=6614180.000000
+Height=50.000000
+
+[Unit 7.Waypoint 2]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1901975.000000
+Lat=6614985.000000
+Height=50.000000
+
+[Unit 7.Waypoint 3]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1903350.000000
+Lat=6614620.000000
+Height=50.000000
+
+[Unit 7.Waypoint 4]
+Speed=110.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=1902720.000000
+Lat=6615440.000000
+Height=50.000000
+
+[Unit 8]
+Name=BR TB Swordfish#7
+Class=TBSSwordfish
+Type=303
+Origin=British
+Side=0
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=false
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1904990.000000
+Lat=6613370.000000
+Height=50.000000
+Heading=293.328674
+Speed=90.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 8.Waypoint 1]
+Speed=110.000000
+Radius=0.000000
+Loop=3
+LoopProbability=25
+Long=1902130.000000
+Lat=6614579.000000
+Height=50.000000
+
+[Unit 8.Waypoint 2]
+Speed=110.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1901965.000000
+Lat=6615180.000000
+Height=50.000000
+
+[Unit 8.Waypoint 3]
+Speed=110.000000
+Radius=0.000000
+Loop=0
+LoopProbability=50
+Long=1903265.000000
+Lat=6614435.000000
+Height=50.000000
+
+[Unit 8.Waypoint 4]
+Speed=110.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=1903173.000000
+Lat=6615209.000000
+Height=50.000000
+
+[Unit 9]
+Name=Tipo VIIB#1
+Class=SSTypeVIIB
+Type=200
+Origin=German
+Side=2
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380601
+DeleteOnLastWaypoint=false
+GameEntryDate=19380625
+GameEntryTime=0
+GameExitDate=19430304
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1902603.000000
+Lat=6614835.000000
+Height=0.000000
+Heading=0.000000
+Speed=0.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Objective 1]
+ObjName=Abbattere tutti gli aerei siluranti
+Obj=0
+ObjType=1
+RenownAwarded=100
+ClassName=TBSSwordfish
+No=7
+
+[Objective 2]
+ObjName=Abbattere tutti i caccia
+Obj=0
+ObjType=1
+RenownAwarded=100
+ClassName=FBHurricaneMk1
+No=3
+
+[Objective 3]
+ObjName=Abbattere tutti gli aerei
+Obj=0
+ObjType=1
+RenownAwarded=200
+ClassName=FBHurricaneMk1
+No=20
+
+[Objective 4]
+ObjName=Abbattere almeno 5 aerei per passare l'esame
+Obj=0
+ObjType=0
+RenownAwarded=100
+ClassName=TBSSwordfish
+No=20
+
+[Trigger 1]
+TrigName=Abbattuti tutti i caccia
+Type=2
+ObjName=Abbattere tutti i caccia
+ObjState=0
+
+[Trigger 2]
+TrigName=Abbattuti tutti gli aerei siluranti
+Type=2
+ObjName=Abbattere tutti gli aerei siluranti
+ObjState=0
+
+[Trigger 3]
+TrigName=5 Swordfishes
+Type=4
+ClassName=TBSSwordfish
+No=5
+
+[Trigger 4]
+TrigName=4 Swordfishes
+Type=4
+ClassName=TBSSwordfish
+No=4
+
+[Trigger 5]
+TrigName=3 Swordfishes
+Type=4
+ClassName=TBSSwordfish
+No=3
+
+[Trigger 6]
+TrigName=2 Swordfishes
+Type=4
+ClassName=TBSSwordfish
+No=2
+
+[Trigger 7]
+TrigName=1 Hurricane
+Type=4
+ClassName=FBHurricaneMk1
+No=1
+
+[Trigger 8]
+TrigName=2 Hurricane
+Type=4
+ClassName=FBHurricaneMk1
+No=2
+
+[Trigger 9]
+TrigName=3 Hurricane
+Type=4
+ClassName=FBHurricaneMk1
+No=3
+
+[Trigger 10]
+TrigName=Obiettivo Primario
+Type=2
+ObjName=Abbattere almeno 5 aerei per passare l'esame
+ObjState=0
+
+[Event 1]
+EventName=Abbattuti tutti gli aerei
+Type=1
+TriggersNo=2
+Trigger1=Abbattuti tutti i caccia
+Trigger2=Abbattuti tutti gli aerei siluranti
+Obj=Abbattere tutti gli aerei
+Cmd=4
+
+[Event 2]
+EventName=Hurricane tutti abbattuti
+Type=0
+TriggersNo=1
+Trigger1=Abbattuti tutti i caccia
+Message=Lavoro Eccellente, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 3]
+EventName=Swordfishes tutti abbattuti
+Type=0
+TriggersNo=1
+Trigger1=Abbattuti tutti gli aerei siluranti
+Message=Bel Colpo, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=false
+
+[Event 4]
+EventName=Congratulazioni
+Type=0
+TriggersNo=2
+Trigger1=Abbattuti tutti i caccia
+Trigger2=Abbattuti tutti gli aerei siluranti
+Message=Leutenant z. See, hai superato l'esame di Artiglieria Anti-Aerea.||Congratulazioni!
+RepeatedUntilReceived=true
+Critical=true
+
+[Event 5]
+EventName=Obiettivo Primario 5S
+Type=1
+TriggersNo=1
+Trigger1=5 Swordfishes
+Obj=Abbattere almeno 5 aerei per passare l'esame
+Cmd=4
+
+[Event 6]
+EventName=Obiettivo Primario 4S 1H
+Type=1
+TriggersNo=2
+Trigger1=4 Swordfishes
+Trigger2=1 Hurricane
+Obj=Abbattere almeno 5 aerei per passare l'esame
+Cmd=4
+
+[Event 7]
+EventName=Obiettivo Primario 3S 2H
+Type=1
+TriggersNo=2
+Trigger1=3 Swordfishes
+Trigger2=2 Hurricane
+Obj=Abbattere almeno 5 aerei per passare l'esame
+Cmd=4
+
+[Event 8]
+EventName=Obiettivo Primario 2S 3H
+Type=1
+TriggersNo=2
+Trigger1=2 Swordfishes
+Trigger2=3 Hurricane
+Obj=Abbattere almeno 5 aerei per passare l'esame
+Cmd=4
+
+[Event 9]
+EventName=Passato
+Type=0
+TriggersNo=1
+Trigger1=Obiettivo Primario
+Message=hai superato l'esame di Artiglieria Anti-Aerea, Leutenant z. See!
+RepeatedUntilReceived=true
+Critical=true
+
+[EditorParams]
+InitLongOff=37158424.000000
+InitLatOff=336200.000000
+ZoomIndex=4

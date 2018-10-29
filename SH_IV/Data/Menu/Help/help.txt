@@ -1,0 +1,125 @@
+#120 first is the separator character and the number after it represents tab length (in pixels)
+
+F1	Aiuto
+Esc	Menu
+
+# CONTROLLI STAZIONI
+F2	Camera di Manovra
+F3	Mappa di Navigazione
+F4	Periscopio di Attacco
+F5	Plancia
+F6	Cannone
+F7	Contraerea
+F8	Sonar
+F9	Radar
+F10	Gestione Sommergibile
+F11	Visuale Esterna
+F12	Pannello del Comandante
+
+T	Gestione Siluri
+Y	Gestione Danni
+U	TBT (Target Bearing Transmiter)
+O	Periscopio di Osservazione
+K	Giornale di Bordo
+M	Messaggi Radio
+
+# CONTROLLI NAVIGAZIONE
+ `C0xFFFFAAFF`Controlli Motore`C0x0`
+
+~	Motori Fermi
+
+1	Avanti 1/3
+2	Avanti Adagio
+3	Avanti Normale
+4	Avanti Tutta
+5	Avanti Emergenza
+
+6	Indietro 1/3
+7	Indietro Normale
+8	Indietro Tutta
+9	Indietro Emergenza
+
+Z	Navigazione Silenziosa
+
+ `C0xFFFFAAFF`Controlli Timone`C0x0`
+
+[	Tutta la barra a sinistra
+]	Tutta la barra a dritta
+'	Barra al centro
+
+ `C0xFFFFAAFF`Controlli Profondità`C0x0`
+
+S	Emersione
+A	Mantenere la profondità
+D	Immersione
+E	Emersione Rapida
+C	Immersione Rapida
+P	Quota Periscopio
+
+# CONTROLLI ATTACCO
+
+Invio	Fuoco 
+Spazio	Fuoco
+Tab	Zoom
+Q	Aprire/Chiudere il tubo lanciasiluri selezionato
+W	Rotazione Ciclica Tubi
+L	Blocca Bersaglio
+J	Lanciare Falsi Bersagli
+
+ `C0xFFFFAAFF`Strumenti Mappa`C0x0`
+
+Canc	Cancella Oggetti
+Shift+CAnc	Cancella tutti gli oggetti dello strumento selezionato
+Ctrl+Click SX	Centra la Mappa sul sommergibile
+
+# ALTRI CONTROLLI
+
+ `C0xFFFFAAFF`Compressione Temporale`C0x0`
+
+NumPad -	Aumenta Compressione Temporale
+NumPad +	Diminuisci Compressione Temporale
+Backspace	Pausa
+=	Prua sulla visuale
+-	Visuale sulla prua
+
+ `C0xFFFFAAFF`Camera Eventi`C0x0`
+
+V	Ingrandisci/Rimpicciolisci Camera Eventi
+/	Disattiva Camera Eventi
+,	Unità Precedente
+.	Unità Seguente
+
+
+ `C0xFFFFAAFF`Controlli Periscopio`C0x0`
+
+Ins	Alza Periscopio di Osservazione
+Canc	Abbassa Periscopio di Osservazione
+PAGE UP	Alza Periscopio di Attacco
+PAGE DOWN	Abbassa Periscopio di Attacco
+
+
+ `C0xFFFFAAFF`Controlli Visuale Esterna`C0x0`
+Freccia Su		Muovi avanti la visuale
+Freccia Giu		Muovi indietro la visuale
+Freccia Sinistra		Gira a sinistra la visuale
+Freccia Destra		Gira a destra la visuale
+SHIFT + Cursor	Movimento Veloce Visuale
+CTRL + Cursor	Movimento Lento Visuale
+Tasto SX Mouse	Seleziona
+Tasto DX Mouse	Torna alla precedente unità
+Rotellina Mouse  	Aumenta/Diminuisce lo Zoom
+
+NumPad Canc	Mostra/Nascondi interfaccia
+Ctrl+F11	Screenshot
+Ctrl+F8		Mostra Frame Rate
+
+# COMANDANTE DEL CONVOGLIO
+F2	Ordini di Scorta
+F3	Ordini Convoglio
+F4	Controli Visuale
+F5	Mappa Navigazione
+
+N	Unità Precendente
+M	Unità Seguente
+C	Scorta Precedente
+V	Scorta Seguente

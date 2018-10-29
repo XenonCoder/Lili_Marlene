@@ -1,0 +1,22 @@
+;equipment file definition, see cfg for loadout definitions
+
+;Basic Loadout value
+[Equipment 1]
+NodeName=B01
+LinkName=NULL
+
+[Equipment 2]
+NodeName=B02
+LinkName=NULL
+
+;2x450Kg Bomb Loadout
+[Equipment 3]
+NodeName=B01
+LinkName=Bomb500Kg
+Loadout=2x450Kg Bombs
+
+[Equipment 4]
+NodeName=B02
+LinkName=Bomb500Kg
+Loadout=2x450Kg Bombs
+

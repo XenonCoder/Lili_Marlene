@@ -1,0 +1,11 @@
+
+[Text]
+MissionBriefing=Est di Samar|25 Ottobre 1944|#SM05 Battle off Samar.tga#0,0,400,256||BRIEFING|Gli episodi decisivi della battaglia del golfo di Leyte hanno luogo proprio qui. La terza flotta americana si dirige avanti tutta a nord per attaccare le portaerei di Ozawa e ha così aperto la strada alle potenti navi da guerra di Kurita, che ora può raggiungere le spiagge da sbarco americane senza problemi, se non fosse per due piccoli ostacoli: le portaerei di scorta a supporto delle spiagge ed il tuo sommergibile.||Dopo aver condotto in questa base il guardiamarina G. W. Rudolph per ricevere cure mediche più efficaci, ti trovi infatti in una buona posizione per attaccare la Flotta Imperiale.||Se incontrassero una resistenza più forte del previsto, forse i Giapponesi rinuncerebbero a portare a termine l'assalto.||OBIETTIVO PRIMARIO|Proteggi la flotta delle portaerei.|
+SM05_Objective01=Affondare le maggiori navi da guerra giapponesi
+SM05_Objective02=Affondare la Yamato!
+MissionTitle=Battaglia di Samar
+SM05_Message01=PROTEGGERE LA FLOTTA DELLE PORTAEREI X
+SM05_Message02=PERDITE GIAPPONESI SUFFICIENTI X LA FLOTTA IMPERIALE SI RITIRA X MISSIONE COMPIUTA X
+SM05_Message03=lA YAMATO E' STATA DISTRUTTA X OBIETTIVO COMPLETATO X
+SM05_Message04=LA FLOTTA AMERICANA STA SUBENDO GRAVI PERDITE X IL GENERALE WITHDRAWAL HA ORDINATO X L'ANNULLAMENTO DELLA MISSIONE X
+SM05_Message05=LA FLOTTA IMPERIALE STA SUBENDO GRAVI PERDITE X MISSIONE COMPLETATA X CONTINUA L'ATTACCO X

@@ -1,0 +1,10 @@
+
+[Text]
+WP02_Message01=RAPPORTO CONFERMATO. IN POSIZIONE X RESTARE IN LINEA X INGAGGIARE IL NEMICO CON GIUDIZIO X
+WP02_Message02=FORZE NEMICHE AFFONDATE X ARRECATO DANNO ACCETTABILE X TORNARE ALLA BASE DI MIDWAY X
+WP02_Message03=BENTORNATO A MIDWAY X MISSIONE COMPLETATA X
+MissionBriefing=Manila, Filippine|8 dicembre 1941|#WP02 - Philippines Attack.tga#0,0,400,256||BRIEFING|Le Filippine sono sotto assedio e la Marina Imperiale sta assaltando le isole da tutte le direzioni. Dobbiamo ritardare l'invasione delle forze nipponiche in modo da creare delle posizioni difensive. I nostri sommergibili formeranno una linea di pattugliamento e riporteranno i movimenti della flotta nemica ed ingaggeranno le unità da sbarco.||OBIETTIVO|Ingaggiare le forze da sbarco giapponesi.
+MissionTitle=Attacco alle Filippine
+WP02_Objective01=Raggiungere la zona di invasione
+WP02_Objective02=Affondare le unità da sbarco nemiche
+WP02_Objective03=Tornare alla base di Midway

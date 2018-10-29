@@ -1,0 +1,7 @@
+
+[Text]
+MissionBriefing=Mar dei Coralli|7 maggio 1942 |#SM03 Battle of Coral Sea.tga#0,0,400,256||BRIEFING|Informazioni attendibili ci dicono che i Giapponesi si stanno spingendo ancora una volta a sud, verso l'Australia, questa volta con l'intenzione di sbarcare a Port Arthur per conquistare la Nuova Guinea del sud.||Le due portaerei disponibili della flotta americana verranno subito inviate per intralciare l'operazione nipponica, ma dato lo scarso tempo a disposizione per prepararsi, soltanto quattro dei nostri sommergibili sono riusciti a raggiungere l'area.||Questo risulterà essere il primo scontro quasi esclusivamente tra portaerei, che farà presagire il declino delle navi da guerra e la crescente importanza delle forze aeree. ||OBIETTIVO PRIMARIO|Affonda le portaerei giapponesi.|
+MissionTitle=Battaglia nel Mar dei Coralli
+SM03_Objective01=Affonda i grandi incrociatori giapponesi
+SM03_Objective02=Affonda una portaerei giapponese
+SM03_Message01=CONFERMATE GRAVI PERDITE INFLITTE ALLA FLOTTA IMPERIALE X CONFERMATO AFFONDAMENTO PORTAEREI GIAPPONESE X MISSIONE COMPLETATA X

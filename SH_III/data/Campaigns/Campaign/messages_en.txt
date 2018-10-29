@@ -1,0 +1,44 @@
+#Date (Begin Transmision)	Time (Begin Transmision)	Date (End Transmision)	Time (End Transmision)	"Message Type ( 0 = transmit once , 1 = transmit until received )"	Probability (%)	Retransmision Interval (minutes)	@FROM@ ^TO^ Message content
+19390903	1330	19390903	2005	1	100	20	@Oberkommando der KriegsMarine@^Unità tedesche in navigazione^Sono cominciate le ostilità contro la Gran Bretagna e i suoi alleati||Raeder
+19400115	1200	19400117	1200	1	100	60	@Oberkommando der KriegsMarine@^...^Il Porto di Danzica è nuovamente operativo.
+19400419	1200	19400421	1200	1	100	60	^...^"Una nuova base per gli U-Boote è operativa a Trondheim, sulle coste norvegesi.||Bdu
+19400604	1000	19400606	1000	1	100	20	^...^"Interrompere l'uso del detonatore magnetico. Regolare i siluri a ""Impatto"".||Bdu
+19400630	1200	19400701	1200	1	100	60	^...^"Una nuova base per gli U-Boote è operativa a Bourdeaux, sul Golfo di Biscaglia.||Bdu
+19400706	1200	19400708	1200	1	100	60	^...^"Una nuova base per gli U-Boote è operativa a Bergen, sulle coste norvegesi.||Bdu
+19400713	1200	19400715	1200	1	100	60	^...^Una nuova base per gli U-Boote è operativa a Lorient.||Bdu
+19400828	1200	19400830	1200	1	100	60	^...^Una nuova base per gli U-Boote è operativa a Brest.||Bdu
+19400923	1200	19400925	1200	1	100	60	^...^Una nuova base per gli U-Boote è operativa a St.Nazaire.||Bdu
+19401009	1200	19401011	1200	1	100	60	^...^"Per supportare le operazioni nel Mare del Nord, una nuova base per gli U-Boote è operativa a Kristiansand.||Bdu
+19410622	900	19410622	2100	1	100	20	"@Oberkommando der KriegsMarine@^...^Da questa mattina siamo in guerra contro l'Unione Sovietica. Dobbiamo liberare l'Europa dalla minaccia bolscevica.||Raeder
+19410801	1200	19410803	1200	1	100	60	^...^Il porto italiano di La Spezia è disponibile per le operazioni.||Bdu
+19411112	1200	19411114	1200	1	100	60	^...^La base greca di Salamis è disponibile per le operazioni.||Bdu
+19411209	1200	19411211	1200	1	100	20	^...^Siamo in guerra contro gli Stati Uniti, le navi americane devono essere attaccate.||Bdu
+19411221	1200	19411223	1200	1	100	60	^...^La base di La Rochelle, sul Golfo di Biscaglia,è disponibile per le operazioni.||Bdu
+19420101	1200	19420103	1200	1	100	60	@Oberkommando der KriegsMarine@^...^Il porto di Riga fa di nuovo parte della Grande Germania.||Raeder
+19420202	1200	19420204	1200	1	100	60	^...^Una nuova base per gli U-Boote è operativa a Pola.||Bdu
+19420306	1200	19420308	1200	1	100	60	^...^Una nuova base per gli U-Boote è operativa a Narvik.||Bdu
+19421027	1200	19421029	1200	1	100	60	^...^Il porto rumeno di Costanza nel Mar Nero, è ora disponibile per operazioni.||Bdu
+19430301	1200	19430303	1200	1	100	60	^...^A tutti gli U-Boote in rotta perso l'Estremo Oriente.Le nostre basi a Penang e a Soerabaja sono ora disponibili per operazioni.||Bdu
+19430406	1200	19430408	1200	1	100	60	^...^Una nuova base per gli U-Boote è operativa a Tolone, nel Golfo di Biscaglia.||Bdu
+19430627	1200	19430629	1200	1	100	60	^...^La base di La Spezia non è più operativa. Rivedete i vostri piani di pattugliamento.||Bdu
+19430903	800	19430905	800	1	100	20	^...^Il nuovo Governo Italiano ha firmato un armistizio con le Forze Alleate. Tutte i battelli in Mediterraneo rivedano, di conseguenza, le loro pianificazioni di missione.
+19431013	100	19431015	100	1	100	20	^...^Il Governo Italiano ha annunciato che da oggi è in stato di guerra contro la Germania. Le forze italiane sono da considerarsi ostili con effetto immediato.
+19440729	1200	19440731	1200	1	100	60	^...^La nostra base di Pola non è più operativa. Rivedete i vostri piani di pattugliamento.||Bdu
+19440817	1200	19440819	1200	1	100	60	^...^Stiamo abbandonando le basi francesi. Tolone non è più operativa. Rivedete i vostri piani di pattugliamento.||Bdu
+19440824	800	19440826	800	1	100	20	@Oberkommando der KriegsMarine@^...^Il Govermo Rumeno, nostro alleato, è stato destituito. Con effetto immediato, ogni nave rumena va vista come potenziale nemico.||Dönitz
+19440825	1200	19440827	1200	1	100	60	^...^Bordeaux non è più operativa. Rivedete i vostri piani di pattugliamento.||Bdu
+19440825	1200	19440827	1200	1	100	60	^...^In seguito al crollo del regime di Antonescu in Romania, ora siamo in guerra con questi ex-alleati. La base di Konstantza non è più operativa.||Bdu
+19440903	1200	19440905	1200	1	100	20	^...^La base di Brest è stata abbandonata.||Bdu
+19440909	1200	19440911	1200	1	100	60	^...^Lorient non è più operativa.||Bdu
+19440909	1200	19440911	1200	1	100	60	^...^La nostra base a Salamis non è più operativa.||Bdu
+19441201	1200	19441203	1200	1	100	60	^...^Danzica non è più sotto il nostro controllo.||Bdu
+19450131	1200	19450202	1200	1	100	60	^...^Il porto di Riga non è più in nostre mani.||Bdu
+19450423	1200	19450425	1200	1	100	60	^...^La nostra base a Trondheim non è più operativa.||Bdu
+19450501	1200	19450503	1200	1	100	60	^...^Narvik non è più operativa.||Bdu
+19450503	1200	19450505	1200	1	100	60	^...^Bergen non è più operativa.||Bdu
+19450505	1200	19450507	1200	1	100	60	^...^La Rochelle è stata catturata, e non è più operativa.||Bdu
+19450509	1100	19450513	1100	1	100	20	Nel maggio del 1945, alla resa della Germania, il Grande Ammiraglio Karl Dönitz si rivolse così agli equipaggi degli U-Boote:||"Sommergibilisti!|Avete alle spalle sei anni di guerra, durante i quali vi siete battuti da leoni. E' soltanto la schiacciante superiorità materiale del nemico, quella che ci ha messo a pagliolo così che proseguire nella lotta ci sarebbe ormai impossibile. Avete deposto le armi dopo aver sostenuto una lotta eroica che non ha l'eguale, rimanendo invitti e senza macchia. Ricordiamo insieme i camerati caduti che hanno suggellato con la vita il giuramento di fedeltà al Fuhrer e alla patria. Camerati! Conservate lo spirito con il quale avete combattuto per il Reich a beneficio del nostro paese. Evviva la Germania!|Il vostro||		GRANDE AMMIRAGLIO
+							
+							
+							
+						 

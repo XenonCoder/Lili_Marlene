@@ -1,0 +1,2925 @@
+[STRINGS]
+
+MaxStrings=8000
+
+; page main
+0=
+1=INIZIA GIOCO
+2=ACCADEMIA
+3=CAMPAGNA AMERICANA
+4=MISSIONE SINGOLA
+5=MULTIGIOCATORE
+6=MUSEO
+7=OPZIONI
+8=MISSIONE
+9=Siluro in attesa di essere caricato
+10=Si
+11=No
+12=OK
+13=Chi vuol essere vincente in mare, deve sempre attaccare!
+
+14=GRADO;BASE
+15=FLOTTIGLIA;DIARIO DEL COMANDANTE
+16=ONORIFICENZE ALL'EQUIPAGGIO
+
+17=ARSENALE
+18=Procedi
+19=STANZA OPERAZIONI
+
+20=PATTUGLIAMENTI
+21=ONORIFICENZE
+22=ASSI SOMMERGIBILISTI
+
+23=MEDAGLIE
+24=CITAZIONI
+25=AVANZAMENTI DI GRADO
+
+26=Dirigendo in %s
+27=Caricamento  in %s
+28=Scaricamento in %s
+29=Auto Caricamento
+30=Indietro
+31=OPZIONI
+
+32=Nome carriera già in uso. Sovrascrivere?
+33=Missione Completata
+34=Giornale di bordo
+
+35=%s||%s
+36=compartimento.
+37=sottosistema
+38=DM
+39=UR
+40=UT
+41=Nessun danno da riparare
+42=Stato
+43=hh/mm
+44=Comp. e Sottosistemi
+
+45=Cambio base di assegnazione: %s
+46=Caccia iniziata#NEWLINE#Base di Partenza: #BASE#
+47=Richiedere trasferimento!
+48=Fama non sufficiente!
+49=RICONOSCIMENTI
+50=MENU CARRIERA
+51=SMG
+52=EQUIPAGGIO
+53=DIARI
+54=MISSIONE
+55=OPZIONI
+56=RITORNA AL MENÙ
+57=Flottiglia non più operativa. Sei trasferito a %s.
+58=CAMPAGNA
+59=Sei sicuro?
+
+60=Conferma
+61=GIOCABILITA'
+62=VIDEO
+63=SUONO
+64=CARICA/SALVA
+
+65=SINTESI MISSIONI
+66=SINTESI CARRIERA
+67=ONORIFICENZE
+68=ASSI SOMMERGIBILISTI
+69=ARCHIVIO EQUIPAGGIO
+70=TRASFERIMENTO
+71=USCITA DAL GIOCO
+
+72=Sommergibili
+73=Torretta
+74=Armamento
+75=Siluri
+76=Equipaggiamento
+77=Specials
+
+78=Nascondi
+79=Guarda il tutorial
+
+80=%s %s%s
+81=EQUIPAGGIO;Marinai:       %02d  %02d  %02d|Sottufficiali: %02d  %02d %02d|Ufficiali:     %02d  %02d  %02d|Totale:   %02d  %02d  %02d
+82=UFFICIALI
+83=SOTTUFFICIALI
+84=MARINAI
+85=FAMA ATTUALE
+86=%.02f
+87=Conferma
+88=Cancella
+89=Min Max Crt
+90=PAUSA
+
+91=Nessuna richiesta
+92=Richiesta negata
+93=Richiesta accettata
+94=Il caricamento di questo salvataggio cancellerà tutti i salvataggi successivi ad esso. Vuoi procedere?
+95=Pattuglia %3d
+96=Giocatore
+
+97=Troppo personale! Sbarca gli uomini in eccesso!
+98=Pattugliamento: Data Inizio: %s %d, %d Data Fine: %s %d, %d - %s
+99=Questo nome è già in uso!
+100=Sei|sicuro?
+101=Troppi ufficiali!
+102=Abbandonare la missione?
+103=Troppi ufficiali in caserma!
+104=Ufficiale già selezionato!
+105=Fama non sufficiente!
+106=Troppi Sottufficiali!
+107=Compartimento pieno!
+108=Troppi marinai!
+109=Impossibile riparare questo compartimento in immersione!
+
+110=Tipo Arma:
+111=Peso:
+112=Dimensioni:
+113=Raggio:
+114=Testata:
+115=Rendimento:
+116=MOLO - Wilhelshaven
+117=U-110
+118=Mk37
+119=DCTN F17
+120=FFV Tp42 Series
+
+130=CARRIERA
+131=Manuale Tecnico
+132=Già caricato.
+133=Carriera terminata!
+
+;default name for the player starting a career
+134=John Doe
+
+
+140=Nr. Pattugliamento: %d|Data Inizio: %02d/%02d/%04d|Luogo di Partenza: %s|Data Fine: %02d/%02d/%04d|Luogo di Arrivo: %s|Sommergibile: %s|Flottiglia: %s|Emblema: %s
+141=|Mercantili Affondati: %d|Tonnellaggio Mercantili: %.02f|Navi da Guerra Affondate: %d|Tonnellaggio Navi da Guerra: %.02f|Tipo Navi militari Affondate|  Corazzate: %d|  Incrociatori: %d|  Portaerei: %d|  Portaerei Scorta: %d|  Incrociatori Pesanti: %d|  Incrociatori Leggeri: %d|  Incrociatori Ausiliari: %d|  Cacciatorpediniere: %d|  Cacciatorpediniere Scorta: %d|  Fregate: %d|  Posamine: %d|  Dragamine: %d|  Corvette: %d| Pattugliatori: %d
+142=|Aerei Abbattuti: %d|Ufficiali Morti: %d|Sottufficiali Morti: %d|Marinai Morti: %d
+143=|Esperienza Equipaggio: %d| Integrità Scafo: %.02f|Fama (per pattugliamento): %.02f
+144=Impossibile caricare questa Carriera. Il sommergibile è stato distrutto.
+145=Nessuna caccia da farsi
+146=Unita distrutta: #UNIT#
+147=Fine caccia
+
+148=Equipaggio non sufficente in %s; efficenza
+
+150=Nome Carriera: %s %s|%s|Fama attuale %.02f|Totale Pattugliamenti: %d|Data Inizio Carriera: %02d/%02d/%04d|Data Attuale: %02d/%02d/%04d|Flottiglia Attuale: %s|Luogo: %s|Sommergibile: %s|Emblema: %s|Totale Ufficiali Morti: %d|Totale Sottufficiali Morti: %d|Totale Marinai Morti: %d|Flottiglie: %s
+151=Ormeggia a: %s
+152=Termina Carriera
+153=Deceduto
+154=Lista Profili
+155=
+156=Cancella Profilo
+157=Niente da caricare
+158=Niente da cancellare
+159=Nessun profilo da caricare/cancellare
+
+160=Seaman
+161=Senior Seaman
+162=Chief Seaman
+163=Warrant Officer
+164=Senior Warrant Officer
+165=Chief Sr. W. Officer
+166=Sub-Lieutenant
+167=Lieutenant Jr.
+168=Lieutenant Sr.
+169=Lieutenant Sr.
+170=Lieutenant Jr.;Lieutenant Sr.  
+171=Lieutenant Sr.;Lieutenant Commander
+172=Lieutenant Commander;Commander
+173=Commander;Captain Jr.
+174=;Captain
+
+175=Torna al Menu
+
+180=In superficie, gli uomini di vedetta rappresentano l'occhio del sommergibile. È importante avere degli uomini efficienti  in questa posizione, per segnalare tempestivamente possibili bersagli o eventuali minacce.
+181=Uno dei compartimenti più importanti del sommergibile, la sala radio mantiene i contatti con il Comando quando si è in superficie. In immersione, l'idrofono diventa l'orecchio del sommergibile, capace di rilevare le navi a distanze maggiori della portata visiva e in grado di tenere sotto controllo la situazione tattica a corto raggio.
+182=È il cervello del sommergibile, racchiude tutti i sistemi necessari a governare il sommergibile
+183=I motori Diesel sono il mezzo di propulsione per gli spostamenti in emersione e per lunghe distanze. Avarie su questi apparati rendono il sommergibile praticamente immobile.
+184=I motori elettrici, sono i mezzi di propulsione per il movimento in immersione del sommergibile.
+185=Per il lancio dei siluri, questa sezione rappresenta il potenziale offensivo del tuo sommergibile. Uomini efficienti e motivati in questo compartimento ridurranno di molto i tempi di ricarica dei siluri.
+186=L'area principale per il riposo dell'equipaggio. È di vitale importanza per avere uomini riposati e pronti ad affrontare la battaglia. Gli uomini senza un compito assegnato dovrebbero essere messi in quest'area per favorire un loro recupero di forze.
+187=Gli uomini senza un compito assegnato dovrebbero essere messi in entrambe le aree di riposo per favorire un loro recupero di forze.
+188=Di secondaria importanza in fase di attacco, la camera siluri di poppa ospita comunque meccanismi importanti per le manovre del sommergibile.
+189=Postazione di tiro dell'artiglieria. Dovrebbe essere utilizzata per attaccare mercantili solitari, obiettivi per cui sarebbe sprecato l'utilizzo di un siluro oppure per le navi a cui è necessario dare un colpo di grazia.
+190=Contro gli aerei, la migliore difesa di un sommergibile è l'immersione rapida. Quando questo non è possibile, l'artiglieria contraerea potrebbe essere l'unica minaccia ai velivoli attaccanti.
+191=L'equipaggio che non ha compiti assegnati, può essere inserito in una squadra di Controllo Danni, destinata alle riparazioni critiche a bordo del sommergibile.
+
+200=Comandante
+201=Anno di Inizio
+202=Flottiglia
+203=Difficoltà
+204=Inizia Campagna
+
+206=Inserisci nuovo profilo
+210=MENÙ
+211=GIOCA
+212=Accetta
+213=v %d.%d
+
+220=Ufficiali
+221=Sottufficiali
+222=Marinai
+
+230=Qualifiche
+231=Decorazioni
+232=Abilità:
+233=Pattuglie:
+234=Fama:
+
+240=Seleziona Gradi Americani
+
+245=Plancia
+246=RT/SO
+247=Camera di Manovra
+248=Motori Diesel
+249=Motori Elettrici
+250=Siluri di prua
+251=Alloggi di prua
+252=Alloggi di poppa
+253=Siluri di poppa
+254=Cannone di Plancia
+255=A.A.
+256=Squadra Riparazioni
+
+260=Sei attualmente assegnato alla #FLOTILLA#, situata a #BASE#. Le opzioni di trasferimento disponibili sono:
+
+261=#TITLE# #NAME#,#NEWLINE##NEWLINE# Sei stato assegnato al commando del #SUBMARINENAME#, un sommergibile classe#SUBMARINECLASS# in forza alla #FLOTILLA#.#NEWLINE##NEWLINE#Presentare rapporto a #BASE#, entro e non oltre il #DATE#.
+
+262= Trasferimento avvenuto
+
+263=La nave è alla deriva
+264=L’aereo è stato abbattuto
+265=L’aereo è stato avvistato
+266=Ricompense
+267=E’ stata cambiata la base
+268=La carriera si è conclusa
+269=La flottiglia è stata cambiata nella: #FLOTILLA#
+
+270=Killed
+271=Nuovo comando
+272=L’obiettivo è stato raggiunto
+273=E’ stato ricevuto un nuovo obiettivo
+274=Le è stato offerto il comando della Flottiglia
+275=Le è stato offerto un nuovo comando
+276=Avanzamento di grado raggiunto
+277=Attacco in emersione
+278=Il siluro è stato lanciato
+279=Inizio pattugliamento
+
+300=Esperto Armamenti
+301=Comune di 2a Cl.
+302=Comune di 1a Cl.
+360=Normale
+361=Ferito
+362=Morto
+
+365=Vedetta
+366=Artigliere
+367=Mitragliere
+368=Radiotelegrafista
+369=Timoniere
+370=Macchinista
+371=Silurista
+372=Medico
+373=Riparatore
+
+380=Alloggi allagati!
+381=Compartimento allagato!
+
+399=Posizione non accessibile
+400=Seppellire i morti?
+401=Alloggi pieni!
+402=Equipaggio non disponibile
+403=Impossibile spostare nello stesso compartimento!
+404=Impossibile armare le artiglierie con il mare mosso!
+405=Impossibile seppellire i morti in immersione!
+406=Spazio insufficiente!
+407=Mettere equipaggio a riposo?
+408=Alloggi pieni!
+409=Impossibile assegnare equipaggio deceduto alla squadra riparazioni!
+410=Impossibile assegnare equipaggio ferito alla squadra riparazioni!
+411=Equipaggio non disponibile!
+412=Equipaggio non disponibile!
+413=Già negli alloggi!
+414=Equipaggio insufficente!
+415=Alloggi distrutti!
+416=Compartimento distrutto!
+417=Ufficiali Insufficienti! Imbarcali!
+418=Sottufficiali Insufficienti! Imbarcali!
+419=Marinai Insufficienti! Imbarcali!
+420=Troppi Ufficiali! Sbarcali!
+421=Troppi Sottufficiali! Sbarcali!
+422=Troppi Marinai! Sbarcali!
+
+423=Riparazione Danni
+424=Attacco in immersione
+425=Navigazione in Immersione
+426=Attacco in superficie
+427=Navigazione in superficie
+428=Navigazione Anti-Aerea
+
+430=Equipaggio di Reclute
+431=Equipaggio normale
+432=Equipaggio di Veterani
+433=Seleziona Configurazione Equipaggio
+
+450=In Costruzione
+
+451=Periscopio d'Attacco
+452=Periscopio d'Osservazione
+453=Antenna Radio
+454=Antenna Radar
+
+455=Idrofono
+456=Radio
+457=Radar
+
+458=Pompa principale
+459=Serbatoio carburante
+
+460=Motore Diesel di sinistra
+461=Motore Diesel di dritta
+
+462=Motore Elettrico di dritta
+463=Motore Elettrico di sinistra
+464=Compressore
+
+465=Tubo di lancio 1
+466=Timoni Orizzontali di Prua
+
+467=Batterie di prua
+
+468=Batterie di poppa
+
+469=Tubo di lancio
+470=Timoni Orizzontali di Poppa
+471=Timone di babordo
+472=Timone di sinistra
+473=Elica di sinistra
+474=Elica di dritta
+
+475=Cannone di coperta
+476=Snorkel
+
+477=Contraerea 1
+478=Contraerea 2
+479=Contraerea 3
+
+480=Sonar Attivo
+481=Motore elettrico di dritta in avaria
+482=Motore elettrico di sinistra in avaria  
+
+483=Tubo di lancio
+484=Tubo di lancio
+485=Tubo di lancio
+486=Tubo di lancio 2
+487=Tubo di lancio 3
+488=Tubo di lancio 4
+489=Tubo di lancio 5
+490=Tubo di lancio 6
+491=Rilevatore Radar
+492=Sonar
+493=Lanciatore Falsi Bersagli
+494=Ricevitori idrofoni
+495=Tubi di prua
+496=Tubi di poppa
+
+500=Gestione Equipaggio
+501=Controllo danni
+
+502=Descrizione Compartimento||Stato: %s|        %s|%s %s|%s|Riparazione Falla: %s
+503=Descrizione Sottosistema||Stato: %s|        %s|%s %s; |%s|Riparazione Falla: %s
+504=Nessuna squadra riparazioni disponibile
+505=Assegna la squadra di riparazione a
+506=Impossibile assegnare!
+507=Impossibile avere equipaggio in plancia e all'artiglieria!
+
+509=Videocamera Eventi
+510=Comandi vocali
+511=Caricamento Filmato
+512=Musica
+
+513=%2d sani, %2d feriti, %2d morti|%2d sani, %2d feriti, %2d morti
+
+514=Signore, ci avviciniamo alla profondità di collaudo!
+515=Siamo troppo profondi, signore!
+
+520=Abbiamo perdite, signore!
+
+544=RISULTATI MISSIONE
+
+545=Abbandonerai la missione.
+546=Il sommergibile ha abbandonato la missione.
+547=Il sommergibile è tornato alla base.
+
+548=N/A.
+550=Normale
+551=Minore
+552=Leggero
+553=Serio
+554=Pesante
+555=Critico
+556=Funzionante
+557=Danneggiato
+558=Non funzionante
+559=Distrutto
+
+560=Sommergibile Distrutto
+561=Sommergibile Distrutto da collisione.
+562=Sommergibile Distrutto dalla pressione.
+563=Sommergibile Distrutto da allagamento.
+564=MISSIONE FALLITA
+565=MISSIONE COMPIUTA
+566=Farai arrendere il sommergibile.
+567=Impossibile tornare alla base in immersione.
+568=Sommergibile  arreso.
+569=Sommergibile perduto.
+
+570=Niente via d'acqua
+571=Pompare fuori l'acqua
+572=Allagamento sotto controllo
+573=Via d'acqua pesante
+574=Via d'acqua critica
+575=Continua Missione
+576=Torna alla Base
+
+577=Obiettivi Primari
+578=Obiettivi Secondari
+
+579=Incompleto
+580=Completo
+581=Fallito
+
+582=Missione conclusa|Tonnellaggio alleato: |Tonnellaggio dell'Asse: |Tonnellaggio neutrale: |Unità alleate perdute: |Unità dell'Asse perdute: |Unità neutrali perdute: |Equipaggio iniziale:|Equipaggio finale:
+583=%d|%d|%d|%d|%d|%d
+584=Sommario Missione
+
+585=M
+586=F
+587=SONAR
+588=RADIO
+589=INTEGRITÀ SCAFO %s %
+
+590=Medicooooo!!!
+591=Uomo ferito sul ponte!
+592=Abbiamo una falla, signore!
+593=Abbiamo una falla grave, signore!
+594=Signore, abbiamo una falla critica!
+595=Scafo danneggiato, signore!
+596=Signore, siamo stati avvistati!
+597=Impatto siluro!
+598=Signore, il nemico ci ha rilevato!
+599=La nave nemica ci sta attaccando, signore!
+600=L'aereo nemico ci sta attaccando, signore!
+601=Ci hanno localizzati, signore!
+602=Siamo sotto attacco, signore!
+603=Bombe di profondità in acqua!
+604=Siamo stati danneggiati, signore!
+605=Signore, nave nemica in rotta di collisione!
+606=La nave nemica ci sta speronando!
+607=Cacciatorpediniere all'attacco!
+
+609=Direttore di macchina (DM)
+610=Ufficiale di rotta (UR)
+611=Ufficiale di tiro (UT)
+612=Radiotelegrafista (RT)
+613=Idrofonista (SO)
+614=Ufficiale di vedetta (UV)
+
+616=Riserve Esterne
+617=Tubi di poppa
+618=Tubi di prua
+619=Riserve di poppa
+620=Riserve di prua
+621=Riserve Extra
+
+633=Danni %s, signore!
+634=%s distrutta, signore!
+635=Allagamento in %s, signore!
+
+636=Torretta
+637=Radio/Sonar
+638=Camera di manovra
+639=Motori Diesel
+640=Motori Elettrici
+641=Locale siluri di prua
+642=Alloggi di prua
+643=Alloggi di poppa
+644=Locale siluri di poppa
+645=Plancia
+646=Mitragliera antiaerea
+
+647=Equipaggio insufficente in %s, signore!
+
+648=Tubo %d scarico, signore
+649=Tubo %d in caricamento, signore
+650=Fuori %d!
+651=Nessun siluro in %s, signore
+652=Troppi danni in %s, signore!
+653=Munizioni non compatibili, signore
+654=Munizioni esurite!
+655=%s inattivo, signore!
+656=%s non automatico, signore
+657=%s non manuale, signore
+658=Arma in carica!
+659=Tubo %d pronto, signore
+660=signore, nessuna soluzione per il tubo %d
+
+661=Signore, equipaggio insufficente alla contraerea!
+
+662=Siluri esauriti, signore!
+663=Signore, nessun siluro per il tubo %d
+664=Scaricamento tubo %d
+665=Tubo %d, fuoco!
+
+667=105mm %s|Quantità: %d
+668=88mm %s|Quantità: %d
+669=37mm %s|Quantità: %d
+670=20mm %s|Quantità: %d
+
+671=AP; Proiettili perforanti
+672=HE; Esplosivo ad alto potenziale
+673=AA; Contraerei
+674=SS; Bengala
+
+675=Cannone di coperta
+676=Contraerea leggera;Contraerea di destra
+677=Contraerea leggera;Contraerea di sinistra
+678=Contraerea Pesante;Contraerea principale
+
+679=%s|%s|%s|%s|%s
+
+680=CannaSingola_20mm
+681=Binata_20mm
+682=Quadrinata_20mm
+683=CannaSingola_37mm
+684=Binata_37mm
+685=Cannone_88mm
+686=Cannone_105mm
+
+690=assegnato a
+
+691=Gennaio
+692=Febbraio
+693=Marzo
+694=Aprile
+695=Maggio
+696=Giugno
+697=Luglio
+698=Agosto
+699=Settembre
+700=Ottobre
+701=Novembre
+702=Dicembre
+
+706=Siluro in acqua
+707=%s riparato, signore
+708=%s pronto, signore!
+709=%s intatto, signore!
+710=Siluro difettoso, signore!
+711=Signore, siluro fuori bersaglio
+712=Impossibile armare cannone, mare troppo mosso, signore!
+713=Impossibile armare contraerea, mare troppo mosso, signore!
+714=Impossibile armare contraerea, mare troppo mosso, signore!
+
+
+715=Impossibile assegnare equipaggio in plancia o al cannone in immersione, signore
+716=Equipaggio insufficente in %s, signore
+
+720=Via d'acqua chiusa!
+721=Trasferimento impossibile
+722=Nessun rifornimento disponibile
+
+750=Kiel
+751=Brest
+752=Wilhelmshaven
+753=Lorient
+754=St. Nazaire
+755=Bergen
+756=Bordeaux
+757=La Spezia
+758=Toulon
+759=Flensburg
+
+801=Corto
+802=Medio
+803=Lungo
+
+810=Nave in vista su rilevamento %03d, signore. %s raggio!
+811=Aereo in vista su rilevamento %03d, signore. %s raggio!
+812=Sommergibile in vista su rilevamento %03d, signore. %s raggio!
+813=Unità di terra in vista su rilevamento %03d, signore. %s raggio!
+814=Contatto radar su rilevamento %03d, signore. %s raggio!
+815=Contatto sonar, signore! %s %s %s su rilevamento %03d! %s raggio!
+816=Messaggio radio ricevuto! %s %s, %s, rotta %s, velocità %d nodi!
+817=Rilevati segnali radar!
+818=Avvistato un'aereo amico signore! Rilevamento %03d! %s distanza!
+819=Signore abbiamo avvistato un gommmone. Rilevamento %03d! %s distanza!
+
+
+820=Sconosciuto
+821=Nave da guerra
+822=Mercantile
+823=Sommergibile
+824=Aereo
+825=Unità terrestre
+
+830=lento
+831=veloce
+
+840=a distanza costante
+841=in avvicinamento
+842=in allontanamento
+
+899=CONT.CARRIERA
+900=NUOVA
+901=CONTINUA
+902=Nessun asso ancora presente
+
+945=Volume Radio
+946=Volume Master
+947=Volume Suoni
+948=Volume Musica
+949=Volume Voci
+
+950=Impostazioni suono
+951=Generale
+952=Musica
+953=FX
+954=Dialoghi
+955=0;min
+956=100;max
+957=Impostazioni Video
+958=Applica modifica
+
+960=Usi Ogg Vorbis (C) 2004 Xiph.org Foundation
+961=Buona Caccia Comandante...
+
+970=Casuale
+971=Storico
+972=Personalizzato
+
+;Commands - officer messages (subtitles) related to current command
+1000=Abbandonare la nave!
+1001=Propulsione normale
+1002=Ricarica batterie
+1003=Passare a navigazione silenziosa
+1004=Interrompere navigazione silenziosa
+
+1010=Motori fermi
+1011=Avanti adagio
+1012=Avanti un terzo
+1013=Avanti normale
+1014=Avanti tutta
+1015=Avanti emergenza
+1016=Indietro adagio
+1017=Indietro normale
+1018=Indietro tutta
+1019=Indietro emergenza
+
+1026=Timone tutto a sinistra
+1027=Timone tutto a dritta
+1028=Timone al centro
+1029=Profondità %.0f
+1030=Timoni a scendere
+1031=Emersione
+1032=Quota periscopio
+1033=Quota snorkel
+1034=Aria alle casse d'emersione!
+1035=Immersione rapida!
+
+1038=Timone tutto a sinistra
+1039=Doppia virata a sinistra
+1040=Timone tutto a dritta
+1041=Doppia virata a dritta
+1042=Lanciare falsi bersagli
+
+1044=Stimare la velocità del bersaglio
+1045=Signore, la distanza che abbiamo è vecchia. Abbiamo bisogno di nuovi dati!
+1046=Non possiamo calcolare la velocità signore, abbiamo bisogno di nuovi dati!
+1047=Devono trascorrere almeno %d secondi tra una misurazione della distanza e l'altra.
+1048=Abbiamo calcolato la velocità del bersaglio in %.1f nodi, rotta %.0f
+
+
+1050=Segnalare mercantile più vicino
+1051=Segnalare nave da guerra più vicina
+1052=Segnalare obiettivo più vicino
+1053=Obiettivo suggerito
+1054=Fuoco a volontà
+1055=Cessate il fuoco
+1056=Fuoco a corto raggio
+1057=Fuoco a medio raggio
+1058=Fuoco a lungo raggio
+1059=Mirare allo scafo
+1060=Mirare al ponte di comando
+1061=Mirare all'artiglieria
+1062=Mirare alla linea di galleggiamento
+1063=Fuoco a volontà
+1064=Cessate il fuoco
+1065=Fuoco a corto raggio
+1066=Fuoco a medio raggio
+1067=Fuoco a lungo raggio
+1068=Fuoco sui caccia
+1069=Fuoco sui bombardieri
+1070=Fuoco su tutti i bersagli
+1071=Fuoco su bersagli in avvicinamento
+1072=Segnalare tutti gli obiettivi
+1073=Identifica l'obiettivo
+1074=Soluzione all'obiettivo
+1075=Lancia siluro
+1076=Elabora una soluzione
+
+;selection dial tubes
+1181=I
+1182=II
+1183=III
+1184=IV
+1185=V
+1186=VI
+1187=VII
+1188=VIII
+
+;tubes
+1191=I:
+1192=II:
+1193=III:
+1194=IV:
+1195=V:
+1196=VI:
+
+
+1211=Cannone
+1212=Contraerea Pesante
+1213=Contraerea Leggera
+
+1220=IIA/1
+1221=IID/1
+1222=IID/2
+1223=VIIB/1
+1224=VIIB/2
+1225=VIIC/1
+1226=VIIC/2
+1227=VIIC/3
+1228=VIIC/4
+1229=IX/1
+1230=IX/2
+1231=IX/3
+1232=XXI/1
+
+
+1250=Miglioramenti motore
+1251=Batterie
+1252=Idrofoni
+1253=Sonar
+1254=Radar
+1255=Rilevatori radar
+1256=Falsi bersagli
+1257=Snorkel
+
+
+1263=AFA 36 MAK 580
+1264=AFA 44 MAL 570
+1265=AFA 27 MAK 740
+1266=AFA 27 MAK 800
+1267=AFA 33 MAL 800
+1268=AFA 36 MAK 740
+1269=AFA 44 MAL 740
+
+1270=GHG; (Gruppenhorchgerat)
+1271=KDB; (Kristalldrehbasisgerat)
+1272=Balkon Gerat
+
+1273=S-Gerat; (Sondergerat fur Aktive Schallortung)
+1274=SU-Apparat ‘Nibelung’; (Sonderapparat fur Uboote)
+
+1275=FuMO-29; (GEMA)
+1276=FuMO-30
+1277=FuMO-61; (Hohentwiel-U)
+1278=FuMO-64; (Hohentwiel Drauf)
+1279=FuMO-391
+
+1280=FuMB-1; (Metox)
+1281=FuMB-10; (Borkum)
+1282=FuMB-7; (Naxos)
+1283=FuMB-26; (Tunis)
+
+1284=Bold 1
+1285=Bold 2
+1286=Bold 3
+1287=Bold 4
+1288=Bold 5
+1303=Alberich
+1304=Alberich migliorato
+1305=Tarnmatte
+
+1306=Emblema 1
+1307=Emblema 2
+1308=Emblema 3
+
+1350=Navigazione
+1351=Artiglieria
+1352=Contraerea
+1353=Siluri
+1354=Attacco convoglio
+
+1400=Dom
+1401=Lun
+1402=Mar
+1403=Mer
+1404=Gio
+1405=Ven
+1406=Sab
+
+1410=Esame da farsi
+1411=Insufficente
+1412=Soddisfacente
+1413=Intermedio
+1414=Eccellente
+
+1420=Prove
+1421=Esame
+
+1422=Seleziona missione
+
+1425=Risultati: %s
+
+1429=Nazionalità
+1430=Categoria
+1431=Classe
+1432=Versioni (Anno)
+1433=Informazioni
+
+1435=U-Boots
+1436=Mercantili
+1437=Navi da guerra
+1438=Aerei
+
+1450=CARICA
+1451=SALVA
+1452=REPLAY
+
+1600=Numero pattugliamenti:
+1601=Data d'inizio:
+1602=Porto di partenza:
+1603=Data fine:
+1604=Porto di arrivo:
+1605=Sommergibile:
+1606=Flotta attuale:
+1607=Emblema attuale:
+
+1608=Mercantili affondati:
+1609=Tonnellaggio mercantili:
+1610=Navi da guerra affondate:
+1611=Tonnellaggio navi da guerra:
+1612=Tipi di nave da guerra affondate:
+
+1613=Navi armate:
+1614=Corazzata:
+1615=Trasporto veloce:
+1616=Scorta:
+1617=Incrociatore pesante:
+1618=Incrociatore leggero:
+1619=Incrociatore ausiliario:
+1620=Torpediniera:
+1621=Avviso Scorta:
+1622=Fregata:
+1623=Posamine:
+1624=Dragamine:
+1625=Corvetta:
+1626=Nave da pattuglia:
+1627=Aerei abbattuti:
+
+1628=Ufficiali deceduti:
+1629=Sottufficiali deceduti:
+1630=Marinai deceduti:
+1631=Esperienza equipaggio:
+1632=Integrità scafo:
+1633=Fama (per pattugliamento):
+
+1634=Nome carriera:
+1635=Fama attuale:
+1636=Pattugliamenti totali:
+1637=Data inizio carriera:
+1638=Data attuale:
+1639=Flotta attuale:
+1640=Porto:
+1641=Sommergibile:
+1642=Emblema attuale:
+1643=Totale ufficiali deceduti:
+1644=Totale sottufficiali deceduti:
+1645=Totale marinai deceduti:
+1646=Flottiglie:
+1647=Difficoltà
+1648=Campagna
+
+1660=Inizia missione
+1661=Desiderate attraccare?
+1662=Potete attraccare
+
+
+1700=Lista carriere:
+1701=Nome del salva:
+1702=Stato carriera:
+1703=Data del salva
+1704=Nome/Grado:
+1705=Flottiglia:
+1706=Pattugliamenti terminati:
+1707=Fama:
+1708=Situazione:
+1709=Classe U-Boot:
+1710=Base:
+1711=Navi affondate:
+1712=Tonnellaggio:
+1713=Vedi promozioni
+1714=Vedi appunti
+1715=Cancella
+1716=Carica
+
+1717=Alla base dopo la missione:
+1718=Alla base prima della missione; In missione
+1719=Deceduto
+1720=In missione
+
+1721=Pattugliamento
+1722=Nome U-Boot:
+1723=La guerra è finita!
+
+1730=Inserire nome per favore!
+
+1750=Promozioni
+1751=Medaglie
+1752=Qualifiche
+
+
+1760=Equipaggio non ferito durante ultimo pattugliamento
+1761=Selezionare un uomo per assegnare medaglia
+1762=Trascina la medaglia sulla descrizione dell'uomo
+1763=L'uomo deve completare almeno un pattugliamento
+1764=Ha già la medaglia
+1765=È necessario ricevere la %s prima
+1766=È stato ferito durante l'ultimo pattugliamento
+1767=Non puo'essere promosso. Richiede %.1f di esperienza
+1768=Troppi %s nell'U-Boot
+1769=Rango più alto! Non puoi più promuoverlo
+1770=Non puoi promuovere un marinaio!
+1771=Seleziona un uomo per assegnare promozione
+1772=Puoi assegnare una sola qualifica per pattugliamento
+1773=La qualifica puo'essere assegnata solo a sottufficiali o ufficiali
+1774=I sottufficiali possono avere una sola qualifica!
+1775=Massimo numero di qualifiche!
+1776=Devi completare un pattugliamento
+1778=Cancellando questa partita saranno cancellati tutti salvataggi associati ad essa. Sei sicuro?
+1779=Non abbastanza sottufficiali dopo questa promozione!
+1780=L'hai già!
+1781=Non abbastanza marinai dopo questa promozione
+1782=Seleziona un uomo e trascina questa icona sopra la descrizione
+
+;3D interior and exterior dials and buttons tooltips
+1800=QUADRI STRUMENTI
+1801=LANCIA SILURO
+1802=PROFONDITÀ SILURO
+1803=ANGOLO DI SALVA
+1804=ANGOLO 2° GIROSCOPIO
+1805=ANGOLO DI PERCORSO
+1806=SELEZIONE TUBO DI LANCIO
+1807=SELEZIONE TUBI PER SALVA
+1808=CORSA DRITTA
+1809=BORDATA
+1810=VELOCITÀ SILURO
+1811=DETONATORE SILURO
+1812=SALVA
+1813=DIREZIONE OBIETTIVO
+1814=DISTANZA OBIETTIVO
+1815=RILEVAMENTO
+1816=VELOCITÀ OBIETTIVO
+1817=ANGOLO GYRO
+1818=BATTERIE PRODIERE
+1819=BATTERIE POPPIERE
+1820=OROLOGIO
+1821=CO2
+1822=BATTERIA
+1823=BUSSOLA
+1824=POSIZIONE TIMONI ORIZZONTALI DI PRUA
+1825=POSIZIONE TIMONI ORIZZONTALI DI POPPA
+1826=GIRI MOTORE DI DESTRA
+1827=GIRI MOTORE DI SINISTRA
+1828=VELOCITÀ ATTUALE
+1829=POSIZIONE TIMONE
+1830=ARIA COMPRESSA
+1831=TELEGRAFO DI BABORDO
+1832=TELEGRAFO DI DRITTA
+1833=PROFONDITÀ ATTUALE
+1834=CARBURANTE
+1835=ATLAS ECHOLOT
+1836=IGROMETRO
+1837=POSIZIONE ORIZZONTALE U-BOOT
+1838=RILEVA PROFONDITÀ SOTTO LA CHIGLIA
+1839=IDROFONO
+1840=CONTATTI
+1841=RADAR
+1842=CONTATTO
+1843=VOLUME AMBIENTALE
+1844=AGGIORNAMENTO AUTOMATICO
+1845=APRI/CHIUDI TUBO
+1846=TELEGRAFO
+1847=CRONOMETRO
+1848=ALZA PERISCOPIO
+1849=ABBASSA PERISCOPIO
+1850=PERISCOPIO A SINISTRA
+1851=PERISCOPIO A DESTRA
+1852=RADAR ON/OFF
+1853=RADAR SCANSIONE/FUOCO
+1854=CAMBIA DISTANZA
+1855=DISTANZA OBIETTIVO
+
+1871=Inglese; voices    
+1872=Tedesco;  voices
+1873=Francese;  voices
+
+1881=Inglese; keyboard        
+1882=Tedesco;  keyboard
+1883=Francese;  keyboard
+
+1898=Lingua tastiera
+1899=Lingua testo
+1900=Lingua voci
+1901=Inglese; texts        
+1902=Tedesco;  texts
+1903=Francese;  texts
+
+1909=Questa opziona verrà attivata riavviando il gioco
+1910=Queste opzioni verranno attivate riavviando il gioco
+
+1911=Fama |%.0f
+1919=Tipo
+1920=Riavvia
+1921=Salva Replay
+1922=Carica
+1923=Salva
+1924=Continua
+1925=Finisici Pattugliamento
+1926=Salva ed esci
+1927=Edita
+1928=Opzioni
+
+1930=Camera eventi
+1931=Schermo intero
+1932=Sincronizzato
+1933=Densità particolari
+1934=Texture alta qualità
+
+1940=Crediti
+1941=MISSIONI SINGOLE
+1942=MISSIONI PERSONALIZZATE
+1943=MISSIONI SALVATE
+1944=CREDITI
+1945=SETTAGGI VIDEO
+1946=SETTAGGI AUDIO
+1947=ACCADEMIA
+1948=PROFILI
+1949=La guerra è finita!
+1950=Non c'è più ossigeno!
+1951=Esperienza:
+1952=Trascinalo sopra uno slot vuoto, o fai doppio click.
+1953=Sei stato decorato
+1954=Sei stato promosso
+1955=Equipaggio
+1956=Stesso profilo. Perderai il salvataggio precedente. Sei sicuro?
+1957=Non puoi caricare dopo che la guerra è finita!
+1958=Sovrascrivi la partita salvata?
+1959=Cancelli la partita salvata?
+1960=Esci dal gioco?
+1961=Cancella profilo?
+1962=Non puoi assegnare qualifica radio all'ufficiale
+1963=Ha già questa qualifica
+1964=Numero minimo di ufficiali. Non puoi spostarlo!
+1965=Numero minimo sottufficiali. Non puoi spostarlo!
+1966=Numero minimo di marinai. Non puoi spostarlo!
+1967=Non puoi degradare il sottomarino
+1968=Cambia realismo
+1969=Realismo %d%%
+1970=Lo stesso. Non cambia.
+1971=Cancella
+1972=Cancella replay?
+1973=Devi iniziare un pattugliamento per salvare i cambiamenti. Vuoi uscire?
+1974=Nome
+1975=Tonnellagio (tonnellate)
+1976=EQUIPAGGIO ALLA BASE
+1977=DESCRIZIONE EQUIPAGGIO
+1978=NOME & GRADO
+1979=FAMA|VALORE
+1980=Morale
+1981=Resistenza
+1982=Resilienza
+1983=Arruolare
+1984=Dimettere
+1985=Ricompense
+1986=Caserme
+1987=QUAL
+
+1990=ft;piedi
+1991=y;iarde
+1992=nm;miglie nautiche
+
+1998=RILEVAMENTO:
+1999=TIPO:
+2000=SOLUZIONE
+2001=NAVE:
+2002=DISTANZA:
+2003=AOB
+2004=VELOCITÀ
+2005=ALBERO:
+2006=ANGOLO (segnali):
+2007=DISTANZA 1:
+2008=DISTANZA 2:
+2009=ORA:
+
+2010=ANGoLo GYRO
+2011=TUBI|PRUA
+2012=TUBI|POPPA
+2013=FUOCO
+2014=BLOCCA
+2015=10
+
+2016=Lunghezza:
+2017=Raggio:
+2018=Tonnellaggio:
+2019=Velocità:
+2020=DISTANZA
+2021=Pescaggio:
+2022=Albero:
+2024=Gradi:
+2026=Distanza:
+2027=m;metri
+2028=t;tones
+2029=Nodi
+
+2030=Scafo
+2031=Sala motori
+2032=Propulsione
+2033=Chiglia
+2034=Riserve carburante
+2035=Riserva munizioni di prua
+2036=Riserva munizioni di poppa
+
+2041=Convoglio
+2042=Distrutto
+2043=Sconosciuto
+
+2044=Puntamento manuale
+2045=Obiettivo casuale
+2046=N/A;Non disponibile
+2047=Sovrascrivi replay
+
+2050=Invia l'altezza dell'albero al TDC. Devi guardare direttamente il bersaglio per poter usare questa funzione.
+
+2070=DM; Dal Direttore di Macchina
+2071=UR; Dall'Ufficiale di Rotta
+2072=UT; Dall'Ufficiale di Tiro
+2073=RT; Dal Radiotelegrafista
+2074=SO; Dall'idrofonista
+2075=UV; Dall'Ufficiale di vedetta
+
+2100=Ora:
+2101=Tipo:
+2102=Direzione:
+2103=Velocità:
+
+2110=N
+2111=NNE
+2112=NE
+2113=ENE
+2114=E
+2115=ESE
+2116=SE
+2117=SSE
+2118=S
+2119=SSO
+2120=SO
+2121=OSO
+2122=O
+2123=ONO
+2124=NO
+2125=NNO
+
+2126=Stazionaria
+2127=Lenta
+2128=Media
+2129=Veloce
+2130=Molto veloce
+
+;3D interior and exterior interactive objects tooltips
+2150=DIRETTORE DI MACCHINA
+2151=UFFICIALE DI ROTTA
+2152=UFFICIALE DI TIRO
+2153=MAPPA DI NAVIGAZIONE
+2154=TDC
+2155=RADIO/SONAR
+2156=COMPARTIMENTI DI POPPA
+2157=TORRETTA DI COMANDO
+2158=PERISCOPIO D'OSSERVAZIONE
+2159=COMPARTIMENTI DI PRUA
+2160=PLANCIA
+2161=CAMERA DI MANOVRA
+2162=VISTA PERISCOPIO
+2163=UFFICIALE DI VEDETTA
+2164=RADIOTELEGRAFISTA
+2165=IDROFONISTA
+2166=TBT
+2167=GIORNALE DI BORDO
+2168=SITUAZIONE DANNI/EQUIPAGGIO
+2169=MANUALE DI RICONOSCIMENTO
+2170=CABINA DEL COMANDANTE
+2171=PERISCOPIO D'ATTACCO
+
+;2D tooltips for periscope, TBT, layout, deck and AA guns
+2200=Direzione
+2201=Manuale di riconoscimento
+2202=Cronometro
+2203=Blocco appunti
+2204=Soluzione siluro
+2205=Controllo fuoco siluri
+2206=Altezza periscopio
+2207=Alza/Ammaina periscopio
+2208=Indicatore visibilità
+2209=Compressione tempo
+2210=Pausa
+2211=Mostra telegrafo/tachimetro
+2212=Cambia bussola/timone
+2213=Cambia indicatore profondità
+2214=Munizioni
+2215=Barra di caricamento
+2216=Distanza
+2217=Telegrafo di macchina
+2218=Velocità
+2219=Bussola
+2220=Timone
+2221=Profondimetro
+2222=Profondimetro
+2223=Navigazione silenziosa
+2224=Clicca per vedere i comandi. Clicca nuovamente per attivare la stazione
+2230=Proiettili perforanti
+2231=Proiettili altamente esplosivi
+2232=Esplosivo antiaereo
+2233=Bengala
+
+;TDC, attack map and navigation map tooltips
+2240=Tubi di prua
+2241=Tubi di poppa
+2242=Zoom +
+2243=Zoom -
+2244=Strumenti direzione
+2245=Controllo fuoco siluri
+2246=Selezione tubo/salvo
+2247=Input manuale on/off
+2248=Traccia rotta
+2249=Riga
+2250=Compasso
+2251=Evidenziatore
+2252=Gomma
+2253=Pulisci mappa
+2254=Contrassegna %d	
+2255=Goniometro
+2256=Aiuto strumenti
+2257=Gomma. Tieni premuto CTRL per cancellare tutta la mappa.
+
+;gameplay settings
+2300=LIVELLO DI DIFFICOLTÀ'
+2301=DIFFICOLTÀ
+2302=Facile
+2303=Normale
+2304=Difficile
+2305=Molto Difficile
+2306=IMPOSTAZIONI DI GIOCO
+
+2310=Carica delle Batterie limitata
+2311=Aria compressa limitata
+2312=Ossigeno limitato
+2313=Carburante limitato
+2314=Vulnerabilità realistica
+2315=Tempi di riparazione realistici
+2316=Tempo di affondamento navi realistico
+2317=Sistema di puntamento bersagli manuale
+2318=Aggiornamento mappa contatti disabilitato
+2319=Rilevamenti realistici
+2320=Siluri difettosi
+2321=Tempo di ricarica realistico
+2322=Visualizzazione eventi esclusa
+2323=Visualizzazione esterna esclusa
+2324=Stabilità vista esclusa
+2325=Indicatore rumorosità inattivo
+2326=No assistenza dell'Ufficiale di Tiro
+2327=Realistico
+2328=Unità di misura
+2329=Sistema metrico
+2330=Sistema imperiale
+
+
+2340=La carica delle batterie riduce la durata del tempo di immersione del sommergibile limitando la sua mobilità durante l'attacco
+2341=L'aria compressa è necessaria per cambiare profondità senza usare i motori e per fermare l'assetto in casi di emergenza
+2342=L'esaurimento di ossigeno - rimanendo in immersione troppo a lungo - causa affaticamento all'equipaggio soffocandolo lentamente
+2343=Il carburante è necessario per alimentare i motori diesel, che permettono agli U-Boot di percorrere lunghe rotte
+2344=I danni subiti dal sommergibile saranno più consistenti.
+2345=Incrementa i tempi di riparazione, avvicinandoli a valori più realistici.
+2346=Il tempo di affondamento di una nave viene aumentato. Questo comporterà una più difficoltosa stima dei danni provocati.
+2347=Permette esclusivamente il metodo manuale di attacco con siluri.
+2348=Disabilita la modalità "occhio divino" nella mappa di navigazione.
+2349=Riduce il raggio dei sensori di rilevamento dei sommergibili e la loro efficacia.
+2350=Aumenta la probabilità di malfunzionamento dei siluri ai livelli storici reali.
+2351=Utilizza i tempi di caricamento dei siluri reali storicamente. Questo limiterà la tua capacità di effettuare attacchi multipli.
+2352=Disattiva il riquadro che mostra gli eventi importanti che accadono nelle vicinanze.
+2353=Limita l'utilizzo della camera esterna. Solo le modalità di visuale dell'uboat saranno attive.
+2354=Disabilitando la visuale stabilizzata, il puntamento di un bersaglio sarà più difficile con il mare agitato.
+2355=L'indicatore di rumorosità provvede un semplice indicatore visivo su quando può essere rivelata la presenza dell'U-Boot ad un dato momento.
+2356=Disabilita identificazione bersaglio e soluzione di lancio da parte dell'Ufficiale di Tiro 
+
+2370=OK
+2371=ANNULLA
+2372=REALISMO
+2373=Realismo
+
+2375=Sei sicuro?
+
+FaT and LuT torpedoes
+2650=FaT
+2651=LuTI
+2652=LuTII
+
+;Automatic target spotting - DO NOT CHANGE INDEXES ORDER
+2670=Ingaggia l'obiettivo
+2671=Mantieni la rotta attuale
+2672=Immersione a quota periscopio
+2673=NAVE DA GUERRA AVVISTATA!
+2674=MERCANTILE AVVISTATO!
+2675=SOMMERGIBILE AVVISTATO!
+2676=AEREO AVVISTATO!
+2677=UNITÀ TERRESTRE AVVISTATA!
+
+2678=Imposta come azione predefinita
+
+2680=Blocca la posizione sullo schermo 
+
+;Layout
+2697=M;Metri
+2698=KM;Chilometri
+2699=sec;Secondi
+2700=Kts;Nodi
+2701=m;metri
+2702=x;x volte
+2703=|Ora base: %02d:%02d
+2704=Sin.tra
+2705=Dritta
+2706=+
+2707=-
+2708=P;Pausa
+2709=deg;Gradi
+
+2710=Camera di Manovra
+2711=Mappa di navigazione
+2712=Periscopio d'attacco
+2713=Plancia
+2714=Cannone di coperta
+2715=Contraerea
+2716=Radio/Sonar
+2717=Situazione Danni/Equipaggio
+2718=TDC
+2719=Obiettivi missione
+2720=Visuale esterna
+
+2724=Velocità
+2725=Timone
+2726=Rotta
+2727=Profondità
+
+2750=T;Siluro
+2751=S;Salva
+2752=S;Piano
+2753=M;Medio
+2754=F;Veloce
+2755=I;Impatto
+2756=M;Magnetico
+
+2760=Profondità
+2761=VELOCITÀ
+2762=INNESCO
+2763=Percorso diretto
+2764=2ndo angolo gyro
+2765=BORDATA
+2766=DIREZIONE
+2767=PORTATA
+2768=AoB
+2769=VELOCITÀ
+2770=ANGOLO GYRO
+2771=SELEZIONE TUBO
+2772=SELEZIONE TUBI
+2773=Angolo di salva
+2774=Angolo di lancio
+
+2775=Stadimetro
+2776=Ivia distanza e rilevamento al TDC
+2777=Status del Position Keeper
+2778=Position keeper
+2779=Invia l'AOB al TDC
+2780=Ivia la velocità al TDC
+
+2781=Rilevamento bersaglio
+2782=Rilevamento vero bersaglio
+2783=Rotta vera bersaglio
+2784=Angolo gyro siluri prodieri
+2785=Rotta siluri prodieri
+2786=Angolo track siluri prodieri
+2787=Angolo gyro siluri poppieri
+2788=Rotta siluri poppieri
+2789=Angolo track siluri poppieri
+2790=Distanza bersaglio
+2791=Velocità bersaglio
+
+
+;Officers orders
+2800=Nessuno
+
+;Chief Egineer
+2801=Propulsione
+2802=Modalità d'immersione
+2803=Manovre
+2804=Ordini d'emergenza
+2805=Rapporti
+2806=Propulsione normale
+2808=Ricarica batterie
+2809=Passare a navigazione silenziosa
+2810=Interrompere navigazione silenziosa
+2811=VIRATA STRETTA A SINISTRA
+2812=INVERSIONE DI ROTTA A SINISTRA
+2813=VIRATA STRETTA A DRITTA
+2814=INVERSIONE DI ROTTA A DRITTA
+2815=Lanciare falsi bersagli
+2816=Immersione Rapida!
+2817=Aria alle casse d'emersione!
+2818=Abbandonare la nave!
+2819=Livello del Carburante
+2820=Livello della batteria
+2821=Livello CO2
+2822=Livello Aria Compressa
+2823=Rapporto danni
+2824=Alzare snorkel
+2825=Ammainare snorkel
+2826=Quota periscopio  
+
+
+;Navigator
+2840=Tracciare la rotta
+2841=Metodo di ricerca
+2842=Rapporti
+2843=Ritorna alla rotta
+2844=Metodo 1
+2845=Metodo 2
+2846=Metodo 3
+2847=Massima autonomia alla velocità corrente
+2848=Tempo alla fine della rotta
+2849=Distanza alla fine della rotta 
+2850=Profondità sotto la chiglia
+2851=Condizioni meteo
+
+
+;Weapon officer
+2860=Agganciare bersaglio per siluri
+2861=Attacco con siluri
+2862=Soluzione di tiro sulla mappa
+2863=Gestione delle armi
+2864=Rapporti
+2865=Identificazione Nave
+2866=Soluzione di tiro
+2867=Siluro fuori!
+2868=Nave più vicina
+2869=Mercantile più vicino
+2870=Nave da guerra più vicina
+2871=Bersaglio raccomandato
+2872=Stato dei tubi lanciasiluri
+2873=Rapporto danni
+2874=Carico;tube
+2875=Caricamento;tube
+2876=Vuoto;tube
+2877=Disabilitato;tube
+
+
+
+
+;Sound operator
+2880=Rapporto
+2881=Idrofono
+2882=Sonar
+2883=Ripeti l'ultimo rapporto
+2884=Rapporto sul contatto più vicino
+2885=Perlustrazione normale
+2886=Segui contatto sonoro più vicino
+2887=Stima distanza contatto
+2888=Distanza precisa da contatto
+2889=Riferire sulla nave da guerra più vicina  
+2890=Segui nave da guerra piu' vicina
+
+
+;Radio operator
+2900=Rapporto
+2901=Richiesta
+2902=Radar
+2903=Radio
+2904=GRAMMOFONO|Attiva il grammofono
+2905=Rapporto contatti
+2906=Invia rapporto contatti
+2907=Invia Condimeteo
+2908=Invia rapporto pattugliamento
+2909=Ordini
+2910=Ricognizione aerea
+2911=Bombardamento aereo
+2912=Supporto
+2913=Scorta alla base
+2914=Spazzata singola
+2915=Spazzata continua
+2916=Spegni
+2917=Scansiona frequenze nemiche
+2918=Scansiona frequenze alleate
+
+
+;Watch officer
+2930=Scegli bersaglio per cannone
+2931=Attacco con siluri
+2932=Equipaggio in coperta
+2933=Gestione munizioni
+2934=Cannone
+2935=Contraerea
+2936=Rapporti
+2937=Nave più vicina
+2938=Mercantile più vicino
+2939=Nave da guerra più vicina
+2940=Bersaglio consigliato
+2941=Identificazione nave
+2942=Soluzione
+2943=Lancia siluro
+2944=Armare il cannone di coperta!
+2945=Equipaggio alla contraerea!
+2946=Equipaggio al cannone e alla contraerea!
+2947=Vedette in plancia!
+2948=Fuoco a volontà
+2949=Cessa il fuoco
+2950=Spara a distanza ravvicinata
+2951=Spara a media distanza
+2952=Spara a lunga distanza
+2953=Mira allo scafo
+2954=Mira alla cabina di comando
+2955=Mira ai posti di combattimento
+2956=Mira alla linea di galleggiamento
+2957=Fuoco a volontà
+2958=Cessa il fuoco
+2959=Corto raggio
+2960=Medio raggio
+2961=Lungo raggio
+2962=Spara ai caccia
+2963=Spara ai bombardieri
+2964=Spara a qualunque aereo
+2965=Attacca solo i bersagli in avvicinamento
+2966=Attacca qualsiasi bersaglio
+2967=Contatti
+2968=Contatto visivo più vicino
+
+
+;Network
+
+3001=PARTITA IN LAN
+3002=SERVER DI INTERNET
+3003=GIOCA SU UBI.COM
+3004=ESRB: L'esperienza di gioco può cambiare durante il gioco online
+3005=LOGOUT
+3006=Vuoi uscire dal server di UBI.COM?
+3007=Versione
+3008=Password
+
+3010=Errore
+3011=Crea Partita
+3012=Unisciti a una partita
+3013=Lobby
+3014=Partite disponibili
+3015=Visualizza per
+3016=MISSIONI GENERATE
+3017=LOGIN
+3018=CREA ACCOUNT
+3019=MODIFICA ACCOUNT
+3020=<Partita>: %s ha abbandonato la partita.
+3021=Persa la connessione con il server. Tempo scaduto.
+3022=Partita salvata correttamente!
+3023=Salvataggio fallito!
+3024=Replay salvato correttamente!
+3025=Salvataggio Replay fallito!
+3026=Errore durante il caricamento della partita salvata!
+3027=Modalita'
+3028=Difficolta'
+
+3030=Visualizza Nome Giocatore		
+3031=Visualizza Appartenenza Siluro
+3032=Opzioni Gioco
+3033=Opzioni Multiplayer
+3034=Impostazioni di default
+3040=Atnedi gli altri giocatori!
+3041=PRONTO
+3042=Impostazioni Sessione
+3043=Giocatori connessi
+3044=Impostaz. Gioco
+3045=Wolfpack
+3046=Competizione
+3047=Cacciatore
+3048=Difficoltà gioco
+3049=Nome Server
+3050=Tipo di partita
+3051=Limitato
+3052=Password
+3053=Tempo Limite
+3054=Giocatori
+3055=Stai ospitando il server. Vuoi Annullarlo?
+3056=Abbandono Server ...
+3057=Logging out ...
+3058=Consenti selezione U-Boot
+3059=Consenti selezione Equipaggio
+3060=Siluri Illimitati
+3061=Normale
+3062=Generata
+3063=Libera
+3064=Ristretta
+3065=Default
+3066=Chat di gioco
+3067=Ping
+3068=Impostaz. Gioco
+3069=MISSIONE NORMALE
+3070=Descrizione Missione
+3071=Lista Missioni
+3072=Niente
+
+3073=Periodo di Guerra: anno %d, mese %s|Tempo del giorno: %s|Mare: %s|Precipitazioni: %s|Tipo di Nemico: %s|Dimensioni Nemici: %s|Dimensioni Scorta: %s|Esperienza Scorta: %s|Copertura Aerea: %s
+
+3074=Account aggiornato!
+3075=Password non valida. Digita la stessa password nel campo di riprova.
+3076=Nome giocatore non valido! Il nome deve avere almeno %d lettere.
+3077=Il Server è bloccato! Non puoi unirti ad un Server Bloccato!
+3078=Troppi Giocatori! Il Server supporta solo %d giocatori.
+3079=Allontana giocatore
+3080=Interdici giocatore
+3081=Disconnesso
+3082=Sessione Bloccata
+3083=Non consentito
+3084=Sei stato kickato
+3085=Server Chiuso
+3086=Raggiunto il numero massimo di giocatori
+3087=Password errata
+3088=Versione di gioco errata
+3089=La partita è finita
+3090=Risultati non validi
+3091=Sessione non più disponibile
+3092=Non puoi leggere il file %s
+3093=Aggiorna
+3094=Il Server è uscito. Game over!
+3095=<Partita>: Non puoi inviare messaggi da immerso!
+3096=AGGIORNA
+
+3101=Continua come osservatore
+3102=Ritorna alla base
+
+3110=Inserisci il tuo Username
+3111=Inserisci la tua Password
+3112=Re-inserisci la tua Password
+3113=Indirizzo E-mail
+
+3114=Inserisci il tuo nome
+
+3200=Ora del giorno
+3201=5am-9am
+3202=9am-6pm
+3203=6pm-10pm
+3204=10pm-9am
+
+3205=Mare
+3206=calmo
+3207=moderato
+3208=mosso
+
+3209=Tipo Bersaglio
+3210=convoglio
+3211=task force
+3212=casuale
+
+3213=Dimensione Bersaglio
+3214=piccola
+3215=media
+3216=grande
+
+3217=Dimensioni Scorta
+3218=niente
+
+3219=Esperienza Scorta
+3220=bassa
+3221=media
+3222=alta
+
+3223=Precipitazioni
+3224=pioggia
+3225=temporale
+
+3226=Distanza Nemici
+3227=vicini
+3228=medi
+3229=lontani
+
+
+3230=La missione sarà generata nei primi 6 mesi a partire dalla data sottostante
+3231=Aspetta che gli altri giocatori siano pronti e premi Inizia
+3232=Account è stato creato con successo.Vuoi fare Login con questo Account?
+3233=La password non può contenere l'username
+
+3234=Copertura Aerea
+
+3235=Mese d'Inizio
+
+3236=Anno d'Inizio
+3237=1939
+3238=1940
+3239=1941
+3240=1942
+3241=1943
+3242=1944
+
+3243=reclute
+3244=regolari
+3245=veterani
+
+3246=Seleziona il tuo U-Boot e premi il tasto PRONTO
+3247=Sincronizzazione
+3248=Cambio Files
+3249=Aspetta mentre viene generata la missione. Impiegherà alcuni minuti.
+3250=L'username deve:|iniziare con una lettera|contenere solo lettere, numeri e _.-|avere tra 3 e 15 lettere
+3251=Password errata! La password deve:|contenere solo lettere, numeri e _.-|contenere almeno una lettera e un numero |avere tra 6 e 16 lettere |non essere l'username
+3252=E-mail non valida.
+3253=Verifica Password fallita
+3254=L'User esiste già
+3255=Errore interno
+3256=Inizializzazione connessione a internet
+3257=Stringa di connessione non valida
+3258=Non puoi connetterti a %s! La partita cercherà di usare le impostazioni di connessione precedenti per entrare in UBI.COM.
+3259=Nessuna connessione internet
+3260=Logging in ...
+3261=Username già esistente
+3262=Username già in uso
+3263=Lo Username non esiste
+3264=Username riservato
+3265=Questa password è vietata
+3266=Nazione non valida
+3267=Il database di Ubi.com non è disponibile
+3268=Questo account è stato bannato
+3269=L'Account è stato bloccato
+3270=L'Account è stato bloccato
+3271=Errore Sconosciuto
+3272=Aggiornamento informazioni user ...
+3273=Creazione account ...
+3274=Creazione Server ...
+3275=Registrazione server ...
+3276=Non puoi creare un server locale
+3277=Non puoi connetterti al router
+3278=Non puoi fare login al router
+3279=Connessione fallita al Server lobby
+3280=Non puoi creare un client locale
+3281=Impossibile generare missione. Controlla i parametri e riprova
+
+3282=Il sistema di rete
+3283=La connessione ha fallito / non è disponibile
+3284=L'operazione richiede altro tempo per completarsi. Aspetta e riprova.
+3285=È avvenuto un errore nell'operazione di invio
+3286=È avvenuto un errore nell'operazione di ricevere
+3287=L'indirizzo specificato non è valido
+3288=Il socket specificato non è valido
+
+3289=L'operazione è fallita senza una ragione specifica
+3290=Un Argomento passato alla funzione non è valido
+3291=Non ci sono altri oggetti che possono essere creati/distrutti
+3292=Questa operazione non è attuabile
+3293=Non c'è altra memoria disponibile per allocazioni interne
+3294=Indice non valido (fuori dai limiti)
+3295=L'operazione è richiamata fuori dalla normale sequenza
+3296=Errore Interno (dati in eccesso, risultati errati, ecc.)
+3297=L'operazione non può essere terminata in un tempo ragionevole
+3298=Non sei autorizzato ad eseguire questa operazione. Probabilmente non hai autorizzazioni sufficienti
+3299=L'operazione non può essere eseguita a causa di dati forniti non validi
+3300=Il Computer Remoto non riconosce l'autenticazione che hai fornito 
+3301=La versione che stai usando è diversa da quella attuata
+3302=L'operazione non può essere completata perchè il processo è stato chiuso
+
+3303=Connessione...
+
+3304=Il Server non è più disponibile
+3305=Non è consentito su questo server
+3306=Non sono consentiti Spettatori
+3307=Questa missione è stata creata per %d giocatori! Il server sarà regolato su questo numero. Continuare?
+3308=Non sono consentiti altri spettatori
+3309=Non sono consentiti altri membri
+3310=Membro non registrato
+3311=La partita è iniziata
+3312=Ricordami password
+3313=Nome Giocatore
+3314=Già in gioco
+3315=Non sei il Master
+3316=Non ti sei collegato al server
+3317=CONNECT ADD CONNECTION?
+3318=Non puoi inviare il messaggio di Login
+3319=Non puoi fare Login al Lobby
+3320=Host non valido
+3321=Disconnesso dal Server Lobby
+3322=Tipo di gioco non valido
+3323=Errore sconosciuto del server Lobby
+3324=Connessione Persa!
+
+3325=Non ti puoi unire al server fino a che il ping non sarà visibile.  Il server potrebbe avere un firewall o essere un Server NAT.
+
+3326=Nome utente
+3327=CREA PROFILO
+3328=SESSIONI
+3329=Sessione
+3330=Mappa
+3331=Latency
+3332=Giocatori /Max
+3333=Selezione sommergibile
+3334=Selezione equipaggio
+3335=CREA
+3336=LASCIA
+3337=Chat
+3338=Normale
+3339=Radio
+3340=Coop
+3341=Avversari
+3342=Mese inizio missione
+
+
+;Results page
+3400=PAGINA RISULTATI MULTIPLAYER
+3401=RISULTATI WOLFPACK
+3402=INIZIO BATTAGLIA %s
+3403=FINE BATTAGLIA %s
+3404=RISULTATI BATTAGLIA
+3405=CAPITANO
+3406=U-BOOT
+3407=NAVI AFFONDATE
+3408=TIPO DI NAVE
+3409=TONN.
+3410=FAMA
+3411=FEDELTA’
+3412=TEMPO
+3413=LOCAZIONE
+3414=RISULTATI DETTAGLIATI
+3415=CHIUDI
+
+3416=Mappa Casuale
+3420=RISULTATI INDIVIDUALI
+3421=PUNTEGGIO
+3422=TONNELLAGGIO MERCANTILE TOTALE
+3423=TONNELLAGGIO NAVI DA GUERRA TOTALE
+3424=FAMA TOTALE
+
+;In-game menu page
+3500=RIPRENDI
+3501=CARICA PARTITA
+3502=SALVA PARTITA
+3503=OPZIONI
+3504=MENU PRINCIPALE
+3505=ESCI
+3506=TORNA AL MENU	
+3507=Vuoi tornare al menu?
+3508=Vuoi uscire da lobby?
+3509=Vuoi uscire dal gioco?
+3510=PATTUGLIAMENTO DI GUERRA
+
+;Final page
+3520=OBBIETTIVI
+3521=NAVI AFFONDATE
+3522=STATUS
+3523=PUNTEGGIO:
+3524=Mercantili
+3525=Navi da guerra
+3526=Tonnellaggio totale
+3527=AVANTI
+3528=TORNA AL GIOCO
+
+;Museum page
+3540=Esci dal Museo?
+3541=Torna al menu
+3542=Manuale di riconoscimento
+3543=Tutti
+3544=Hai un biglietto?
+
+;InGame_SaveLoad menu page
+3560=SALVA PARTITA
+3561=INDIETRO
+3562=SALVA
+3563=CANCELLA
+3564=Nome
+3565=Dimensione salvataggio: %d kB
+3566=Salva replay
+3567=Cancellare il file selezioanto?
+3568=sovrascrivere il file selezionato?
+3569=Salvataggio fallito
+3570=Caricamnto fallito
+3571=Autosalvataggio fallito
+3572=Autosalvataggio_allapartenza
+3573=Autosalvataggio_alritorno
+3574=Cancellazione fallita
+
+;Mission status
+3575=Missione fallita
+3576=Missione completata
+3577=Uscita dell'utente.
+3578=Obbiettivo/i primario/i fallito/i.
+
+;InGame_SaveLoad menu page
+3580=Modalità
+3581=Nome
+3582=Data
+3583=Replay
+3584=Dimesione salvataggio
+3585=CARICA REPLAY
+
+;AdversarialMode_Layout menu page
+3590=Positione/Rotta
+3591=Rotta
+3592=Telegrafo
+3593=Comportamento/velocità
+3594=Bussola
+3595=Velocità
+3596=Schema di pattuglia/Ordini di attacco
+3597=Schema di pattuglia
+3598=Posizione
+3599=ore
+
+;Page_GuiReplay menu page
+3610=Menu
+3611=Continua da qui
+
+;NotifyUserForDocking menu page
+3620=???????????
+3621=ORMEGGIA
+3622=Pattugliamento finito
+3623=Rifornimento
+3624=Rifornimento completato.
+3625=Rifornimento fallito.
+
+;NetResults page
+3640=Nome
+3641=Unità
+3642=Mercantili
+3643=Navi da guerra
+3644=Tonnellaggio
+3645=fama
+3646=Status
+3647=OSSEVATORE
+3648=Convoglio
+
+;Ingame 3D(camera) station names
+3700=CAMERA DI MANOVRA;      CommandRoomFree
+3701=VISUALE ESTERNA;        Free
+3702=PERISCOPIO D'ATTACCO;   Periscope
+3703=CAMERA DI MANOVRA;      InteriorFore
+3704=CAMERA DI MANOVRA;      InteriorAft
+3705=PLANCIA;                  ConningDeck
+3706=BINOCOLO;               Binocular
+3707=CANNONE DI COPERTA;     DeckGun
+3708=RADIO/SONAR;             RadioSonarRoom
+3709=CONTRAEREA;             FlakGun
+3710=CONTRAEREA SECONDARIA;  A01Gun
+3711=CONTRAEREA SECONDARIA;  A02Gun
+3712=MAPPA DI NAVIGAZIONE;   NavigatorView
+3713=CONTROLLO DATI SILURI;  WeaponsOffView
+3714=VISTA NAVE;             ObjectView
+3715=TORRETTA                
+3716=PERISCOPIO D'ATTACCO;   ConningPeriscope
+3717=;                       DeckGunZoom
+3718=TBT;                    TBT
+3719=;                       RadioRoomFree
+3720=;                       ConningTowerFree
+3721=CONTROLLI U-BOOT;       HelmsmanView
+3722=IDROFONO;               HydrophoneView
+3723=RADIO;                  RadioView
+3724=CABINA DEL COMANDANTE;  CaptainsBed
+3725=VEDETTA;                WatchView
+3726=;                       Museum
+3727=PERISCOPIO D'OSSERVAZIONE; ObsPeriscope
+
+;Ingame 2D station names
+3740=MAPPA DI NAVIGAZIONE
+3741=TDC
+3742=SITUAZIONE DANNI/EQUIPAGGIO
+3743=ORDINI
+3744=GIORNALE DI BORDO
+3745=MESSAGGI RADIO
+3746=TUTTI I MESSAGGI
+3747=MESSAGGI INVIATI
+3748=MESSAGGI RICEVUTI
+
+;UBoat upgrades tooltips
+3800=Sommergibile
+3801=Torrette
+3802=Siluri
+3803=Contraerea
+3804=Sensori
+3805=Speciale
+
+
+
+3821=Idrofono
+3822=Radar
+3823=Rilevatore Radar
+
+3824=Falsi bersagli
+3825=Rivestimenti
+3826=Speciale
+
+;Help items
+3950=AIUTO
+3951=STAZIONI
+3952=NAVIGAZIONE
+3953=ORDINI DI ATTACCO
+3954=ALTRI CONTROLLI
+3955=COMMODORO
+3960=CHIUDI
+
+;Mission
+
+4002=Istruzioni
+4003=Ordini
+4004=Fine Missione
+
+4010=Inizio
+4011=INIZIO
+4012=INDIETRO
+
+4020=Primo
+4021=Precedente
+4022=Seguente
+4023=Ultimo
+4024=Torna al menu
+
+4030=Invia Rapporto Pattuglia
+4031=Invia Rapporto Contatti
+
+4100=Nessuna
+4101=Leggera
+4102=Media
+4103=Fitta
+
+4110=Sereno
+4111=Parzialmente coperto
+4112=Nuvoloso
+
+4120=Nessuna
+4121=Media
+4122=Pesante
+
+4128=Cielo %s, Precipitazioni %s, Nebbia %s,|Velocità vento %d metri al secondo, direzione %3d.
+
+4130=Est
+4131=Ovest
+4132=Nord
+4133=Sud
+
+4140=Unità Nemica Distrutta
+4141=Unità Alleata Distrutta
+4142=Unità Neutrale Distrutta
+
+4150=Pattugliamento %d|%s, %s|Salpato il: %s|Da: %s
+4151=Pattugliamento iniziato|%s|Data: %s|Posizione: %s
+4155=|Ordini di Missione: Pattugliare la griglia %s
+
+4160=Risultati Pattugliamento|Equipaggio Perso: %s|Navi Affondate: %d|Aerei Abbattuti: %d|Tonnellagio: %d tons
+4161=feriti
+4162=morti
+
+4170=Rapporto Pattuglia
+4171=%s. Posizione %s
+4172=Siluri rimasti: %d
+4173=Petroliere affondate: %d
+4174=Mercantili affondati: %d
+4175=Navi da guerra affondate: %d
+4176=Tonnellaggio totale: %d
+
+4177=Generare una Missione
+
+4180=%s|Nave affondata! %s, %d tonnellate
+4181=%s|Aereo distrutto! %s
+
+
+;Random map
+4182=Periodo della Missione
+4183=Ora della Missione
+4184=Tipo di Convoglio
+4185=Dimensione del Convoglio
+4186=Dimensione della Scorta
+4187=Esperienza delkla scorta
+4188=Copertura Aerea
+4189=Distanza dal Convoglio
+
+4190=Messaggio Radio
+4191=Messaggio Radio Ricevuto
+4192=Da: %s|A: %s|%s
+4193=COMSUBPAC
+4194=Rapporto su contatto radio
+4195=Rapporto Contatto. %s %s , %s , Rotta %s, Velocità %d KTS!
+4196=Rapporto su contatto ricevuto. Ottimo lavoro!
+4197=Maggiore aggressivita!
+4198=Continua la missione!
+4199=Torna alla base!
+
+
+4200=Rapporto Contatti
+4201=%s. Posizione %s
+4202=Convoglio avvistato.|Velocità stimata %d nodi.|Rotta stimata %d.
+4203=Task Force avvistata.|Velocità stimata %d nodi.|Rotta stimata %d.
+4204=Ricevuto
+
+4210=Obiettivi primari
+4211=Obiettivi secondari
+4212=Raggiungere la griglia %s
+4213=Pattugliare la griglia %s per %d ore
+4215=Obbiettivi primari completati
+4217=OBBIETTIVO
+4218=A
+4219=PARTENZA DA
+
+4220=Incompleto
+4221=Completo
+4222=Fallito
+
+4230=Sta rallentando
+4231=Velocità costante
+4232=Sta aumentando velocita'
+
+4240=Fermo		
+4241=Lento
+4242=Velocita' Media
+4243=Veloce
+4244=Molto veloce
+
+4250=Neutrale
+4251=Alleato
+4252=Nemico
+4253=Sconosciuto
+
+4255=Nave
+4256=Convoglio piccolo
+4257=Convoglio
+4258=Convoglio grande
+
+4260=Nave da guerra
+4261=Task Force
+
+4270=Long
+4271=Lat
+4272=Griglia
+
+4350=Si, signore!
+4351=Impossibile eseguire!
+4352=Oh, mio Dio!!!
+4353=Dio ci aiuti!!!
+4354=Stiamo per morire!!!
+4355=Allarmeeeee!
+
+;Chief Engineer
+4400=Timone %02.0f gradi a sinistra
+4401=Timone %02.0f gradi a dritta
+4406=Propulsione normale
+4407=Ricarica batterie
+4408=Dobbiamo riemergere, signore!
+4409=Siamo in acque poco profonde, signore!
+4410=Profondità attuale %03.0f metri
+4411=Velocità attuale %02.0f nodi
+4412=Rotta attuale %03.0f
+4413=Lanciare falsi bersagli!
+4414=Falsi bersagli non disponibili
+4415=Alzare lo snorkel
+4416=Ammainare lo snorkel
+4417=Snorkel non disponibile
+4418=Signore, la riserva di carburante è scesa sotto il %d%%
+4419=Abbiamo esaurito il carburante, signore!
+4420=Signore, la carica delle batterie è scesa sotto il %d%%
+4421=Le batterie sono scariche, signore!
+4422=Ossigeno sotto %d%%, signore 					
+4423=Siamo senza ossigeno! Signore, dobbiamo emergere!
+4424=Signore, l'aria compressa è scesa sotto il %d%%
+4425=Abbiamo esaurito l'aria compressa, signore!
+4426=Velocità %.0f nodi
+4427=Profondità %.0f
+4428=Nuova rotta %03.0f
+4429=Batterie ricaricate al %d%%, signore
+4430=Signore, la riserva di ossigeno è al %d%%
+4431=Signore, la riserva di aria compressa è al %d%%
+4432=Ricarica batterie
+
+;graphic options
+4433=IMPOSTAZIONI GRAFICA
+4434=Risoluzione
+4435=Qualità Texture
+4436=Dettaglio Personaggi
+4437=Densità Particolari
+4438=Modalità Finestra
+4439=Filtro Fotografico
+4440=Bagliore Solare Diffuso
+4441=Rflessi di Luce
+4442=Effetti ambientali
+4443=Scie 3d
+4444=Onde Dettagliate
+4445=Ship Normal Maps
+4446=Ship Caustic Effects
+4447=Danni alle navi in 3d
+4448=Basso
+4449=Medio
+4450=Alto
+4451=Personalizzato
+4452=Dettaglio Terreno
+4453=Distanza Visualizzazione LOD
+4454=Nebbia volumetrica
+4455=Sincronizzazione verticale
+
+
+4460=You can switchswithch between several resolutions from the drop down list. Depending on you graphic card, bigger resolutions may generate a lower performance.
+4461=With this option you can choose the usage of the low quality textures or the high quality textures in the game.
+4462=Through this option you can enable or disable the usage of the normal maps on the characters.
+4463=With this option you can choose the amount of particles used withing the game. Higher densities may generate a lower performance.
+4464=You can check this button if you want to play in window mode or in full screen mode.
+4465=You can check this button if you want to enable all the photographic filters.
+4466=You can check this button if you want to enable the usage of sun glares in the game.
+4467=This option enables the effect of scattering sun rays under the water.
+4468=This option enables environmental effects like cloudthe clouds shadows. and the volumetric fog.
+4469=This option enables the usage of 3D ship wakes.
+4470=This option enables more realistic wave effects.
+4471=This option enables the usage of Normal Maps on the ships.
+4472=This option enables the reflections of the sun from the water on the ship.
+4473=The visual damage on a ship has 3 levels of details. If it's set to the maximum, you will have the best visual experience but you will enncounter a lower performance.
+4474=The amount of environmental 3d objects
+4475=The render distance for environmental 3d objects
+4476=This option enables volumetric fog.
+4477=This option enables synchronization to vertical refresh of the monitor.
+
+
+;Weapon Officer
+4500=Identificazione bersaglio
+4501=Calcolare la soluzione per i tubi di lancio di prua!
+4502=Calcolare la soluzione per il tubo di lancio di poppa!
+4503=Calcolare la soluzione per i tubi di lancio di poppa!
+4504=Signore, soluzione di lancio pronta
+4505=Bersaglio marcato!
+4506=Marcare la nave piu vicina
+4507=Marcare la più vicina nave da guerra
+4508=Marcare il più vicino mercantile
+4509=Marcare il miglior bersaglio
+4510=Signore, siamo troppo profondi per lanciare
+4511=Impossibile calcolare la soluzione per i tubi di prua!
+4512=Impossibile calcolare la soluzione per i tubi di poppa!
+4513=Bersaglio identificato
+4514=Distanza dal bersaglio calcolata
+4515=Velocità del bersaglio calcolata
+4516=Direzione del bersaglio acquisita
+4517=Danni allo scafo a pressione!!!
+4518=Non possiamo fermare la falla!!!
+
+4520=Attaccare il bersaglio con il cannone di coperta!
+4521=Attaccare il bersaglio con la mitragliera antiaerea!
+4522=Cannone non disponibile
+4523=Mitragliera antiaerea non disponibile
+4524=Impossibile lanciare contro al bersaglio, angolo troppo grande!
+4525=Il bersaglio è fuori portata
+4526=Siamo in acque poco profonde, signore!
+4527=Signore, siamo troppo profondi per lanciare siluri
+4528=Aprire tubo %d
+4529=Chiudere tubo %d!
+
+4530=Impossibile consigliare bersagli
+
+
+;Watch Officer
+4600=Sgombrare il cannone!
+4601=Sgomberare la mitragliatrice!
+4602=Sgomberare le mitragliatrici!
+4603=Breve distanza
+4604=Distanza media
+4605=Lunga distanza
+4606=Impossibile far fuoco, bersaglio nell'angolo cieco!
+4607=Dobbiamo posizionarci accanto alla nave rifornimento
+4608=Trasferimento rifornimenti
+4609=Rifornimento in corso
+4610=Rifornimento interrotto
+4611=Rifornimento completato
+4612=La scorta è pronta, signore
+4613=Dobbiamo seguire la scorta, signore
+4614=Seguiamo la scorta, signore
+4615=Stiamo attraccando,signore
+4616=Il contatto visivo piu' vicino è su rilevamento %03.0f, distanza %.0f %s!
+4617=Nessun contatto visivo
+
+;Navigation
+4700=Tracciare la rotta
+4701=Tracciare rotta d'intercettazione
+4702=Rotta tracciata, signore
+4703=Impostare il tipo di ricerca
+4704=Tipo di ricerca impostato
+4705=La profondità sotto la chiglia è %.0f %s!
+4706=La profondità sotto la chiglia è oltre %.0f %s!
+4707=Siamo in acque poco profonde, signore
+4708=Range to target, %02.0f centinaia!
+4709=Distanza dal bersaglio, meno di cento!
+4710=Range to target, %02.0f migliaia!
+4711=Distanza dal bersaglio, meno di diecimila!
+4712=Tornare alla rotta, signore
+4713=Nessuna rotta tracciata, signore
+4714=Il tempo sta migliorando
+4715=Il tempo sta peggiorando
+4716=La massima autonomia all'attuale velocità è %.0f %s!
+4717=Non è possibile stabilire la massima autonomia all'attuale velocità
+4718=Mancano %.0f ore
+4719=Non è possibile stabilire quanto tempo manca
+4720=Restano da percorrere %.0f %s!
+4721=Non è possibile stabilire quanto resta da percorrere
+4722=Seguire la rotta tracciata
+4723=Ultimo punto di rotta raggiunto
+
+;Radio
+4800=Contatto singolo!
+4801=Contatti multipli!
+4802=Rilevamento %c%c%c!
+4803=Lunga distanza!
+4804=Distanza media!
+4805=Breve distanza!
+4806=Intercettato un messaggio radio nemico!
+4807=Bersaglio acquisito!
+4808=Fare una spazzata!
+4809=Il piu' vicino contatto radio e' su rilevamento %03.0f, distanza %.1f %s!
+4810=Nessun messaggio radio ricevuto!
+4811=Rapporto inviato!
+4812=Impossibile inviare rapporti!
+
+;Sonar
+4900=Spazzata
+4901=Spazzata a prua
+4902=Spazzata a sinistra di prora
+4903=Spazzata a destra di prora
+4904=Spazzata al traverso di sinistra
+4905=Spazzata al traverso di destra
+4906=Spazzata a poppa
+4907=Spazzata a sinistra di poppa
+4908=Spazzata a destra di poppa
+4909=Il sonar è spento
+4910=Nave affondata!
+4911=Nave colpita!
+4912=Contatto sonar piu' vicino: %s %s! %s su rilevamento %03.0f. %s.;tipo, velocita',aspetto,rilevamento,distanza
+4913=Nessun contatto sonar
+4914=Nessun bersaglio selezionato
+4915=La distanza dal bersaglio è %d
+4916=Breve distanza
+4917=Distanza media
+4918=Lunga distanza
+4919=Seguire contatto %s su rilevamento %03.0f. %s, %s.;   tipo,rilevamento, velocita', aspetto
+4920=%s adesso su rilevamento %03.0f. %s, %s;             tipo,rivelamento, velocita', aspetto
+4921=%s perso su rilevamento %03.0f!;                     tipo,rilevamento
+4922=Contatto sonar con nave da guerra piu' vicina: %s %s %s su rilevamento %03.0f. %s.;tipo,velocita',aspetto,rilevamento, distanza
+4923=Nessun contatto sonar con navi da guerra!
+4924=Nessun contatto sonar su rilevamento %d!
+
+4970=Nessun ufficiale ai timoni
+4971=Nessun ufficiale alla carta
+4972=Nessun ufficiale alla direzione di tiro
+4973=Nessun operatore alla radio
+4974=Nessun operatore al sonar
+4975=Nessun ufficiale di vedetta in plancia
+
+
+4976=Invia il rilevamento radar al TDC
+
+;----------------------------
+; READ THIS !
+; string ids from 5000 to 5399 are reserved for crew management, systems, damage and torpedo management !
+;crew management
+
+5000=Trascina sul marinaio selezionato
+5001=Nessuna promozione
+5002=Nessuna medaglia
+5003=L'ufficio personale ha rifiutato la tua domanda di imbarcare questo elemento. Acquisisci più fama.
+5004=Il sommergibile è pieno.
+5005=Nessun elemento dell'equipaggio è approvato per una promozione al momento.
+
+5099=Gestione equipaggio
+5100=Efficienza
+5101=Esperienza
+5102=Vuoi abarcare questo elemento?
+5103=Abilità
+5104=Salute
+5105=Nome
+5106=Nessuno
+5107=Promozione
+5108=Promozioni
+5109=Fama
+;
+5111=Morale
+5112=A terra
+5113=Basso
+5114=Normale
+5115=Alto
+;
+5120=Abilità
+5121=Comando
+5122=Meccanico
+5123=Elettricista
+5124=Armi
+5125=Vedetta
+;
+5130=Turno
+5131=Di guardia
+5132=A riposo
+5133=Addormentato
+;
+5140=Attività
+5141=Addormentato
+5142=Di guardia
+5143=Manutenzione
+5144=Riparazione
+5145=Caricameto armi
+5149=Fatica
+;
+5150=Medaglie
+5151=Submarine Service
+5152=Feriti in combattimento
+5153=Patrol star
+5154=Medaglia al valore
+5155=Campaign star
+5156=Victory cross
+;
+5160=Specializzazione
+5161=Silurista
+5162=Motorista
+5163=Vedetta
+5164=Artigliere
+5165=Sensori
+5166=Comando
+5170=Scegli una specializzazione per questo marinaio
+;abilities that apply only to one compartment 
+5180=Abilità
+5181=Riduce i tempi di caricamento siluri
+5182=RIduce i malfunzionamenti dei siluri
+5183=AUmenta la velocità dei siluri
+5184=Aumenta il danno dei siluri
+5185=Aumenta la velocità in superficie
+5186=Aumenta la velocità in immersione
+5187=Aumenta la velocità
+;abilities that apply to the entire submarine 
+5200=Abilità globale
+5201=Aumenta le possibilità di morale alto
+5202=Diminuisce le possibilità di morale a terra
+
+5210=Appena promosso;for crew member
+5211=Sta dormendo;for crew member
+
+5220=Rank
+5221=Rank1
+5222=Rank2
+5223=Rank3
+5224=Rank4
+5225=Rank5
+5226=Rank6
+5227=Rank7
+5228=Rank8
+5229=Rank9
+5230=Rank10
+5231=Rank11
+5232=Rank12
+
+5300=Sistemi
+5301=Trascina gli elementi danneggiati in modo che siano immediatamente riparati dalla squadra riparazioni
+5302=Clicca per vedere di quali elementi è composto un sistema
+5303=Clicca per spostare l'elemento danneggiato in cima alla lista
+5304=Clicca per spostare l'elemento danneggiato in fondo alla lista
+5305=Questo miglioramento non può essere installato sul tuo sommergibile
+5306=Vuoto
+5307=Priorità squadra riparazioni
+
+5310=Tempo riparazioni
+5311=minuto/i
+5312=secondo/i
+5313=Tempo allagamento
+
+
+5350=Siluro
+5351=Siluri
+5352=L'ufficio approvvigionamenti ha rifiutato la tua domanda di imbarcare questo siluro. Acquisisci più fama.
+; Progress, as in "loading torpedo progress"/"firing torpedo progress"
+5353=Progresso
+
+5360=TLS Prodieri
+5361=Riserve prodiere
+5363=TLS poppieri
+5364=Riserve poppiere
+5365=Siluri prodieri
+5366=Riserve prodiere
+5367=Siluri poppieri
+5368=Riserve poppiere
+5369=Siluri alla base
+
+;_________________
+; Torpedo names
+5370=MARK 10|Velocità: 36 nodi|Autonomia: 3,200 m|Propulsione: Vapore
+5371=MARK 14|Velocità: 41/36 nodi|Autonomia: 4,100/8,200 m|Propulsione: Vapore
+5372=MARK 16|Velocità: 46 nodi|Autonomia: 12,500 m|Propulsione: Perossido di idrogeno
+5373=MARK 18|Velocità: 29 nodi|Autonomia: 3,600 m|Propulsione: Elettrica
+5374=MARK 23|Velocità: 41 nodi|Autonomia: 4,100 m|Propulsione: Vapore
+5375=MARK 27|Velocità: 12 nodi|Autonomia: 4,500 m|Propulsione: Elettrica|Note: Siluro guidato
+
+
+; READ THIS !
+; string ids from 5000 to 5399 are reserved for crew management, systems, damage and torpedo management !
+
+;------------------------------------
+;special operations
+5396=Sopravvissuti salvati
+5397=Sbarco truppe
+5398=Inserimento agente
+5399=Trasferimento rifornimenti
+5400=Siamo pronti a sbarcare le truppe
+5401=Siamo pronti a sbarcare l'agente
+5402=SIamo pronti a trasferire i rifornimenti
+
+5403=Mettere in mare il gommone
+5404=Ritardare
+
+
+;Network errors strings
+
+5405=Operazione  non riuscita
+5406=Incarico primario non riuscito
+5407=Funzionalita non supportata
+5408=Troppi incarichi
+5409=Servizio non disponibile
+5410=Buffer overflow
+5411=Operazione cancellata
+5412=Operazione in pausa
+5413=Utente gia loggato.
+5414=L'account e stato sospeso.
+5415=L'account e scaduto.
+5416=Il nome utente non e corretto.
+5417=La password inserita non e corretta.
+5418=Il nome utente inserito e gia in uso.
+5419=Service non disponibile (741).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5420=Service non disponibile (742).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5421=Service non disponibile (743).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5422=Service non disponibile (744).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5423=Service non disponibile (745).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5424=Service non disponibile (746).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5425=Errore interno (750).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5426=Errore interno (751).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5427=Errore interno (752).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5428=Errore interno (753).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5429=Invalida risposta del server (754).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5430=Invalida risposta del server (755).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5431=Invalida risposta del server (756).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5432=Errore interno (758).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5433=Invalida risposta del server (759).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5434=Creazione dell'account utent non riuscita.
+5435=Errore interno (761).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5436=Invalida risposta del server (762).  Se il problema persiste, contattare per favore il servizio di assistenza clienti.
+5437=
+5438=Codice licenza non valido.
+5439=Non e possibile caricare il file di configurazione
+5440=Non e possibile aprire il file di configurazione
+5441=Non e possibile aprire in scrittura il file di configurazione
+5442=Non e possibile aprire in lettura il file di configurazione
+5443=Non e possibile aprire in scrittura il file di configurazione
+5444=File corrotto- Per favore reinstalla il gioco
+5445=File corrotto- Per favore reinstalla il gioco
+5446=Memoria non sufficiente
+5447=I parametri inviati non sono corretti. Per esempio per un'operazione si e mandato bdInt32 e si e ricevuto un bdUInt32
+5448=I parametri inviati al Servizio Lobby non sono corretti
+5449=
+5450=La stanza e piena
+5451=La stanza non e stata trovata
+5452=L'utente non ha i permessi necessari per eseguire questa operazione
+5453=Sul server e gia presente una stanza con questo nome.
+
+5454=Ragione sconosciuta
+5455=Impossibile entrare! Partita in corso.
+5456=Non permesso
+5457=Sei stato estromesso dal server.
+5458=Sessione non piu' disponibile. Premere OK per continuare
+5459=Raggiunto numero max di giocatori
+5460=Password errata
+5461=Versione del gioco errata
+5462=Il gioco e' terminato
+5463=Risultato non valido
+5464=Errore di rete sconosciuto
+5465=Nessuna connessione
+5466=Il Client non puo' creare
+5467=Troppi giocatori
+5468=Sessione bloccata
+5469=La Password non coincide
+5470=Connessione persa
+5471=Impossibile inizializzare sessione online
+5472=Impossibile autenticarsi con questo account
+5473=Impossibile cercare sessioni
+5474=Impossibile fare host della sessione
+5475=Nome giocatore non valido! Il nome deve avere minimo 3 caratteri.
+5476=Impossibile disconnettersi
+5477=Impossibile cancellare sessione
+5478=Impossibile aggiornare sessione
+
+5500=Se selezionato, le batterie dei motori elettrici hanno durata limitata. Questo comporta l'impossibilita' di procedere immersi fino alla loro ricarica
+5501=Se selezionato, il battello utilizza una certa quantita' di aria compressa per svuotare le casse zavorra ed emergere. Se si esaurisce la scorta, potresti avere difficolta' nel fare emergere il battello. La riserva di AC e' ricaricata utilizzando i compressori in emersione, tali apparati risultano pertanto di vitale importanza per il smg.
+5502=In immersione, l'equipaggio consuma ossigeno e produce CO2. Con il passare del tempo, l'aria diventa irrespirabile, inficiando la resa degli uomini e portando addirittura alla loro morte. Se questa opzione e' selezionata, dovrai riemergere periodicamente per rinnovare l'ossigeno all'interno del battello. 
+5503=Se selezionato, il battello ha carburante limitato e, quindi, una autonomia limitata. Dovrai rientrare alla base prima che i serbatoi siano vuoti. Non ci sono battelli che possano rifornirti durante le missioni. Riceverai un avvertimento, durante un pattugliamento, quando la tua riserva avra' raggiunto il 50%.
+5504=Se selezionato, la riparazione dei danni richiedera' piu' tempo.
+5505=Se selezionato, dovrai inserire dati corretti nel TDC per lanciare i siluri. Non puoi semplicemente puntare il TBT o il periscopio e lanciare.
+5506=Se selezionato, i contatti idrofonici e visuali non appariranno nella carta di navigazione. I contatti radio, comunque, appariranno periodicamente sulla mappa stessa.
+5507=Se selezionato, la portata degli idrofoni e dei radar e' ridotta.
+5508=Se selezionato, i siluri potranno presentare dei malfunzionamenti. Tali siluri potreanno esplodere prima dell'impatto, o non esplodere affatto.
+5509=Se selezionato, il tempo di ricarica dei siluri risultera' notevolmente aumentato.
+5510=Se selezionato, la Visuale Eventi sara' disabilitata.
+5511=Se selezionato, la Visuale Esterna sara' disabilitata.
+5512=Se selezionato, l'ottica di puntamento (es. TBT o periscopio d'attacco) sara' realisticamente disturbata dal movimento del smg sulle onde. Questo rendera' il rilevamento degli obiettivi, in acque agitate, molto piu' difficile.
+5513=Se selezionato, l'indicatore di rilevamento, che indica quanto il tuo smg può essere rilevato dal nemico, sara' disabilitato. 
+5514=Se selezionato, l'Ufficiale agli armamenti non identifichera' gli obiettivi o calcolera' le soluzioni di tiro in modo automatico. Dovrai calcolare distanza, velocita', e AOB manualmente.
+
+5515=Mostra Nome Giocatore
+5516=Mostra Appartenenza Siluri
+
+5517=Densita' Oggetti a terra
+5518=Dimensione Oggetti LOD a terra
+5519=Nome Sessione
+5520=Mantieni il CD Key
+5521=CD Key
+5522=Gamma
+5523=Canali Suoni 3D
+5524=Avvertimento Limite Tempo
+5525=Illimitato
+
+;____________________________
+; sono utilizzati nel file OrdersBar.cfg:
+
+5600=Camera di manovra
+5601=VAI IN CAMERA DI MANOVRA|Ti porta all'istante in Camera di Manovra.
+5602=IMMERSIONE RAPIDA|Porta immediatamente il battello a 160 piedi di prodondità.
+5603=EMERSIONE RAPIDA|Dà aria alle casse, permettendo al sommergibile un'emersione rapida. Questa operazione d'emergenza è veloce, ma consuma molta aria compressa.
+5604=PROFONDITÀ SOTTO LA CHIGLIA|Ti informa di quanti metri d'acqua ci siano sotto la chiglia. Per questa misurazione viene impiegato un impulso sonar attivo, per cui non è consigliabile utilizzarla in presenza di imbarcazioni nemiche.
+5605=MANOVRA EVASIVA A SINISTRA|Con questa manovra d'emergenza il sommergibile si immerge ed effettua una virata stretta di 90 gradi a sinistra.
+5606=MANOVRA EVASIVA A DRITTA|Con questa manovra d'emergenza il sommergibile si immerge ed effettua una virata stretta di 90 gradi a dritta.
+5607=LANCIARE FALSI BERSAGLI|Se disponibile, verranno lanciati degli ordigni capaci di disturbare il sonar nemico. Una volta innescati, questi hanno solo pochi minuti di vita.
+5608=PROPULSIONE NORMALE
+5609=RICARICA BATTERIE SI/NO|Mentre il sommergibile è in superficie si può disattivare questa opzione per conservare nafta ed avere un piccolo incremento di velocità, ma le batterie non verranno ricaricate.
+5610=NAVIGAZIONE SILENZIOSA SI/NO|Abilitando la navigazione silenziosa verranno interrotte tutte le attività non essenziali per evitare di essere individuati dai sonari passivi. La velocità viene molto ridotta e verranno interrotte sia le riparazioni sia la ricarica dei siluri.
+
+5611=Mappa Navigazione
+5612=VAI ALLA MAPPA DI NAVIGAZIONE|Ti porta alla mappa di navigazione.
+5613=VAI ALLA MAPPA D'ATTACCO|Ti porta alla mappa d'attacco.
+5614=TRACCIA LA ROTTA|Ti permette di tracciare la rotta che il nocchiere seguirà automaticamente. Click sinistro per aggiungere un waypoint, “canc” per rimuovere l'ultimo waypoint. Click destro e il tuo nocchiere inizierà a seguire la rotta impostata fino a quando non verrà deviata manualmente.
+5615=TORNARE IN ROTTA|Ordina al nocchiere di continuare la rotta precedentemente impostata.
+5616=ROTTA DI RICERCA|Imposta automaticamente un insieme di waypoints in una rotta di ricerca.
+5617=TEMPO ALL'ARRIVO|Dà indicazioni su quanto tempo verrà impiegato per raggiungere l'ultimo waypoint.
+5618=CENTRA LA VISUALE SUL SOMMERGIBILE
+
+5621=Periscopio
+5622=VAI AL PERISCOPIO D'ATTACCO|Ti porta al periscopio d'attacco. Utilizzando la rotella del mouse si può aumentare o diminuire lo zoom.
+5623=VAI AL PERISCOPIO D'OSSERVAZIONE|Ti porta al periscopio d'osservazione. Utilizzando la rotella del mouse si può aumentare o diminuire lo zoom.
+5624=ESTENDI/AMMAINA IL PERISCOPIO D'ATTACCO|Permette di estendere o di ammainare il periscopio d'attacco.
+5625=AMMAINA IL PERISCOPIO D'ATTACCO
+5626=ESTENDI/AMMAINA IL PERISCOPIO D'OSSERVAZIONE|Permette di estendere o di ammainare il periscopio d'osservazione.
+5627=AMMAINA IL PERISCOPIO D'OSSERVAZIONE
+5628=SOLUZIONE PER IL BERSAGLIO
+5629=MANUALE DI RICONOSCIMENTO|Permette di osservare la nave nel manuale di riconoscimento.
+5630=CRONOMETRO|Visualizza il cronometro.
+5631=FOTOGRAFA|Scatta una foto al bersaglio agganciato attraverso un periscopio.
+5632=RECUPERA SUPERSTITI|Soccore i superstiti inquadrati con il binocolo.
+
+5640=Ponte
+5641=VAI SUL PONTE|Ti porta sul ponte.
+5642=VAI AL TBT|Mette i tuoi occhi dietro il TBT. Utilizzando la rotella del mouse si può aumentare o ridurre lo zoom.
+5643=SOLUZIONE PER IL BERSAGLIO
+5644=CRONOMETRO|Visualizza il cronometro.
+5645=IMPOSTA COME BERSAGLIO DEL CANNONE O CONTRAEREA|Aggancia il bersaglio per le armi secondarie attraverso il binocolo. Se i pezzi sono armati e con l'equipaggio, i serventi attaccheranno il bersaglio con l'arma adatta.
+5646=RECUPERA SUPERSTITI|Soccore i superstiti inquadrati con il binocolo.
+
+5650=Cannone
+5651=VAI AL CANNONE DI COPERTA|Ti permette di comandare manualmente il cannone. Premi la barra spaziatrice per sparare, muovi il mouse su/giù per l'alzo, clicca sui proiettili da usare e muovi il mouse a sinistra/destra per il brandeggio.
+5652=UOMINI AL CANNONE|Ordina ai membri dell'equipaggio di servire il cannone.
+5653=FUOCO A VOLONTÀ|I serventi al cannone ingaggeranno liberamente ogni bersaglio valido a tiro.
+5654=CORTO RAGGIO|I serventi al cannone attaccheranno i bersagli che si trovano entro 2000 yarde.
+5655=MIRARE ALLO SCAFO|I serventi al cannone mireranno allo scafo del bersaglio.
+5656=MIRARE AL PONTE DI COMANDO|I serventi al cannone mireranno al ponte di comando della nave bersaglio.
+5657=MIRARE AGLI ARMAMENTI|I serventi al cannone mireranno agli armamenti del bersaglio.
+5658=MIRARE ALLA LINEA DI GALLEGGIAMENTO|I serventi al cannone mireranno alla linea di galleggiamento del bersaglio.
+
+5660=Contraerea
+5661=VAI ALLA CONTRAEREA PESANTE|Ti permette di controllare manualmente la contraerea pesante.
+5662=VAI ALLA CONTRAEREA DI PRUA|Ti permette di comandare la contraerea di prua.
+5663=VAI ALLA CONTRAEREA DI POPPA|Ti permette di comandare la contraerea di poppa.
+5664=UOMINI ALLA CONTRAEREA|Invia i mitraglieri a servire le contraeree. Funziona solo in emersione.
+5665=FUOCO A VOLONTÀ|Permette ai mitraglieri di attaccare ogni bersaglio a portata.
+5666=CORTO RAGGIO|Ordina ai mitraglieri di attaccare i bersagli che si trovano entro un raggio di 1000 yarde.
+5667=INGAGGIARE BERSAGLI IN AVVICINAMENTO|Ordina ai mitraglieri di attaccare i bersagli in avvicinamento.
+
+
+5670=Sonar
+5671=VIA AL SONAR|Ti porta alla postazione sonar. Il sonar/idrofono funziona meglio se il battello è immerso.
+5672=SEGUI IL CONTATTO PIÙ VICINO|L'ufficiale riporterà il rilevamento e la distanza del contatto sonar più vicino. Continuerà a fornirti rapporti sul contatto fino a quando non si ridarà lo stesso ordine disabilitandolo.
+5673=DISTANZA DAL BERSAGLIO|Provvede a stimare la distanza dall'ultimo contatto utilizzando il sonar attivo. Utilizzando il sonar attivo, la scorta nemica può scoprire la tua locazione
+5674=RAPPORTO CONTATTI|L'ufficiale effettuerà un singolo rapporto sul contatto sonar più vicino, dandoti il rilevamento e la distanza del bersaglio.
+5675=INVIA RILEVAMENTO AL TDC|Invia il rilevamento del bersaglio corrente al TDC.
+5676=INVIA DISTANZA AL TDC|Invia la distanza dal bersaglio corrente al TDC.
+
+
+5680=Radar
+5681=VAI AL RADAR PPI|Ti porta alla stazione radar, nella postazione del PPI. Il radar PPI è utilizzabile solo quando il sommergibile è emerso.
+5682=VAI AL RADAR A-SCOPE|Ti porta alla stazione radar, nella postazione dell'A-Scope. Il radar A-Scope è utilizzabile solo quando il sommergibile è emerso.
+5683=ACCENDE/SPEGNE IL RADAR|Permette di accendere e spegnere entrambi i radar.
+5684=SPAZZATE CONTINUE|Impostare le operazioni radar tra modalità “spazzata” e “focus”.
+5685=SPAZZATA SINGOLA|L'operatore radio effettua una spazzata singola e spegne immediatamente il radar.
+5686=RAPPORTO CONTATTI
+
+5690=Gestione sommergibile
+5691=VAI ALLA SCHERMATA GESTIONE EQUIPAGGIO|Ti permette di gestire l'equipaggio e di vedere la sua corrente disposizione
+5692=VAI ALLA STAZIONE CONTROLLO DANNI|Ti permette di controllare quali sistemi sono danneggiati e di impostare la priorità delle riparazioni.5697=SQUADRA RIPARAZIONI|Permette alla squadra di iniziare le riparazioni.
+5693=VAI ALLA STAZIONE SILURI|Ti permette di controllare il tuo armamento attuale, riserve di proiettili, e i progressi del caricamento dei tuoi tubi di lancio.
+5694=TUTTO L'EQUIPAGGIO ALLE STAZIONI DI COMBATTIMENTO|Ordina a tutto l'equipaggio di portarsi ai posti di combattimento. Tutti i compartimenti riceveranno un bonus di efficienza, ma nessuno può riposare o dormire mentre la chiamata alle postazioni di combattimento è attiva.
+5695=UOMINI AL CANNONE DI COPERTA|Invia gli uomini designati a servire il cannone.
+5696=UOMINI ALLA CONTRAEREA|Invia gli uomini designati a servire la mitragliera antiaerea.
+5697=SQUADRA RIPARAZIONI|Ordina agli uomini designati di iniziare le riparazioni
+5698=RICARICA AUTOMATICA SILURI|Abilita la ricarica automatica nei siluri.
+
+5700=Videocamera
+5701=VISUALE LIBERA|Attiva la visuale libera in prossimità del sommergibile.
+5702=VISUALE ESTERNA
+5703=UNITÀ PRECEDENTE|Sposta la visuale sulla precedente unità valida.
+5704=UNITÀ SUCCESSIVA|Sposta la visuale sulla successiva unità valida.
+
+5710=Blocca/Sblocca barra di stato
+
+
+; ^ these are used in OrdersBar.cfg
+; add only texts for buttons in the hud above this line
+;____________________
+5750=Scorte
+5751=CENTRA LA VISUALE SULLA SCORTA SELEZIONATA|Cliccando quì si centra la visuale sulla scorta selezionata.
+5752=TRACCIA LA ROTTA|Questo ti permette di tracciare la rotta che il sommergibile dovrà percorrere. Click sinistro per aggiungere un waypoint, “canc” per cancellare l'ultimo waypoint, click destro e il battello inizierà a seguire la rotta tracciata fino a quando non verrà dato l'ordine di deviare.
+5753=MODALITÀ DIFENSIVA|Ordina alla scorta di rimanere nella zona di pattuglia selezionata. La scorta ingaggerà i bersagli che violeranno la sua area ma non seguirà i nemici al di fuori della sua zona.
+5754=MODALITÀ DI RICERCA|Ordina alla scorta o al convoglio di effettuare una rotta di ricerca nell'area.
+5755=INGAGGIA IL NEMICO CON LE ARMI ANTISOMMERGIBILE LATERALI|La scorta attaccherà il nemico con il suo armamento antisommergibile LATERALI.
+5756=INGAGGIA IL NEMICO CON LE ARMI ANTISOMMERGIBILE DI PRUA|La scorta attaccherà il nemico con il suo armamento antisommergibile di prua.
+
+5760=Convoglio
+5761=ROTTA EVASIVA|Ordina al convoglio di effettuare una rotta evasiva durante la navigazione. Questa è la tipica rotta a “zig-zag”.
+
+5770=Visuale esterna
+5771=VAI ALLA MAPPA DI NAVIGAZIONE|Visualizza la mappa di navigazione.
+5772=VISUALE LIBERA|Attiva la visuale libera in prossimà di un convoglio.
+5773=OSSERVA LA NAVE PRECEDENTE|Sposta la visuale sull'unità navale precedente.
+5774=OSSERVA LA PROSSIMA NAVE|Sposta la visuale sulla prossima unità navale.
+5775=OSSERVA LA PRECEDENTE UNITÀ DI SCORTA|Sposta la visuale sulla precedente unità di scorta.
+5776=OSSERVA LA PROSSIMA UNITÀ DI SCORTA|Sposta la visuale sulla precedente unità di scorta.
+5777=OSSERVA LA PRECEDENTE UNITÀ DEL CONVOGLIO|Sposta la visuale sul mercantile precedente.
+5778=OSSERVA LA PROSSIMA UNITÀ DEL CONVOGLIO|Sposta la visuale sul prossimo mercantile.
+
+; Adversarial Position "Dial"
+5790=Forward Inner Escort Position
+5791=Forward Outer Escort Position
+5792=Aft Inner Escort Position
+5793=Aft Outer Escort Position
+5794=Left Flank Inner Escort Position
+5795=Left Flank Outer Escort Position
+5796=Right Flank Inner Escort Position
+5797=Right Flank Outer Escort Position
+
+;____________________
+
+5800=Realistic sound travel time
+5801=Enable the sound velocity simulation for 3D sounds. Degrades performance to some extent.
+
+;____________________
+; v Career messages
+5820=La carriera e' terminata perche':
+5821=Ti e' stato assegnato il comando di un nuovo sommergibile. Accetti?
+5822=La torretta e' stata migliorata.
+5823=Ti e' stato offerto un lavoro d'ufficio per comandare l'intera flottiglia. Accetti?
+5824=Il tuo sommergibile e' stato danneggiato ma i tuoi ottimi risultati ti hanno aiutato per avere il comando di un nuovo sommergibile. Accetti?
+5825=Ti e' stato assegnato il comando di un nuovo sommergibile.
+5826=Il tuo sommergibile e' stato messo in disarmo e ti e' stato assegnato il comando di un nuovo sommergibile.
+
+5830=Hai affondato un importante bersasglio alleato.  Il tuo equipaggio incrocia le braccia in segno di vergogna mentre sei scortato dalla Polizia Militare dal battello al pontile. Come Capitano e Comandante, la responsabilita' delle vite dei tuoi fratelli americani uccisi  ricade solo su di te.  None of your previous achievements or lack thereof matter at all now as the charges are prepared.
+5831=Ritorni in porto circondato da festeggiamenti, tutti i membri dell'equipaggio vengono avvertiti della notizia: il Giappone si e' arreso! La guerra e' finita e finalmente puoi accettare un lavoro d'ufficio che ti e' stato offerto.
+5832=USERPLAYERUNIT_DAMAGED
+5833=OFFERED_JOB
+5834=Ormeggiato al molo
+5835=Al largo del porto
+5836=Da dove vuoi partire?
+
+5850=Attendi
+; ^ Messaggi carriera
+;____________________
+
+;UserRadio
+5851=Stazione
+5852=Frequenza
+5853=Stazione precedente
+5854=Stazione successiva
+5855=Esegui
+5857=Ferma
+5858=RADIO|impiega la radio. Questa operazione funziona solo se il sommergibile è emerso.
+5859=QUOTA PERISCOPIO|Porta immediatamente il battello a 60 piedi di profondità.
+
+5860=Nella migliore delle ipotesi, sarai accusato di incompetrenza, nella peggiore, di alto tradimento. La cosa peggiore e' che non vedrai piu' il ponte di una nave. Disgraziatamente, il tuo processo trial e' stato programmato per iniziare dopo la cessazione delle ostilita'. Ora non potrai fare altro che attendere che il Giappone si arrenda.
+5861=Il tuo sommergibile ha visto per l'ultima volta il cielo azzurro, ma tu e il tuo equipaggio sarete per sempre ricordati negli annali della storia navale. Dopo la tua dipartita, uno dei tuoi parenti e' stato decorato con una delle piu' alte medaglie che la Marina possa offrire, ma sfortunatamente nessuno puo' o vuole sapere le circostanze della tua morte.
+5862=Una fine coerente con la tua carriera di Comandante, affondi con il tuo battello con un po' di rammarico. Il tuo funerale era pieno di epiteti che descrivevano un uomo tranquillo e cauto che voleva solo servire la patria. La pioggia scroscia sull'acciaio e non hai dubbi che avresti potuto fare di peggio.
+5863=Sebbene l'Ammiraglio informa con dispiacere i tuoi parenti piu' prossimi della tua morte in mare, qualcosa ti fa sospettare che fosse un po' rasserenato. Fortunatamente, e forse senza rispetto per qualcuno che ha dato la vita, i tuoi pessimi risultati sono stati cancellati prima che siano stati inviati all'archivio nazionale. La tua famiglia crede che tu sia un eroe.
+5864=Il tuo ritiro dalla vita di mare non sembra averti rammollito. La fine della guerra e' solo l'inizio della tua sensazionale carriera in marina e della tua successiva posizione come industriale. Una gran parte delle tue memorie e' stata conservata insieme a quelle degli altri marinai con cui hai combattuto. Ora racconti le migliori storie ai tuoi nipoti di quando eri un Lupo del Pacifico.
+5865=Noncurante della tua esperienza in Marina e della tua bravura nel comando, la tua vita dopo la guerra e' quella del tipico sogno americano. Hai una bella famiglia in un paesino tranquillo con un modesto lavoro. Tu ricordi ancora i vecchi tempi di quando eri nella legione ed avevi qualcosa che ti rendeva orgoglioso: guidare il tuo equipaggio in guerra e portarlo a casa sano e salvo.
+5866=Alla fine, la tua poco brillante carriera e' giunta alla fine. Forse se fossi stato piu' aggressivo o avessi prestato piu' attenzione, non staresti qui a dispiacerti dei tempi di quando eri imbarcato. Il tuo equipaggio e' uscito sano e salvo e questa e' l'unica cosa positiva tra tutti i tuoi scarsi risultati.
+5867=Il tuo ultimo pattugliamento e' stato un fallimento. Le tue scarse prestazioni hanno costretto la Marina a promuoverti! Ora sei impiegato in un piccolo compartimento di un edificio chiamato Pentagono ma inizi a sospettare che la tua carriera come Comandante e' troppo lontana. La Marina puo' stare tranquilla perche' nessuno porta' mai mandarti via da quell'ufficio.
+5868=Grazie ad un altro successo, i tuoi colleghi dell'Alto Comando ti hanno inviato un telegramma di congratulazioni con la notizia di una promozione. La Marina pensa che potrai usare la tua enorme esperienza come Comandante di sommergibili ad Annapolis, insegnando guerra sottomarina ai cadetti. Accetti l'incarico terminando la tua carriera in mare?
+5869=La brutale lotta contro i Giapponesi da cui fai ritorno e' nulla comparato a quella che ti si presentera' nell'ufficio dell'Ammiraglio.Grazie alle tue notevoli capacita', l'Ammiraglio pensa che tu possa far sembrare le cose piu' semplici di quello che siano in realta'. Ora entri a far parte del suo staff con effetto immediato.
+5870=Al tuo rientro in porto, i meccanici ti stanno gia' aspettando sul molo battendo le mani stupendosi di come tu sia riuscito a tornare a casa. Ti aspetti che l'Ammiraglio sia molto arrabbiato dalla perdita di un sommergibile, ma lui ha gia' fatto richiesta affinche' ti venga assegnato un nuovo battello. Alla fine i tuoi precedenti successi sono serviti a qualcosa. La domanda ora e' se vuoi andartene o no. Vuoi consegnare le dimmissioni terminando la carriera con una nota di merito?
+5871=Il Dipartimento della marina ha iniziato a decommissionare la tua classe di sommergibili.  Grazie alle tue prestazioni, l'Ammiraglio della Base ti ha proposto per ricevere i nuovi equipaggiamenti. Puoi comunque andare avanti con la filosofia 'se non e' rotto non si ripara' e continuare con il tuo vecchio battello. Vuoi governare il nuovo sommergibile e continuare?
+5872=Nuovi modelli di sommergibili escono costantemente dalla linea di assemblaggio mentre lo sforzo bellico aumenta. Grazie alle tue prestazioni, sei uno dei prescelti per ricevere uno di questi nuovi modelli appena arriveranno alla base. Potrai comunque declinare l'offerta se preferisci il sommergibile attuale. Vuoi comandare il nuovo sommergibile e continuare?
+5873=Il dipartimento della Marina ha iniziato a ritirare tutti i sommergibili della classe che stai utilizzando dalle operazioni di prima linea. A causa della tua mediocre prestazione, la l'Ufficio Personale della Marina ha deciso di toglierti il comando di un battello.
+5874=Il tuo battello e' stato rifornito e ha ricevuto i seguenti miglioramenti
+5875=La tua fama e' stata ridotta.
+
+5876=Dive planes
+5877=Propeller
+5878=Pumps
+5879=CO2 level is critical, sir!
+
+5890=#TITLE# #NAME##NEWLINE#Commanding officer, #SUBMARINENAME##NEWLINE##DATE##NEWLINE##NEWLINE#For extraordinary heroism as Commanding officer of the #SUBMARINENAME# during the #PATROLNUMBER# war patrol of that vessel, the Navy Board of Decorations and Medals awards the #NEWLINE##MEDALNAME##NEWLINE# to #TITLE# #NAME#.#NEWLINE##NEWLINE#His inspiring leadership and aggressiveness are in keeping with the highest traditions of the United States Submarine Force.
+
+; giving medal with the germans: 
+5891=In the name of the Fuehrer#NEWLINE#and the Commander of the Kriegsmarine#NEWLINE##NEWLINE#I award#NEWLINE#the #MEDALNAME##NEWLINE#to #TITLE# #NAME##NEWLINE##NEWLINE##DATE#
+
+
+;-------------------------------------------------------
+; Added in SH4 German Campaign Add-on
+;
+
+6000=CAMPAGNA TEDESCA (U-BOAT)
+6001=SWITCH SIDE
+6050=Bulkhead
+
+6060=Press F1 for help
+6061=HELP (F1)
+
+6065=AMERICAN SUBMARINE SCHOOL
+6066=GERMAN SUBMARINE SCHOOL
+
+6070=AMERICAN QUICK MISSIONS
+6071=GERMAN QUICK MISSIONS
+
+6075=AMERICAN WAR PATROLS
+6076=GERMAN WAR PATROLS
+
+6080=Next ship type
+
+6085=American
+6086=German
+
+6100=GOOD WORK X NO NEW OBJECTIVE AT THIS TIME X PATROL ANOTHER AREA OF YOUR CHOICE OR RETURN TO BASE X
+6101=CONTINUE WITH YOUR CURRENT OBJECTIVE X MAINTAIN RADIO SILENCE FOR TWO HOURS X
+
+6110=You have reached the maximum number of petty officers.
+6111=You have reached the maximum number of officers.
+6112=You have reached the maximum number of officers and petty officers.
+
+
+;Strategic game message
+;----------------------
+7500="Scout airplane lost"
+7501="No airplane is available at the moment"
+7502="Scout changed course"
+7503="New scout sent"
+7504="Scout doesn't have enough fuel to reach the new patrol location"
+7505="Sorry, cannot send a scout. We have no airplanes available"
+7506="Our forces are abandoning the battlefield"
+7507="We are winning! The enemy is leaving the battle"
+7508="Enemy ship destroyed by friendly unit"
+7509="We've lost a ship"
+
+7600=Your actions during the last patrol have stained the honor of the Kriegsmarine. Enemy propaganda will greatly benefit from news of your exploits and you can only wonder how much damage you have done to the war effort.| The secret police carries you away and you know that sometime, somewhere, you will pay for your actions..
+7601=The radio man hurries to you with a message. Its from the Onkel, and it brings news of the predictable end: The war is over!||My U-boat men! Six years of submarine warfare lie behind us. You have fought like Lions! A crushing material superiority has forced us into a narrow area. A continuation of our fight on the remaining basis is no longer possible. U-boat men! Undefeated and unblemished you lay down your arms after a heroic battle without equal. We remember in deep respect our fallen comrades, who have sealed with death their loyalty to Fuehrer and Fatherland!||Comrades! Preserve your U-boat spirit, with which you have fought courageously, stubbornly, and imperturbably through the years for the good of the Fatherland.||Long Live Germany!|Your Grand Admiral
+
+7620=At the best, you'll stand accused of gross incompetence, at worse, high treason. The worst of it though is that you'll never see the deck of a ship ever again, let alone command one. Unmercifully, your trial has been scheduled to begin after the cessation of hostilities. Nothing to do now but linger in the brig until Japan decides to give up.
+7621=An example to admire for all aspiring commanders, you would have made a great leader in postwar navy.
+7622=Your promising career was ended abruptly. Your comrades wish you were given the time to become another u-boat ace, but the truth is war doesn’t forgive mistakes.
+7623=You have added another shadow in the Ehrenhalle. Your family proudly remembers you but you are lost in the annals of maritime war history.
+7624=Probably one of the most successful submarine commander ever, you become a respected Admiral in NATO navy. In the 21st century, Ubisoft uses your expertise and advice to create Silent Hunter III.
+7625=With the war over, you become a leader in the new German Navy. Often consulted by historians in the problems of u-boat warfare, you are one of the most famous figures associated with it.
+7626=The war is over. You return to your family and civilian life, proud to have been once part of the German u-boat force.
+
+7627=The battle of the Atlantic needs every man, but not any kind of man. You have proved your place is not here with the aggressive wolfpacks envisioned by Admiral Doenitz. As you get your bag and hand the boat over,  you sincerely hope what lies ahead is still a job in the Kriegsmarine, and not the train to the Eastern Front.
+7628=Germany needs its heroes, but it needs them alive. The Fuehrer has insisted that you are not to go on another combat patrol, and Doenitz has agreed that you are to take a command assignment.| Do you want to END your front line commander career?
+7629=As tough as the u-boats are, you have carried yours to the end of her fighting days. The crew is lucky to have made it home, but this also signals the end of your less than glorious career.
+7630=Be more aggressive! said the Onkel, and you have obeyed him to the letter. With your battered, scrapyard bound u-boat as proof of your performance, you know that a new assignment is waiting for you. You could opt out and help run the Ubootwaffe, but the struggle in the deep is far from over. Do you continue as a front line commander?
+7631=MESSAGE N/A: Unit retired & Good player performance.
+7632=As your submarine pulls into port you spot an officer waiting in the crowd. After greeting you warmly he gets straight to the point: your spectacular performance recommends you for the command of a new type u-boat. It’s a whole new beast though, so you can refuse and continue on your present command. Do you accept the new assignment and Continue?
+7633=MESSAGE N/A: Unit retired & Bad player performance.
+7634=MESSAGE N/A: Player receive new conning tower.
+
+
+; last index is given by MaxStrings entry (at the begining of this file)
+; if you add new items here, over the last entry, MaxStrings should be updated accordingly

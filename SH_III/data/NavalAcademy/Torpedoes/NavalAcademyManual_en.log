@@ -1,0 +1,252 @@
+
+[Log Entry 0]
+Type=0
+EntryText=Utilizzo del Periscopio
+
+[Log Entry 1]
+Type=0
+EntryText=Il Periscopio è il dispositivo principale per il puntamento dei siluri durante le fasi di attacco, quando il Sommergibile è in immersione.
+
+[Log Entry 2]
+Type=0
+EntryText=Si puo' accedere al Periscopio tramite l'icona situata nel pannello in alto a sinistra nella schermata di gioco
+
+[Log Entry 3]
+Type=0
+EntryText=In alternativa, premere il tasto F3.
+
+[Log Entry 4]
+Type=0
+EntryText=Per issare o ammainare il Periscopio, cliccare con il tasto sinistro del mouse sulla leva di azionamento.
+
+[Log Entry 5]
+Type=0
+EntryText=In alternativa, utilizzare il tasto Pagina Sù per issare il Periscopio e il tasto Pagina Giù per ammainarlo.
+
+[Log Entry 6]
+Type=0
+EntryText=Per localizzare possibili bersagli, tramite il Periscopio, occorrerà fare un giro dell'orizzonte con esso.
+
+[Log Entry 7]
+Type=0
+EntryText=Utilizzare i tasti freccia destra e sinistra per ruotare il Periscopio.
+
+[Log Entry 8]
+Type=0
+EntryText=Oppure, cliccando con il tasto sinistro del mouse all'interno della lente del Periscopio. Muovendo il mouse a destra e sinistra, si avrà il movimento corrispondente del Periscopio. Per tornare alla situazione precedente, cliccare nuovamente con il tasto sinistro.
+
+[Log Entry 9]
+Type=0
+EntryText=E' possibile ingrandire la visuale tramite il tasto TAB.
+
+[Log Entry 10]
+Type=0
+EntryText=Per colpire un bersaglio con i siluri, è necessario avere una soluzione di tiro. Per fare questo esistono due modi.
+
+[Log Entry 11]
+Type=0
+EntryText=Calcolo Automatico della Soluzione di Tiro
+
+[Log Entry 12]
+Type=0
+EntryText=Puntare il centro del mirino a croce sopra l'obiettivo. Verrà automaticamente ottenuta la posizione dell'obiettivo rispetto al proprio Sommergibile.
+
+[Log Entry 13]
+Type=0
+EntryText=Nella modalità automatica, tutti i dati necessari al calcolo della soluzione di tiro verrano eseguiti automaticamente.
+
+[Log Entry 14]
+Type=0
+EntryText=Calcolo Manuale della Soluzione di Tiro
+
+[Log Entry 15]
+Type=0
+EntryText=In modalità manuale, si dovranno reperire autonomamente tutti i dati necessari al calcolo della soluzione di tiro. Utilizzando il Blocco Note (finestra nell'angolo in alto a destra della schermata del periscopio).
+
+[Log Entry 16]
+Type=0
+EntryText=Prima cosa, identificare l'obiettivo.
+
+[Log Entry 17]
+Type=0
+EntryText=Selezionate il Manuale di Riconoscimento. Selezionate la giusta nazionalità se si tratta di Nave da Guerra, oppure utilizzate la sezione delle navi mercantili, nel manuale, per ottenere i dati del naviglio. 
+
+[Log Entry 18]
+Type=0
+EntryText=Scorrete le pagine del manuale fino a trovare un'immagine la cui silhouette è uguale alla nave inquadrata al periscopio.
+
+[Log Entry 19]
+Type=0
+EntryText=Mettete il segno di spunta sul quadratino della pagina del manuale, per confermare l'identificazione della nave.
+
+[Log Entry 20]
+Type=0
+EntryText=Fate attenzione, selezionando una nave sbagliata, otterrete una soluzione di tiro non corretta.
+
+[Log Entry 21]
+Type=0
+EntryText=Per avere la distanza del bersaglio, si avrà bisogno di conoscere l'altezza massima della nave. Questa si ottiene sempre dalla pagina selezionata del manuale.
+
+[Log Entry 22]
+Type=0
+EntryText=Fare click con il tasto sinistro del mouse sul Blocco Note per inserire la Distanza dell'obiettivo
+
+[Log Entry 23]
+Type=0
+EntryText=Verrà aperta una nuova pagina nel Blocco Note.
+
+[Log Entry 24]
+Type=0
+EntryText=Primo, allineare la linea di galleggiamento dell'obiettivo con la linea orizzontale del mirino a croce.
+
+[Log Entry 25]
+Type=0
+EntryText=Click con il tasto sinistro sulla piccola icona nell'angolo in basso a sinistra della pagina.
+
+[Log Entry 26]
+Type=0
+EntryText=Questo attiverà lo stadimetro nella visuale del periscopio.
+
+[Log Entry 27]
+Type=0
+EntryText=Posizionare, con il mouse, la linea orizzontale sul punto più alto della nave.
+
+[Log Entry 28]
+Type=0
+EntryText=Facendo click con il tasto sinistro del mouse, verrà calcolato l'angolo tra albero della nave e la superficie del mare.
+
+[Log Entry 29]
+Type=0
+EntryText=In maniera automatica verrà quindi ottenuta la soluzione dell'equazione per determinare la distanza dell'obiettivo.
+
+[Log Entry 30]
+Type=0
+EntryText=Confermare il risultato con un click sinistro del mouse sulla Check Box.Check icon.
+
+[Log Entry 31]
+Type=0
+EntryText=Per determinare l'angolo di prua dell'obiettivo, fare click con il tasto sinistro sul campo di inserimento Angolo di Prua.
+
+[Log Entry 32]
+Type=0
+EntryText=Verrà visualizzata una nuova pagina sul Blocco Note.
+
+[Log Entry 33]
+Type=0
+EntryText=Al centro della pagina, ci sarà raffigurata la nave bersaglio inscritta in un cerchio.
+
+[Log Entry 34]
+Type=0
+EntryText=Su questo cerchio, un punto segnerà la posizione relativa del Sommergibile rispetto alla nave.
+
+[Log Entry 35]
+Type=0
+EntryText=Fare click con il tasto sinistro sul punto e posizionatelo sulla posizione stimata rispetto all'obiettivo.
+
+[Log Entry 36]
+Type=0
+EntryText=L'angolo risultante verrà visualizzato nella parte in basso a destra del Blocco Note.
+
+[Log Entry 37]
+Type=0
+EntryText=Confermate il tutto con un click del tasto sinistro sull'icona di conferma.
+
+[Log Entry 38]
+Type=0
+EntryText=Per ottenere la velocità del bersaglio, fare click con il tasto sinistro sul campo Velocità.
+
+[Log Entry 39]
+Type=0
+EntryText=Verrà visualizzata una nuova pagina sul Blocco Note.
+
+[Log Entry 40]
+Type=0
+EntryText=Fare click con il tasto sinistro sul cronometro nell'angolo in basso a sinistra.
+
+[Log Entry 41]
+Type=0
+EntryText=Il cronometro inizierà a prendere il tempo.
+
+[Log Entry 42]
+Type=0
+EntryText=Mentre il cronometro corre, mantenere la visuale del periscopio bloccata sul bersaglio.
+
+[Log Entry 43]
+Type=0
+EntryText=Tenere il bersaglio in questa situazione per almeno 10 secondi.
+
+[Log Entry 44]
+Type=0
+EntryText=Click con il tasto sinistro per fermare il cronometro.
+
+[Log Entry 45]
+Type=0
+EntryText=La velocità verrà visualizzata automaticamente.
+
+[Log Entry 46]
+Type=0
+EntryText=Confermare il risultato con il tasto sinistro, sull'icona di conferma.
+
+[Log Entry 47]
+Type=0
+EntryText=Sotto il Blocco Note, verrà visualizzata la Giro-Bussola, con l'impostazione della soluzione di tiro del siluro.
+
+[Log Entry 48]
+Type=0
+EntryText=Questa rappresenta la direzione (relativamente al Sommergibile), in cui il siluro dovrebbe essere lanciato per colpire il bersaglio.
+
+[Log Entry 49]
+Type=0
+EntryText=La soluzione di tiro risulterà valida, solamente se il bersaglio manterrà rotta e velocità identiche a quelle prese durante le misurazioni.
+
+[Log Entry 50]
+Type=0
+EntryText=Pannello di Controllo Siluri.
+
+[Log Entry 51]
+Type=0
+EntryText=Le icone rotonde, con numeri romani impressi sopra, nella parte in basso a destra dell'interfaccia, indicano i tubi di lancio.
+
+[Log Entry 52]
+Type=0
+EntryText=Il colore verde indica che il tubo è carico.
+
+[Log Entry 53]
+Type=0
+EntryText=Il colore rosso indica che il tubo è in ricarica.
+
+[Log Entry 54]
+Type=0
+EntryText=Il colore grigio indica che non sono più disponibili siluri da caricare.
+
+[Log Entry 55]
+Type=0
+EntryText=Quando si ha una soluzione di tiro ottimale, si deve selezionare un tubo di lancio per poter lanciare un siluro. Fare click con il tasto sinistro per selezionarlo. Tasto sinistro sul pulsante di lancio per espellere il siluro.
+
+[Log Entry 56]
+Type=0
+EntryText=Controllo UZO
+
+[Log Entry 57]
+Type=0
+EntryText=L'UZO è uno strumento ottico alternativo al periscopio, utilizzabile quando si è in emersione. L'UZO ha le stesse funzionalità del periscopio. Nota: L'UZO ha un indice di ingrandimento di x7.
+
+[PageImg]
+Nb=8
+Mat0=
+Crop0=
+Mat1=
+Crop1=
+Mat2=
+Crop2=
+Mat3=
+Crop3=
+Mat4=
+Crop4=
+Mat5=
+Crop5=
+Mat6=
+Crop6=
+Mat7=
+Crop7=
+

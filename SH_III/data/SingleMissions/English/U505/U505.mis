@@ -1,0 +1,457 @@
+
+[Mission]
+Title=La cattura dell'U-505
+MissionType=0
+MissionDataType=0
+Year=1944
+Month=6
+Day=4
+Hour=11
+Minute=5
+Fog=0
+FogRand=0
+Clouds=1
+CloudsRand=1
+Precip=0
+PrecipRand=0
+WindHeading=0
+WindSpeed=8.000000
+WindRand=0
+WeatherRndInterval=2
+SeaType=0
+Briefing=Sud Atlantico, Giugno 1944||BRIEFING||Il 4 giugno, un gruppo di navi militari a caccia di sommergibili, guidate dalla USS Guadalcanal, stava dirigendosi verso Casablanca.||Viaggiando in direzione nord, in seguito a intercettazioni Radio e a ULTRA, si aspettavano di incrociare un sommergibile.||E così fu! Prima di quanto si aspettassero. Tu ti trovi in una pessima situazione, a pochi minuti dalla tua distruzione. Ma nella stessa situazione si trova anche la USS Guadalcanal.||OBIETTIVO PRIMARIO|Affondare la USS Guadalcanal
+
+[Group 1]
+GroupName=Task Force 22.3
+CommandUnitName=USS Guadalcanal
+Category=0
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=true
+EvolveFromEntryDate=false
+
+[Group 1.Unit 1]
+Name=USS Guadalcanal
+Class=CVECasablanca
+Type=8
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19430601
+DeleteOnLastWaypoint=true
+GameEntryDate=19440515
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2319980.000000
+Lat=2580150.000000
+Height=0.000000
+Heading=0.000000
+Speed=10.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 1.Unit 1.Waypoint 1]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-2319790.000000
+Lat=2585330.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 2]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-2322440.000000
+Lat=2585250.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 3]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-2325840.000000
+Lat=2585210.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 4]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-2327160.000000
+Lat=2596070.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 5]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-2271820.000000
+Lat=3514610.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 6]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-1449820.000000
+Lat=4036610.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 7]
+Speed=10.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-961820.000000
+Lat=4042610.000000
+Height=0.000000
+
+[Group 1.Unit 2]
+Name=USS Flaherty
+Class=DEEvarts
+Type=3
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19420501
+DeleteOnLastWaypoint=true
+GameEntryDate=19440724
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2322650.000000
+Lat=2579560.000000
+Height=0.000000
+Heading=0.000000
+Speed=10.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 3]
+Name=USS Pope
+Class=DEEvarts
+Type=3
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19420501
+DeleteOnLastWaypoint=true
+GameEntryDate=19440724
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2319810.000000
+Lat=2584680.000000
+Height=0.000000
+Heading=0.000000
+Speed=10.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 4]
+Name=USS Pillsbury
+Class=DEEvarts
+Type=3
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19420501
+DeleteOnLastWaypoint=true
+GameEntryDate=19440724
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2321930.000000
+Lat=2581540.000000
+Height=0.000000
+Heading=0.000000
+Speed=10.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 5]
+Name=USS Jenks
+Class=DEBuckley
+Type=3
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19430101
+DeleteOnLastWaypoint=true
+GameEntryDate=19440515
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2316580.000000
+Lat=2582330.000000
+Height=0.000000
+Heading=0.000000
+Speed=10.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 6]
+Name=USS Chatelain
+Class=DEEvarts
+Type=3
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19420501
+DeleteOnLastWaypoint=true
+GameEntryDate=19440515
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2317907.000000
+Lat=2582485.000000
+Height=0.000000
+Heading=0.000000
+Speed=10.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 2]
+GroupName=Scramble 1
+CommandUnitName=VF1
+Category=1
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=false
+EvolveFromEntryDate=false
+
+[Group 2.Unit 1]
+Name=VF1
+Class=TBAvenger
+Type=303
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19420501
+DeleteOnLastWaypoint=false
+Loadout=2x250Kg Bombs
+GameEntryDate=19420501
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2324700.000000
+Lat=2582480.000000
+Height=150.000000
+Heading=78.216797
+Speed=150.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 2.Unit 1.Waypoint 1]
+Speed=250.000000
+Radius=100.000000
+Loop=-1
+LoopProbability=100
+Long=-2315310.000000
+Lat=2582800.000000
+Height=150.000000
+
+[Group 2.Unit 1.Waypoint 2]
+Speed=150.000000
+Radius=50.000000
+Loop=-1
+LoopProbability=100
+Long=-2316500.000000
+Lat=2585460.000000
+Height=100.000000
+
+[Group 2.Unit 1.Waypoint 3]
+Speed=150.000000
+Radius=100.000000
+Loop=-1
+LoopProbability=100
+Long=-2318970.000000
+Lat=2586230.000000
+Height=100.000000
+
+[Group 2.Unit 1.Waypoint 4]
+Speed=150.000000
+Radius=100.000000
+Loop=-1
+LoopProbability=100
+Long=-2320990.000000
+Lat=2585030.000000
+Height=100.000000
+
+[Group 2.Unit 1.Waypoint 5]
+Speed=150.000000
+Radius=100.000000
+Loop=-1
+LoopProbability=100
+Long=-2321940.000000
+Lat=2583360.000000
+Height=100.000000
+
+[Group 2.Unit 1.Waypoint 6]
+Speed=150.000000
+Radius=0.000000
+Loop=0
+LoopProbability=10
+Long=-2320210.000000
+Lat=2581300.000000
+Height=100.000000
+
+[Group 2.Unit 1.Waypoint 7]
+Speed=150.000000
+Radius=0.000000
+Loop=0
+LoopProbability=100
+Long=-2317299.000000
+Lat=2580720.000000
+Height=100.000000
+
+[Group 2.Unit 2]
+Name=VF7
+Class=TBAvenger
+Type=303
+Origin=American
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19420501
+DeleteOnLastWaypoint=false
+Loadout=2x250Kg Bombs
+GameEntryDate=19420501
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2325045.000000
+Lat=2581830.000000
+Height=150.000000
+Heading=78.216797
+Speed=150.000000
+CrewRating=4
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Unit 1]
+Name=U-505
+Class=SSTypeIXC
+Type=200
+Origin=German
+Side=2
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19410601
+DeleteOnLastWaypoint=false
+GameEntryDate=19431201
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-2317350.000000
+Lat=2582840.000000
+Height=-12.000000
+Heading=312.302185
+Speed=5.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 1.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-2320300.000000
+Lat=2584580.000000
+Height=-12.000000
+
+[Unit 1.Waypoint 2]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-2325780.000000
+Lat=2588010.000000
+Height=-12.000000
+
+[Objective 1]
+ObjName=Affondare la USS Guadalcanal
+Obj=0
+ObjType=0
+RenownAwarded=0
+ClassName=CVECasablanca
+No=1
+
+[Trigger 1]
+TrigName=Casablanca gone
+Type=4
+ClassName=CVECasablanca
+No=1
+
+[Event 1]
+EventName=Guadalcanal
+Type=1
+TriggersNo=1
+Trigger1=Casablanca gone
+Obj=Sink the Guadalcanal
+Cmd=5
+
+[EditorParams]
+InitLongOff=26575000.000000
+InitLatOff=-9698500.000000
+ZoomIndex=0

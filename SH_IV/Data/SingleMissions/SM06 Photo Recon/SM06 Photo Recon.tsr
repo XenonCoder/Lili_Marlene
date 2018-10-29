@@ -1,0 +1,8 @@
+
+[Text]
+MissionBriefing=Midway|12 giugno 1943|#SM06 Photo Recon.tga#0,0,400,256||BRIEFING|Come unità impegnata nello sforzo bellico per contrastare l'impero giapponese, ti viene assegnato il pattugliamento della zona intorno allo stretto di Mindoro. Attacca le navi nemiche, dando la priorità alle navi cisterna.||I nostri servizi segreti ci hanno informati sulla possibilità che il nemico stia usando la Baia di Batangas come area di preparazione per la sua flotta. Se si verificano circostanze adatte, conduci anche una ricognizione fotografica del porto e riferisci sulla disposizione della flotta nemica.||OBIETTIVO PRIMARIO|Scatta foto alla flotta nemica.|
+SM06_Message01=OTTIMO SCATTO X MISSIONE COMPIUTA X PORTARE IMMEDIATAMENTE I NEGATIVI ALLA BASE X
+SM06_Message02=LA FLOTTA IMPERIALE HA SUBITO NUMEROSE PERDITE X LAVORO ECCELLENTE X OBIETTIVO COMPLETATO X
+MissionTitle=Ricognizione fotografica
+SM06_Objective01=Scatta fotografie alla Baia di Batangas.
+SM06_Objective02=Ingaggiare i mercantili nemici.

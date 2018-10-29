@@ -1,0 +1,87 @@
+
+[Mission]
+Title=Scapa Flow
+MissionType=0
+MissionDataType=0
+Year=1939
+Month=10
+Day=10
+Hour=17
+Minute=35
+Fog=1
+FogRand=1
+Clouds=1
+CloudsRand=1
+Precip=0
+PrecipRand=1
+WindHeading=135
+WindSpeed=4.000000
+WindRand=1
+WeatherRndInterval=6
+SeaType=0
+Briefing=Atlantico del Nord, Ottobre 1939||BRIEFING|Ti trovi a NE della base navale inglese di Scapa Flow. Tenta di infiltrarti all'interno delle difese e affondare quante navi da guerra riesci a trovare. Buona Fortuna!||OBIETTIVO|Obiettivi Primari - NAvi da Guerra Britanniche
+
+[Unit 1]
+Name=U-54
+Class=SSTypeVIIB
+Type=200
+Origin=German
+Side=2
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380601
+DeleteOnLastWaypoint=true
+GameEntryDate=19380625
+GameEntryTime=0
+GameExitDate=19430304
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=-317050.000000
+Lat=7075295.000000
+Height=0.000000
+Heading=270.000000
+Speed=3.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 1.Waypoint 1]
+Speed=3.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=-319850.000000
+Lat=7075295.000000
+Height=0.000000
+
+[Objective 1]
+ObjName=Affondare NAvi da Guerra Britanniche
+Obj=2
+ObjType=0
+RenownAwarded=2500
+Tonnage=28000
+TonnageType=2
+
+[Trigger 1]
+TrigName=WarshipSunk
+Type=5
+Tonnage=28000
+TonnageType=2
+
+[Event 1]
+EventName=Obiettivo Raggiunto
+Type=0
+TriggersNo=1
+Trigger1=WarshipSunk
+Message=Congratulazioni! Rientra alla base!
+RepeatedUntilReceived=true
+Critical=false
+
+[EditorParams]
+InitLongOff=-20715158.000000
+InitLatOff=10643533.000000
+ZoomIndex=6

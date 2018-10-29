@@ -1,0 +1,8 @@
+
+[Text]
+SM04 _Message01=CONFERMATO AFFONDAMENTO CORAZZATA YAMATO X LAVORO ECCELLENTE X
+SM04 _Message02=NUMERO DI PERDITE INFLITTE ALLA FLOTTA GIAPPONESE SUFFICIENTE X I GIAPPONESI SI STANNO RITIRANDO X MISSIONE COMPLETATA X
+MissionBriefing=Mar delle Filippine|19 giugno 1944|#SM04 Battle of Philippine Sea.tga#0,0,400,256||BRIEFING|In risposta all'invasione americana delle Isole Mariana, la flotta giapponese si sta spostando in massa alla ricerca di una battaglia decisiva, ma questa volta la flotta statunitense è più che alla sua altezza.||Il problema è piuttosto localizzare in tempo la flotta nipponica, ed è proprio ciò che ha fatto il tuo sommergibiletime.||OBIETTIVO PRIMARIO|Affondare la Yamato.|Affondare le navi da guerra giapponesi.|
+MissionTitle=Battaglia nel Mar delle Filippine
+SM04 _Objective01=Affondare la Yamato
+SM04 _Objective02=Ingaggiare la flotta nemica.

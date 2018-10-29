@@ -1,0 +1,20 @@
+
+[Sensor 1]
+NodeName=O01
+LinkName=AI_Visual
+StartDate=19380101
+EndDate=19481231
+
+[Sensor 2]
+NodeName=R01
+LinkName=ASVMarkII
+StartDate=19420401
+EndDate=19430601
+
+[Sensor 3]
+NodeName=R01
+LinkName=ASVMarkIII
+StartDate=19430601
+EndDate=19440601
+
+

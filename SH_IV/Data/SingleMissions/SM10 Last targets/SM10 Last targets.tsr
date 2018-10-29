@@ -1,0 +1,6 @@
+
+[Text]
+SM10 _Objective01=Affonda la corazzata Yamato.
+MissionBriefing=Stretto di Bungo, est di Kyushu|13 gennaio 1945 |#SM10 Last targets.tga#0,0,400,256||BRIEFING|Due giorni fa un nostro velivolo da ricognizione ha individuato una grossa nave non identificata mentre entrava nella baia di Hiroshima. Ulteriori informazioni giunteci hanno confermato che l'enorme corazzata Yamato si trova ancorata per riparazioni nel porto di Kure.||Cerca di infiltrarti nella base navale di Kure e di affondare la Yamato: affondare la loro nave ammiraglia costituirebbe un duro colpo per il morale dei Giapponesi, a cui dimostreremmo che non c'è posto dove possano nascondersi.||OBIETTIVO PRIMARIO|Affonda la corazzata Yamato.
+MissionTitle=L'ultimo bersaglio
+SM10 _Message01=CONFERMATO L'AFFONDAMENTO DELLA CORAZZATA YAMATO X OTTIMO LAVORO X MISSIONE COMPIUTA X

@@ -1,0 +1,8 @@
+
+[Text]
+SM02_Message01=CONFERMATO AFFONDAMENTO CORAZZATA NEMICA X OBIETTIVO COMPLETATO X
+SM02_Message02=CONFERMATO AFFONDAMENTO CORAZZATA YAMATO X IL COMANDO SI CONGRATULA PER IL SUCCESSO DELLA MISSIONE X
+MissionBriefing=Filippine|23 ottobre 1944|#SM02 Palawan Passage.tga#0,0,400,256||BRIEFING|Il tuo sommergibile è stato inviato per intercettare le unità giapponesi in risposta agli sbarchi statunitensi a Leyte, nelle Filippine.||Alle 4:51 di stamattina, il tuo operatore radar SJ ha rilevato un gruppo di contatti nemici in direzione 230. A quanto pare, i Giapponesi stanno davvero venendo da quella direzione. E' ora di andare a dare un'occhiata.||OBIETTIVO PRIMARIO|Attacca le forze giapponesi||
+SM02_Objective01=Affonda una corazzata nemica.
+SM02_Objective02=Affonda la Yamato.
+MissionTitle=Imboscata nel Passaggio di Palawan

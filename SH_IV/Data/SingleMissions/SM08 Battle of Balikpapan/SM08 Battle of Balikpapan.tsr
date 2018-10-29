@@ -1,0 +1,8 @@
+
+[Text]
+MissionBriefing=Stretto di Makassar, costa est del Borneo|24 gennaio 1942|#SM08 Battle of Balikpapan.tga#0,0,400,256||BRIEFING|Il 2 gennaio, una missione di ricongizione aerea ha individuato un convoglio di 15 navi da trasporto truppe dirette a Balikpapan, un'importante zona petrolifera nel Borneo olandese sudorientale.||OBIETTIVO PRIMARIO|Attaccare le forze d'invasione giapponesi dirette a Balikpapan.|
+MissionTitle=La battaglia di Balikpapan
+SM08 _Objective01=Attaccare le forze d'invasione giapponesi dirette a Balikpapan.
+SM08 _Objective02=Affonda la nave Naka dell'Ammiraglio Nishimura.
+SM08 _Message01=LA FORZA D'INVASIONE HA SUBITO MOLTE PERDITE X L'ATTACCO GIAPPONESE SI E' FERMATO X MISSIONE COMPIUTA X
+SM08 _Message02=CONFERMATO L'AFFONDAMENTO DELL'INCROCIATORE NAKA X CONGRATULAZIONI X OBIETTIVO COMPLETATO X

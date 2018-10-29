@@ -1,0 +1,344 @@
+
+[Mission]
+Title=Convoy Attack
+MissionType=0
+MissionDataType=0
+Year=1939
+Month=6
+Day=15
+Hour=19
+Minute=35
+Fog=0
+FogRand=0
+Clouds=1
+CloudsRand=1
+Precip=0
+PrecipRand=0
+WindHeading=95
+WindSpeed=2.000000
+WindRand=1
+WeatherRndInterval=2
+SeaType=0
+Briefing=Leutenant z. See,||Questa missione è l'esame finale per ottenere il comando di un U-Boat.||Utilizza tutte le nozioni apprese nelle lezioni precedenti per avvicinarti al convoglio e provare il valore degli U-Boat.||
+
+[Group 1]
+GroupName=Piccolo Convoglio
+CommandUnitName=Janet Marie
+Category=0
+RandStartRadius=0.000000
+DeleteOnLastWaypoint=true
+EvolveFromEntryDate=false
+
+[Group 1.Unit 1]
+Name=Janet Marie
+Class=KLS
+Type=102
+Origin=British
+Side=1
+Commander=0
+CargoExt=1
+CargoInt=0
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1723205.000000
+Lat=6592750.000000
+Height=0.000000
+Heading=70.193764
+Speed=5.000000
+CrewRating=2
+DelayMin=142560
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Group 1.Unit 1.Waypoint 1]
+Speed=5.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1724290.000000
+Lat=6593186.000000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 2]
+Speed=2.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1740455.000000
+Lat=6598962.500000
+Height=0.000000
+
+[Group 1.Unit 1.Waypoint 3]
+Speed=2.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1872700.000000
+Lat=6569210.000000
+Height=0.000000
+
+[Group 1.Unit 2]
+Name=Newberg
+Class=KSQ
+Type=102
+Origin=British
+Side=1
+Commander=0
+CargoExt=2
+CargoInt=0
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1723435.625000
+Lat=6592255.500000
+Height=0.000000
+Heading=70.193764
+Speed=5.000000
+CrewRating=1
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 3]
+Name=BR Piccola Petroliera#1
+Class=OTSF
+Type=101
+Origin=British
+Side=1
+Commander=0
+CargoExt=0
+CargoInt=2
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1722716.250000
+Lat=6592587.000000
+Height=0.000000
+Heading=70.193764
+Speed=5.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 4]
+Name=BR Mercantile Costiero#1
+Class=KSQ
+Type=102
+Origin=British
+Side=1
+Commander=0
+CargoExt=4
+CargoInt=0
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1722976.500000
+Lat=6593230.000000
+Height=0.000000
+Heading=70.193764
+Speed=5.000000
+CrewRating=1
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 5]
+Name=BR Mercantile Costiero#2
+Class=KSQ
+Type=102
+Origin=British
+Side=1
+Commander=0
+CargoExt=1
+CargoInt=1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1722903.750000
+Lat=6592077.000000
+Height=0.000000
+Heading=70.193764
+Speed=5.000000
+CrewRating=3
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 6]
+Name=BR Motopeschereccio Armato#1
+Class=PCTrawler
+Type=0
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451201
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1722225.000000
+Lat=6592355.000000
+Height=0.000000
+Heading=70.193764
+Speed=5.000000
+CrewRating=1
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Group 1.Unit 7]
+Name=BR DD Hunt I#1
+Class=DDHuntI
+Type=4
+Origin=British
+Side=1
+Commander=0
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380101
+DeleteOnLastWaypoint=true
+GameEntryDate=19380101
+GameEntryTime=0
+GameExitDate=19451231
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1723610.000000
+Lat=6592940.000000
+Height=0.000000
+Heading=70.193764
+Speed=5.000000
+CrewRating=1
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+
+[Unit 1]
+Name=Tipo VIIB#1
+Class=SSTypeVIIB
+Type=200
+Origin=German
+Side=2
+Commander=1
+CargoExt=-1
+CargoInt=-1
+CfgDate=19380601
+DeleteOnLastWaypoint=true
+GameEntryDate=19380625
+GameEntryTime=0
+GameExitDate=19430304
+GameExitTime=0
+EvolveFromEntryDate=false
+Long=1724600.000000
+Lat=6592205.000000
+Height=-12.000000
+Heading=333.667999
+Speed=3.000000
+CrewRating=2
+DelayMin=0
+ReportPosMin=-1
+ReportPosProbability=100
+RandStartRadius=0.000000
+NextWP=0
+
+[Unit 1.Waypoint 1]
+Speed=3.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1724122.500000
+Lat=6592995.000000
+Height=-12.000000
+
+[Unit 1.Waypoint 2]
+Speed=1.000000
+Radius=0.000000
+Loop=-1
+LoopProbability=100
+Long=1723705.000000
+Lat=6593785.000000
+Height=-12.000000
+
+[Objective 1]
+ObjName=Affondare naviglio per almeno 8000 tonnellate
+Obj=2
+ObjType=0
+RenownAwarded=300
+Tonnage=8000
+TonnageType=0
+
+[Objective 2]
+ObjName=Affondare naviglio per almeno 15000 tonnellate o piu'
+Obj=2
+ObjType=1
+RenownAwarded=700
+Tonnage=15000
+TonnageType=0
+
+[Trigger 1]
+TrigName=Obiettivo 1 raggiunto
+Type=2
+ObjName=Affondare naviglio per almeno 8000 tonnellate
+ObjState=0
+
+[Trigger 2]
+TrigName=Obiettivo 2 raggiunto
+Type=2
+ObjName=Affondare naviglio per almeno 15000 tonnellate o piu'
+ObjState=0
+
+[Event 1]
+EventName=8000 tonnellate affondate
+Type=0
+TriggersNo=1
+Trigger1=Obiettivo 1 raggiunto
+Message=Congratulazioni, Leutenant z. See!|Era il minimo per superare l'esame.|Da ora puoi interrompere l'esame in qualsiasi momento
+RepeatedUntilReceived=true
+Critical=true
+
+[Event 2]
+EventName=15000 tonnellate affondate
+Type=0
+TriggersNo=1
+Trigger1Obiettivo 2 raggiunto
+Message=LAvoro eccellente, Leutenant z. See!|Hai provato di essere un valido comandante di U-Boot.|Congratulazioni!
+RepeatedUntilReceived=true
+Critical=true
+
+[EditorParams]
+InitLongOff=-21586524.000000
+InitLatOff=10797825.000000
+ZoomIndex=4

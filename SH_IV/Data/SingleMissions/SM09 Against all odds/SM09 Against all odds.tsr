@@ -1,0 +1,6 @@
+
+[Text]
+SM09 _Message01=LE FORZE GIAPPONESI SI RITIRANO X NAVIGAZIONE SICURA FINO ALLA BASE X MISSIONE COMPLETATA X
+MissionBriefing=Mar delle Camotes, Isole Filippine|22 agosto 1942|#SM09 Against all odds.tga#0,0,400,256||BRIEFING|Il 22 agosto, mentre tornava a Brisbane, la USS Skipjack fu presa in trappola da navi da scorta giapponesi nelle acque basse al largo delle Isole Camotes. Circondata e in pesante inferiorità numerica, la nave cercò di raggiungere le acque profonde del Mar di Bohol.||OBIETTIVO PRIMARIO|Taggiungere le acque profonde del Mar di Bohol.|
+MissionTitle=Contro ogni pronostico
+SM09 _Objective01=Raggiungi le acque profonde del Mar di Bohol.
