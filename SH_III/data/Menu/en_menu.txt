@@ -16,7 +16,7 @@ MaxStrings=5000
 10=Si
 11=No
 12=OK
-13=Andar pel vasto mar ridendo in faccia a Monna Morte ed al Destino...
+13=Andar pel vasto mar ridendo in faccia a Monna Morte ed al Destino.
 
 14=GRADO;BASE
 15=FLOTTIGLIA;DIARIO DEL COMANDANTE
@@ -41,7 +41,7 @@ MaxStrings=5000
 30=Indietro
 31=OPZIONI
 
-32=Nome carriera gi‡ in uso. Sovrascrivere?
+32=Nome carriera gi√† in uso. Sovrascrivere?
 33=Missione Completata
 34=Giornale di bordo
 
@@ -57,7 +57,7 @@ MaxStrings=5000
 44=Comp. e Sottosistemi
 
 45=Cambio base di assegnazione a: %s
-46=Tipo Sommergibile: %s|Punto di Partenza : %s, direzione %.0f∞|Griglia (Area Pattugliamento) %s|Base di Partenza: %s|Ritorna alla Base: %s
+46=Tipo Sommergibile: %s|Punto di Partenza : %s, direzione %.0f¬∞|Griglia (Area Pattugliamento) %s|Base di Partenza: %s|Ritorna alla Base: %s
 47=Richiedere trasferimento!
 48=Fama non sufficiente!
 49=FAMA
@@ -67,8 +67,8 @@ MaxStrings=5000
 53=DIARI
 54=MISSIONE
 55=OPZIONI
-56=RITORNA AL MENŸ
-57=Flottiglia non pi˘ operativa. Sei trasferito a %s.
+56=RITORNA AL MEN√ô
+57=Flottiglia non pi√π operativa. Sei trasferito a %s.
 58=CAMPAGNA
 59=Sei sicuro?
 
@@ -111,18 +111,18 @@ MaxStrings=5000
 91=Nessuna richiesta
 92=Richiesta negata
 93=Richiesta accettata
-94=Il caricamento di questo salvataggio canceller‡ tutti i salvataggi successivi ad esso. Vuoi procedere?
+94=Il caricamento di questo salvataggio canceller√† tutti i salvataggi successivi ad esso. Vuoi procedere?
 95=Pattuglia %3d
 96=Giocatore
 
 97=Troppo personale! Sbarca gli uomini in eccesso!
 98=Pattugliamento: Data Inizio: %s %d, %d Data Fine: %s %d, %d - %s
-99=Questo nome Ë gi‡ in uso!
+99=Questo nome √® gi√† in uso!
 100=Sei|sicuro?
 101=Troppi ufficiali!
 102=Abbandonare la missione?
 103=Troppi ufficiali in caserma!
-104=Ufficiale gi‡ selezionato!
+104=Ufficiale gi√† selezionato!
 105=Fama non sufficiente!
 106=Troppi Sottufficiali!
 107=Compartimento pieno!
@@ -143,14 +143,14 @@ MaxStrings=5000
 
 130=CARRIERA
 131=Manuale Tecnico
-132=Gi‡ caricato.
+132=Gi√† caricato.
 133=Carriera terminata!
 
 140=Nr. Pattugliamento: %d|Data Inizio: %02d/%02d/%04d|Luogo di Partenza: %s|Data Fine: %02d/%02d/%04d|Luogo di Arrivo: %s|Sommergibile: %s|Flottiglia: %s|Emblema: %s
 141=|Mercantili Affondati: %d|Tonnellaggio Mercantili: %.02f|Navi da Guerra Affondate: %d|Tonnellaggio Navi da Guerra: %.02f|Tipo Navi militari Affondate|  Corazzate: %d|  Incrociatori: %d|  Portaerei: %d|  Portaerei Scorta: %d|  Incrociatori Pesanti: %d|  Incrociatori Leggeri: %d|  Incrociatori Ausiliari: %d|  Cacciatorpediniere: %d|  Cacciatorpediniere Scorta: %d|  Fregate: %d|  Posamine: %d|  Dragamine: %d|  Corvette: %d| Pattugliatori: %d
 142=|Aerei Abbattuti: %d|Ufficiali Morti: %d|Sottufficiali Morti: %d|Marinai Morti: %d
-143=|Esperienza Equipaggio: %d| Integrit‡ Scafo: %.02f|Fama (per pattugliamento): %.02f
-144=Impossibile caricare questa Carriera. Il sommergibile Ë stato distrutto.
+143=|Esperienza Equipaggio: %d| Integrit√† Scafo: %.02f|Fama (per pattugliamento): %.02f
+144=Impossibile caricare questa Carriera. Il sommergibile √® stato distrutto.
 
 148=Equipaggio non sufficente in %s; efficenza
 
@@ -171,40 +171,40 @@ MaxStrings=5000
 163=Bootsmann
 164=Stabsbootsmann
 165=Stabsoberbootsmann
-166=Oberf‰hnrich z. S.
+166=Oberf√§hnrich z. S.
 167=Leutnant z. S.
 168=Oberleutnant z. S.
 169=Oberleutnant z. S.
 170=Leutnant z. S.; Oberleutnant z. S.
-171=Oberleutnant z. S.; Kapit‰nleutnant
-172=Kapit‰nleutnant; Korvettenkapit‰n
-173=Korvettenkapit‰n; Fregattenkapit‰n
-174=;Kapit‰n z. S.
+171=Oberleutnant z. S.; Kapit√§nleutnant
+172=Kapit√§nleutnant; Korvettenkapit√§n
+173=Korvettenkapit√§n; Fregattenkapit√§n
+174=;Kapit√§n z. S.
 
 175=Torna al Menu
 
 
-180=In superficie, gli uomini di vedetta rappresentano l'occhio del sommergibile. » importante avere degli uomini efficienti  in questa posizione, per segnalare tempestivamente possibili bersagli o eventuali minacce.
-181=Uno dei compartimenti pi˘ importanti del sommergibile, la sala radio mantiene i contatti con il Comando quando si Ë in superficie. In immersione, l'idrofono diventa l'orecchio del sommergibile, capace di rilevare le navi a distanze maggiori della portata visiva e in grado di tenere sotto controllo la situazione tattica a corto raggio.
-182=» il cervello del sommergibile, racchiude tutti i sistemi necessari a governare il sommergibile
+180=In superficie, gli uomini di vedetta rappresentano l'occhio del sommergibile. √à importante avere degli uomini efficienti  in questa posizione, per segnalare tempestivamente possibili bersagli o eventuali minacce.
+181=Uno dei compartimenti pi√π importanti del sommergibile, la sala radio mantiene i contatti con il Comando quando si √® in superficie. In immersione, l'idrofono diventa l'orecchio del sommergibile, capace di rilevare le navi a distanze maggiori della portata visiva e in grado di tenere sotto controllo la situazione tattica a corto raggio.
+182=√à il cervello del sommergibile, racchiude tutti i sistemi necessari a governare il sommergibile
 183=I motori Diesel sono il mezzo di propulsione per gli spostamenti in emersione e per lunghe distanze. Avarie su questi apparati rendono il sommergibile praticamente immobile.
 184=I motori elettrici, sono i mezzi di propulsione per il movimento in immersione del sommergibile.
 185=Per il lancio dei siluri, questa sezione rappresenta il potenziale offensivo del tuo sommergibile. Uomini efficienti e motivati in questo compartimento ridurranno di molto i tempi di ricarica dei siluri.
-186=L'area principale per il riposo dell'equipaggio. » di vitale importanza per avere uomini riposati e pronti ad affrontare la battaglia. Gli uomini senza un compito assegnato dovrebbero essere messi in quest'area per favorire un loro recupero di forze.
+186=L'area principale per il riposo dell'equipaggio. √à di vitale importanza per avere uomini riposati e pronti ad affrontare la battaglia. Gli uomini senza un compito assegnato dovrebbero essere messi in quest'area per favorire un loro recupero di forze.
 187=Gli uomini senza un compito assegnato dovrebbero essere messi in entrambe le aree di riposo per favorire un loro recupero di forze.
 188=Di secondaria importanza in fase di attacco, la camera siluri di poppa ospita comunque meccanismi importanti per le manovre del sommergibile.
-189=Postazione di tiro dell'artiglieria. Dovrebbe essere utilizzata per attaccare mercantili solitari, obiettivi per cui sarebbe sprecato l'utilizzo di un siluro oppure per le navi a cui Ë necessario dare un colpo di grazia.
-190=Contro gli aerei, la migliore difesa di un sommergibile Ë l'immersione rapida. Quando questo non Ë possibile, l'artiglieria contraerea potrebbe essere l'unica minaccia ai velivoli attaccanti.
-191=L'equipaggio che non ha compiti assegnati, puÚ essere inserito in una squadra di Controllo Danni, destinata alle riparazioni critiche a bordo del sommergibile.
+189=Postazione di tiro dell'artiglieria. Dovrebbe essere utilizzata per attaccare mercantili solitari, obiettivi per cui sarebbe sprecato l'utilizzo di un siluro oppure per le navi a cui √® necessario dare un colpo di grazia.
+190=Contro gli aerei, la migliore difesa di un sommergibile √® l'immersione rapida. Quando questo non √® possibile, l'artiglieria contraerea potrebbe essere l'unica minaccia ai velivoli attaccanti.
+191=L'equipaggio che non ha compiti assegnati, pu√≤ essere inserito in una squadra di Controllo Danni, destinata alle riparazioni critiche a bordo del sommergibile.
 
 200=Comandante
 201=Anno di Inizio
 202=Flottiglia
-203=Difficolt‡
+203=Difficolt√†
 204=Inizia Campagna
 
 206=Inserisci nuovo profilo
-210=MENŸ
+210=MEN√ô
 211=GIOCA
 212=Accetta
 213=v %d.%d
@@ -215,7 +215,7 @@ MaxStrings=5000
 
 230=Qualifiche
 231=Decorazioni
-232=Abilit‡:
+232=Abilit√†:
 233=Pattuglie:
 234=Fama:
 
@@ -234,13 +234,13 @@ MaxStrings=5000
 255=A.A.
 256=Squadra Riparazioni
 
-260=L'Europa sta ancora una volta per esplodere nelle fiamme. Sar‡ la Guerra e la Kriegsmarine, non del tutto preparata, sfider‡ ancora la Royal Navy. L'obiettivo principale - le navi Mercantili Inglesi. La Guerra del Tonnellaggio sta per iniziare.
-261=Sul Fronte Occidentale abbiamo vinto! Ora, disponiamo di nuove basi, sulla costa francese, che ci mettono in grado di spingerci piu' a fondo nell'Atlantico, per insidiare le rotte commerciali inglesi in zone meno ontrollate da scorte. L'Impero Inglese, cosi indebolito ulteriormente, si avvier‡ verso la sua fine.
+260=L'Europa sta ancora una volta per esplodere nelle fiamme. Sar√† la Guerra e la Kriegsmarine, non del tutto preparata, sfider√† ancora la Royal Navy. L'obiettivo principale - le navi Mercantili Inglesi. La Guerra del Tonnellaggio sta per iniziare.
+261=Sul Fronte Occidentale abbiamo vinto! Ora, disponiamo di nuove basi, sulla costa francese, che ci mettono in grado di spingerci piu' a fondo nell'Atlantico, per insidiare le rotte commerciali inglesi in zone meno ontrollate da scorte. L'Impero Inglese, cosi indebolito ulteriormente, si avvier√† verso la sua fine.
 262=Il controllo del Mar Mediterraneo da parte della Royal Navy deve essere sfidato. Usando le basi dei nostri alleati italiani, dobbiamo bloccare i rifornimenti che giungono alle Forze Inglesi nel Nord Africa e proteggere i nostri.
-263=Siamo in aperta guerra con gli Stati Uniti. La costa Atlantica degli U.S.A. e il Mar dei Caraibi sono devastati dagli U-Boot da lunga distanza provenienti dalle Basi di Biscay. Ma nel mezzo dell'Atlantico la guerra Ë ancora incerta.
+263=Siamo in aperta guerra con gli Stati Uniti. La costa Atlantica degli U.S.A. e il Mar dei Caraibi sono devastati dagli U-Boot da lunga distanza provenienti dalle Basi di Biscay. Ma nel mezzo dell'Atlantico la guerra √® ancora incerta.
 264=La battaglia dell'Atlantico sta diventando dura per gli U-Boot. Gli Alleati si impegnano piu' efficienti di prima, con navi ed aerei per proteggere le vitali rotte commerciali. La nostra unica chance rimane nella Tecnologia. I nuovi battelli elettrici saranno l'ultimo trionfo della Kriegsmarine.
 
-270=La 1a Flottiglia venne fondata nel settembre del 1935 sotto il comando del Fregkpt. Karl Dˆnitz, il futuro BdU. La base operativa all'inizio della guerra fu Wilhelmshaven, in Germania. Nell'agosto del 1940, la nuova base operativa della Flottiglia divenne Brest, in Francia. L'attivita' della Flottiglia termino' nel settembre del 1944, quando venne sciolta. Inizialmente usava i piccoli tipo II. Successivamente passarono ai piu' grandi tipo VII.
+270=La 1a Flottiglia venne fondata nel settembre del 1935 sotto il comando del Fregkpt. Karl D√∂nitz, il futuro BdU. La base operativa all'inizio della guerra fu Wilhelmshaven, in Germania. Nell'agosto del 1940, la nuova base operativa della Flottiglia divenne Brest, in Francia. L'attivita' della Flottiglia termino' nel settembre del 1944, quando venne sciolta. Inizialmente usava i piccoli tipo II. Successivamente passarono ai piu' grandi tipo VII.
 271=La 2a Flottiglia venne fondata nel settembre del 1936 sotto il comando del Fregkpt. Scheer. All'inizio della Guerra, la Flottiglia operava da Wilhelmshaven, in Germania. Dal giugno del 1940 la Flottiglia venne trasferita a Lorient, in Francia. La sua storia termino' nell'agosto del 1944, quando l'ultimo U-Boot lascio' Lorient per la Norvegia. La 2a Flottiglia uso' maggiormente i tipo VII. Con l'avanzare della Guerra,diventarono disponibili anche i piu' grandi tipo IX.
 272=La 7a Flottiglia venne fondata nel giugno del 1938 dal Korvkpt. Werner Sobe. La base operativa, all'inizio della Guerra, era Kiel, in Germania. Nel 1940 la Flottiglia venne trasferita a St.Nazaire. Nel settembre del 1944 molti U-Boot lasciarono la Base alla volta della Norvegia. Uso' principalmente il tipo VII.
 273=La 10a Flottiglia venne fondata nel gennaio del 1942 sotto il comando del Kptlt. Kuhnke con la sua base operativa a Lorient, in Francia. La sua storia termino' nell'agosto del 1944 quando l'ultimo U-Boot lascio' Lorient per la Norvegia. Usava gli Oceanici tipo IX.
@@ -291,7 +291,7 @@ MaxStrings=5000
 410=Impossibile assegnare equipaggio ferito alla squadra riparazioni!
 411=Equipaggio non disponibile!
 412=Equipaggio non disponibile!
-413=Gi‡ negli alloggi!
+413=Gi√† negli alloggi!
 414=Equipaggio insufficente!
 415=Alloggi distrutti!
 416=Compartimento distrutto!
@@ -395,7 +395,7 @@ MaxStrings=5000
 
 513=%2d sani, %2d feriti, %2d morti|%2d sani, %2d feriti, %2d morti
 
-514=Signore, ci avviciniamo alla profondit‡ di collaudo!
+514=Signore, ci avviciniamo alla profondit√† di collaudo!
 515=Siamo troppo profondi, signore!
 
 520=Abbiamo perdite, signore!
@@ -404,7 +404,7 @@ MaxStrings=5000
 
 545=Abbandonerai la missione.
 546=L'U-Boot ha abbandonato la missione.
-547=L'U-Boot Ë tornato alla base.
+547=L'U-Boot √® tornato alla base.
 
 548=N/A.
 550=Normale
@@ -444,7 +444,7 @@ MaxStrings=5000
 580=Completo
 581=Fallito
 
-582=Missione conclusa|Tonnellaggio alleato: |Tonnellaggio dell'Asse: |Tonnellaggio neutrale: |Unit‡ alleate perdute: |Unit‡ dell'Asse perdute: |Unit‡ neutrali perdute: |Equipaggio iniziale:|Equipaggio finale:
+582=Missione conclusa|Tonnellaggio alleato: |Tonnellaggio dell'Asse: |Tonnellaggio neutrale: |Unit√† alleate perdute: |Unit√† dell'Asse perdute: |Unit√† neutrali perdute: |Equipaggio iniziale:|Equipaggio finale:
 583=%d|%d|%d|%d|%d|%d
 584=Sommario Missione
 
@@ -452,7 +452,7 @@ MaxStrings=5000
 586=F
 587=SONAR
 588=RADIO
-589=INTEGRIT¿ SCAFO %s %
+589=INTEGRIT√Ä SCAFO %s %
 
 590=Medicooooo!!!
 591=Uomo ferito sul ponte!
@@ -467,7 +467,7 @@ MaxStrings=5000
 600=L'aereo nemico ci sta attaccando, signore!
 601=Ci hanno localizzati, signore!
 602=Siamo sotto attacco, signore!
-603=Bombe di profondit‡ in acqua!
+603=Bombe di profondit√† in acqua!
 604=Siamo stati danneggiati, signore!
 605=Signore, nave nemica in rotta di collisione!
 606=La nave nemica ci sta speronando!
@@ -487,16 +487,16 @@ MaxStrings=5000
 620=Riserve di prua
 621=Riserve Extra
 
-622=T I (G7a)||Propulsione:gas/vapore|Velocit‡: 44-40-30 nodi|Raggio: 5-7.5-12.5km|Guida: nessuna|Note:Classico siluro anteguerra, aveva lo svantaggio di lasciare una visibile scia di bolle nella sua corsa verso il bersaglio.
-623=T I FaT I (G7a) ||Propulsione:gas/vapore|Velocit‡: 44-40-30 nodi|Raggio: 5-7.5-12.5km|Guida: Ricerca a scala|Note: Questi siluri sono stati progettati per essere lanciati da dietro un convoglio, con l'intezione di colpire il bersaglio durante la corsa diritta. Nel caso il bersaglio fosse mancato, la "guida a scaletta" dava comunque la possibilit‡ di colpire qualcosa.
-624=T II (G7e)||Propulsione: elettrica|Velocit‡: 30nodi|Portata: 3km|Guida: nessuna|Note: Il siluro standard della guerra. Ha avuto problemi iniziali con il sistema di mantenimento della profondit‡ e con il detonatore, ma furono risolti dopo la campagna di Norvegia.
-625=T III (G7e)||Propulsione: elettrica|Velocit‡: 30 nodi|Raggio: 5km|Guida: nessuna|Note: Nonostante avesse in comune con il G7a alcuni componenti, tra cui il detonatore, il profondimetro e giroscopio, il G7e Ë stato pi˘ semplice ed economico.
-626=T III FaT II (G7e)||Propulsione: elettrica|Velocit‡: 30 nodi|Raggio: 5km|Guida: ricerca a scaletta|Note: Il Fat II era progettato per essere lanciato dai tubi di poppa per attaccare una nave di scorta che inseguiva il sommergibile.
-627=T IV (G7es)- Falke||Propulsione: elettrica|Velocit‡: 20 nodi|Raggio: 7,5km|Guida:|acustica|Note: Il Falke, il primo siluro guidato, era equipaggiato con un dispositivo di guida passiva. Ne furono usati pochi, e furono rimpiazzati dai T5 che erano pi˘ veloci, avevano un maggiore raggio e potevano essere usati con detonatore magnetico o a impatto. Specifiche: Il bersaglio si deve muovere minimo a 12 nodi.
-628=T V (G7es) Zaunkˆnig I||Propulsione: elettrica|Velocit‡: 24 nodi|Raggio: 5,7km|Guida: acustica|Note: Il siluro Ë stato progettato in modo da escludere il rilevatore di rumore per i primi 400 metri di corsa. Spesso su scambiato|per l'U-Boot stesso e il consueto ordine era di immergersi immediatamente a 60 metri dopo il lancio dai tubi di prua, mentre un lancio da poppa doveva essere seguito da assoluto silenzio a bordo. Specifiche: Il bersaglio si deve muovere minimo a 10 nodi.
-629=T I LuT I (G7a)||Propulsione: gas/vapore|Velocit‡: 44-40-30 nodi|Raggio: 5-7.5-12.5km|Guida: guida a scaletta|Note: Il LuT, o siluro a angolo indipendente, semplifica enormemente l'attacco con l'eliminazione dei "90 gradi dalla prua del bersaglio", grande limitazione dei FAT.
-630=T III LuT II (G7e)||Propulsione: elettrica|Velocit‡: 30 nodi|Raggio: 5km|Guida: ricerca a scaletta|Note: Ulteriore evoluzione del sistema di ricerca, il LuT II aggiunge un altro angolo da impostare nel siluro. Questo aumenta le capacit‡ del siluro contro le scorte.
-631=T XI (G7es) Zaunkˆnig II||Propulsione: elettrica|Velocit‡: 24 nodi|Raggio: 5,7km|Guida: acustica|Note: Un T5 modificato, meno disposto del Foxer. Non fu mai usato in battaglia, ciÚ nonostante i risultati degli ultimi test furono molto promettenti.
+622=T I (G7a)||Propulsione:gas/vapore|Velocit√†: 44-40-30 nodi|Raggio: 5-7.5-12.5km|Guida: nessuna|Note:Classico siluro anteguerra, aveva lo svantaggio di lasciare una visibile scia di bolle nella sua corsa verso il bersaglio.
+623=T I FaT I (G7a) ||Propulsione:gas/vapore|Velocit√†: 44-40-30 nodi|Raggio: 5-7.5-12.5km|Guida: Ricerca a scala|Note: Questi siluri sono stati progettati per essere lanciati da dietro un convoglio, con l'intezione di colpire il bersaglio durante la corsa diritta. Nel caso il bersaglio fosse mancato, la "guida a scaletta" dava comunque la possibilit√† di colpire qualcosa.
+624=T II (G7e)||Propulsione: elettrica|Velocit√†: 30nodi|Portata: 3km|Guida: nessuna|Note: Il siluro standard della guerra. Ha avuto problemi iniziali con il sistema di mantenimento della profondit√† e con il detonatore, ma furono risolti dopo la campagna di Norvegia.
+625=T III (G7e)||Propulsione: elettrica|Velocit√†: 30 nodi|Raggio: 5km|Guida: nessuna|Note: Nonostante avesse in comune con il G7a alcuni componenti, tra cui il detonatore, il profondimetro e giroscopio, il G7e √® stato pi√π semplice ed economico.
+626=T III FaT II (G7e)||Propulsione: elettrica|Velocit√†: 30 nodi|Raggio: 5km|Guida: ricerca a scaletta|Note: Il Fat II era progettato per essere lanciato dai tubi di poppa per attaccare una nave di scorta che inseguiva il sommergibile.
+627=T IV (G7es)- Falke||Propulsione: elettrica|Velocit√†: 20 nodi|Raggio: 7,5km|Guida:|acustica|Note: Il Falke, il primo siluro guidato, era equipaggiato con un dispositivo di guida passiva. Ne furono usati pochi, e furono rimpiazzati dai T5 che erano pi√π veloci, avevano un maggiore raggio e potevano essere usati con detonatore magnetico o a impatto. Specifiche: Il bersaglio si deve muovere minimo a 12 nodi.
+628=T V (G7es) Zaunk√∂nig I||Propulsione: elettrica|Velocit√†: 24 nodi|Raggio: 5,7km|Guida: acustica|Note: Il siluro √® stato progettato in modo da escludere il rilevatore di rumore per i primi 400 metri di corsa. Spesso su scambiato|per l'U-Boot stesso e il consueto ordine era di immergersi immediatamente a 60 metri dopo il lancio dai tubi di prua, mentre un lancio da poppa doveva essere seguito da assoluto silenzio a bordo. Specifiche: Il bersaglio si deve muovere minimo a 10 nodi.
+629=T I LuT I (G7a)||Propulsione: gas/vapore|Velocit√†: 44-40-30 nodi|Raggio: 5-7.5-12.5km|Guida: guida a scaletta|Note: Il LuT, o siluro a angolo indipendente, semplifica enormemente l'attacco con l'eliminazione dei "90 gradi dalla prua del bersaglio", grande limitazione dei FAT.
+630=T III LuT II (G7e)||Propulsione: elettrica|Velocit√†: 30 nodi|Raggio: 5km|Guida: ricerca a scaletta|Note: Ulteriore evoluzione del sistema di ricerca, il LuT II aggiunge un altro angolo da impostare nel siluro. Questo aumenta le capacit√† del siluro contro le scorte.
+631=T XI (G7es) Zaunk√∂nig II||Propulsione: elettrica|Velocit√†: 24 nodi|Raggio: 5,7km|Guida: acustica|Note: Un T5 modificato, meno disposto del Foxer. Non fu mai usato in battaglia, ci√≤ nonostante i risultati degli ultimi test furono molto promettenti.
 
 
 633=Danni %s, signore!
@@ -538,10 +538,10 @@ MaxStrings=5000
 664=Scaricamento tubo %d
 665=Tubo %d, fuoco!
 
-667=105mm %s|Quantit‡: %d
-668=88mm %s|Quantit‡: %d
-669=37mm %s|Quantit‡: %d
-670=20mm %s|Quantit‡: %d
+667=105mm %s|Quantit√†: %d
+668=88mm %s|Quantit√†: %d
+669=37mm %s|Quantit√†: %d
+670=20mm %s|Quantit√†: %d
 
 671=AP; Proiettili perforanti
 672=HE; Esplosivo ad alto potenziale
@@ -614,10 +614,10 @@ MaxStrings=5000
 810=Nave in vista su rilevamento %03d, signore. %s raggio!
 811=Aereo in vista su rilevamento %03d, signore. %s raggio!
 812=Sommergibile in vista su rilevamento %03d, signore. %s raggio!
-813=Unit‡ di terra in vista su rilevamento %03d, signore. %s raggio!
+813=Unit√† di terra in vista su rilevamento %03d, signore. %s raggio!
 814=Contatto radar su rilevamento %03d, signore. %s raggio!
 815=Contatto sonar, signore! %s %s %s su rilevamento %03d! %s raggio!
-816=Messaggio radio ricevuto! %s %s, %s, rotta %s, velocit‡ %d nodi!
+816=Messaggio radio ricevuto! %s %s, %s, rotta %s, velocit√† %d nodi!
 817=Rilevati segnali radar!
 
 820=Sconosciuto
@@ -625,7 +625,7 @@ MaxStrings=5000
 822=Mercantile
 823=Sommergibile
 824=Aereo
-825=Unit‡ terrestre
+825=Unit√† terrestre
 
 830=lento
 831=veloce
@@ -634,17 +634,17 @@ MaxStrings=5000
 841=in avvicinamento
 842=in allontanamento
 
-850=Dislocamento (emerso): 254 tonnellate|Dislocamento (sommerso): 303 tonnellate||Velocit‡ massima (emerso): 13 nodi|Velocit‡ massima (sommerso): 6.9 nodi||Autonomia a 12 nodi in superficie: 1,050 nm|Autonomia a 4 nodi in immersione: 35 nm||Profondit‡ massima: 100 m|Tempo d'immersione: 35 sec||Tubi di prua: 3|Tubi di poppa: nessuno||Ufficiali: 4|Sottufficiali: 9|Marinai: 14;Tipo IIA
-851=Dislocamento (emerso): 314 tonnellate|Dislocamento (sommerso): 364 tonnellate||Velocit‡ massima (emerso): 12.7 nodi|Velocit‡ massima (sommerso): 7.9 nodi||Autonomia a 12 nodi in superficie: 3,450 nm|Autonomia a 4 nodi in immersione: 56 nm||Profondit‡ massima: 125 m|Tempo d'immersione: 25 sec||Tubi di prua: 3|Tubi di poppa: nessuno||Ufficiali: 4|Sottufficiali: 9|Marinai: 14;Tipo IID
-852=Dislocamento (emerso): 753 tonnellate|Dislocamento (sommerso): 857 tonnellate||Velocit‡ massima (emerso): 17.2 nodi|Velocit‡ massima (sommerso): 8 nodi||Autonomia a 12 nodi in superficie: 6,500 nm|Autonomia a 4 nodi in immersione: 90 nm||Profondit‡ massima: 150 m|Tempo d'immersione: 30 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIB
-853=Dislocamento (emerso): 761 tonnellate|Dislocamento (sommerso): 865 tonnellate||Velocit‡ massima (emerso): 17 nodi|Velocit‡ massima (sommerso): 7.6 nodi||Autonomia a 12 nodi in superficie: 6,500 nm|Autonomia a 4 nodi in immersione: 80 nm||Profondit‡ massima: 150 m|Tempo d'immersione: 27 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIC
-854=Dislocamento (emerso): 759 tonnellate|Dislocamento (sommerso): 860 tonnellate||Velocit‡ massima (emerso): 17 nodi|Velocit‡ massima (sommerso): 7.9 nodi||Autonomia a 12 nodi in superficie: 6,500 nm|Autonomia a 4 nodi in immersione: 80 nm||Profondit‡ massima: 180 m|Tempo d'immersione: 25 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIC/41
-855=Dislocamento (emerso): 999 tonnellate|Dislocamento (sommerso): 1,099 tonnellate||Velocit‡ massima (emerso): 18.6 nodi|Velocit‡ massima (sommerso): 8.2 nodi||Autonomia a 12 nodi in superficie: 10,000 nm|Autonomia a 4 nodi in immersione: 80 nm||Profondit‡ massima: 250 m|Tempo d'immersione: 27 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIC/42
-856=Dislocamento (emerso): 1,051 tonnellate|Dislocamento (sommerso): 1,178 tonnellate||Velocit‡ massima (emerso): 18.2 nodi|Velocit‡ massima (sommerso): 7.3 nodi||Autonomia a 12 nodi in superficie: 8,700 nm|Autonomia a 4 nodi in immersione: 64 nm||Profondit‡ massima: 165 m|Tempo d'immersione: 35 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXB
-857=Dislocamento (emerso): 1,120 tonnellate|Dislocamento (sommerso): 1,232 tonnellate||Velocit‡ massima (emerso): 18.3 nodi|Velocit‡ massima (sommerso): 7.3 nodi||Autonomia a 12 nodi in superficie: 11,000 nm|Autonomia a 4 nodi in immersione: 63 nm||Profondit‡ massima: 165 m|Tempo d'immersione: 37 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXC
-858=Dislocamento (emerso): 1,144 tonnellate|Dislocamento (sommerso): 1,257 tonnellate||Velocit‡ massima (emerso): 18 nodi|Velocit‡ massima (sommerso): 7 nodi||Autonomia a 12 nodi in superficie: 11,400 nm|Autonomia a 4 nodi in immersione: 63 nm||Profondit‡ massima: 165 m|Tempo d'immersione: 37 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXC/40
-859=Dislocamento (emerso): 1,616 tonnellate|Dislocamento (sommerso): 1,804 tonnellate||Velocit‡ massima (emerso): 19.2 nodi|Velocit‡ massima (sommerso): 6.9 nodi||Autonomia a 12 nodi in superficie: 23,700 nm|Autonomia a 4 nodi in immersione: 57 nm||Profondit‡ massima: 165 m|Tempo d'immersione: 42 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXD2
-860=Dislocamento (emerso): 1,621 tonnellate|Dislocamento (sommerso): 1,819 tonnellate||Velocit‡ massima (emerso): 15.6 nodi|Velocit‡ massima (sommerso): 17.5 nodi||Autonomia a 12 nodi in superficie: 11,150 nm|Autonomia a 4 nodi in immersione: 285 nm||Profondit‡ massima: 210 m|Tempo d'immersione: 25 sec||Tubi di prua: 6|Tubi di poppa: nessuno||Ufficiali: 6|Sottufficiali: 24|Marinai: 34;Tipo XXI
+850=Dislocamento (emerso): 254 tonnellate|Dislocamento (sommerso): 303 tonnellate||Velocit√† massima (emerso): 13 nodi|Velocit√† massima (sommerso): 6.9 nodi||Autonomia a 12 nodi in superficie: 1,050 nm|Autonomia a 4 nodi in immersione: 35 nm||Profondit√† massima: 100 m|Tempo d'immersione: 35 sec||Tubi di prua: 3|Tubi di poppa: nessuno||Ufficiali: 4|Sottufficiali: 9|Marinai: 14;Tipo IIA
+851=Dislocamento (emerso): 314 tonnellate|Dislocamento (sommerso): 364 tonnellate||Velocit√† massima (emerso): 12.7 nodi|Velocit√† massima (sommerso): 7.9 nodi||Autonomia a 12 nodi in superficie: 3,450 nm|Autonomia a 4 nodi in immersione: 56 nm||Profondit√† massima: 125 m|Tempo d'immersione: 25 sec||Tubi di prua: 3|Tubi di poppa: nessuno||Ufficiali: 4|Sottufficiali: 9|Marinai: 14;Tipo IID
+852=Dislocamento (emerso): 753 tonnellate|Dislocamento (sommerso): 857 tonnellate||Velocit√† massima (emerso): 17.2 nodi|Velocit√† massima (sommerso): 8 nodi||Autonomia a 12 nodi in superficie: 6,500 nm|Autonomia a 4 nodi in immersione: 90 nm||Profondit√† massima: 150 m|Tempo d'immersione: 30 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIB
+853=Dislocamento (emerso): 761 tonnellate|Dislocamento (sommerso): 865 tonnellate||Velocit√† massima (emerso): 17 nodi|Velocit√† massima (sommerso): 7.6 nodi||Autonomia a 12 nodi in superficie: 6,500 nm|Autonomia a 4 nodi in immersione: 80 nm||Profondit√† massima: 150 m|Tempo d'immersione: 27 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIC
+854=Dislocamento (emerso): 759 tonnellate|Dislocamento (sommerso): 860 tonnellate||Velocit√† massima (emerso): 17 nodi|Velocit√† massima (sommerso): 7.9 nodi||Autonomia a 12 nodi in superficie: 6,500 nm|Autonomia a 4 nodi in immersione: 80 nm||Profondit√† massima: 180 m|Tempo d'immersione: 25 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIC/41
+855=Dislocamento (emerso): 999 tonnellate|Dislocamento (sommerso): 1,099 tonnellate||Velocit√† massima (emerso): 18.6 nodi|Velocit√† massima (sommerso): 8.2 nodi||Autonomia a 12 nodi in superficie: 10,000 nm|Autonomia a 4 nodi in immersione: 80 nm||Profondit√† massima: 250 m|Tempo d'immersione: 27 sec||Tubi di prua: 4|Tubi di poppa: 1||Ufficiali: 5|Sottufficiali: 16|Marinai: 30;Tipo VIIC/42
+856=Dislocamento (emerso): 1,051 tonnellate|Dislocamento (sommerso): 1,178 tonnellate||Velocit√† massima (emerso): 18.2 nodi|Velocit√† massima (sommerso): 7.3 nodi||Autonomia a 12 nodi in superficie: 8,700 nm|Autonomia a 4 nodi in immersione: 64 nm||Profondit√† massima: 165 m|Tempo d'immersione: 35 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXB
+857=Dislocamento (emerso): 1,120 tonnellate|Dislocamento (sommerso): 1,232 tonnellate||Velocit√† massima (emerso): 18.3 nodi|Velocit√† massima (sommerso): 7.3 nodi||Autonomia a 12 nodi in superficie: 11,000 nm|Autonomia a 4 nodi in immersione: 63 nm||Profondit√† massima: 165 m|Tempo d'immersione: 37 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXC
+858=Dislocamento (emerso): 1,144 tonnellate|Dislocamento (sommerso): 1,257 tonnellate||Velocit√† massima (emerso): 18 nodi|Velocit√† massima (sommerso): 7 nodi||Autonomia a 12 nodi in superficie: 11,400 nm|Autonomia a 4 nodi in immersione: 63 nm||Profondit√† massima: 165 m|Tempo d'immersione: 37 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXC/40
+859=Dislocamento (emerso): 1,616 tonnellate|Dislocamento (sommerso): 1,804 tonnellate||Velocit√† massima (emerso): 19.2 nodi|Velocit√† massima (sommerso): 6.9 nodi||Autonomia a 12 nodi in superficie: 23,700 nm|Autonomia a 4 nodi in immersione: 57 nm||Profondit√† massima: 165 m|Tempo d'immersione: 42 sec||Tubi di prua: 4|Tubi di poppa: 2||Ufficiali: 5|Sottufficiali: 19|Marinai: 32;Tipo IXD2
+860=Dislocamento (emerso): 1,621 tonnellate|Dislocamento (sommerso): 1,819 tonnellate||Velocit√† massima (emerso): 15.6 nodi|Velocit√† massima (sommerso): 17.5 nodi||Autonomia a 12 nodi in superficie: 11,150 nm|Autonomia a 4 nodi in immersione: 285 nm||Profondit√† massima: 210 m|Tempo d'immersione: 25 sec||Tubi di prua: 6|Tubi di poppa: nessuno||Ufficiali: 6|Sottufficiali: 24|Marinai: 34;Tipo XXI
 
 865=Postazioni armi||Cannone di coperta: nessuno|Contraerea pesante: nessuno|Contraerea leggera: 1 postazione; IIA/1
 866=Postazioni armi||Cannone di coperta: nessuno|Contraerea pesante: nessuno|Contraerea leggera: 1 postazione; IID/1
@@ -664,19 +664,19 @@ MaxStrings=5000
 
 881=8.8cm SK C/35||Calibro: 88mm|Caricamento: semi-automatico|Brandeggio: 360 degrees|Elevazione: -10/+30 gradi|Cadenza di fuoco: 15 rds/min|Clip size: 1|Tempo di ricarica: 4 sec||Note: Le 88mm navali montate sugli Uboat Type VII sono completamente differenti dalle famose 88mm usate dall'esercito tedesco, differenti a tal punto da non poter utilizzare le stesse munizioni. La versione navale era montata su un basso affusto e poteva essere girata in entrambe le direzioni, non era scudata  ed era asservita da due uomini, protetti da giubbetti antiproiettile;8.8cm SK C/35
 
-882=3.7cm FK M42 Flakzwiling||Calibro: 3.7cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -10/+80 gradi|Cadenza di fuoco: 2x250 rds/min|Clip size: 2x5|Tempo di ricarica: instantanea||Note: Le mitragliatrici AA finali progettate per gli U-Boot erano le 3.7cm Flak M 42, che furono la versione navale di un'arma per l'esercito. Era considerevolmente pi˘ efficace del 2cm Flak 38, dal momento in cui sparava proiettili pi˘ pesanti pi˘ lontano, sebbene la cadenza di fuoco fosse considerevolmente pi˘ bassa.;3.7cm FK M42 Flakzwiling
+882=3.7cm FK M42 Flakzwiling||Calibro: 3.7cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -10/+80 gradi|Cadenza di fuoco: 2x250 rds/min|Clip size: 2x5|Tempo di ricarica: instantanea||Note: Le mitragliatrici AA finali progettate per gli U-Boot erano le 3.7cm Flak M 42, che furono la versione navale di un'arma per l'esercito. Era considerevolmente pi√π efficace del 2cm Flak 38, dal momento in cui sparava proiettili pi√π pesanti pi√π lontano, sebbene la cadenza di fuoco fosse considerevolmente pi√π bassa.;3.7cm FK M42 Flakzwiling
 
-883=3.7cm FK M42||Calibro: 3.7cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -10/+80 gradi|Cadenza di fuoco: 250 rds/min|Clip size: 5|Tempo di ricarica: instantaneo||Note: Le mitragliatrici AA finali progettate per gli U-Boot erano le 3.7cm Flak M 42, che furono la versione navale di un'arma per l'esercito. Era considerevolmente pi˘ efficace del 2cm Flak 38, dal momento in cui sparava proiettili pi˘ pesanti pi˘ lontano, sebbene la cadenza di fuoco fosse considerevolmente pi˘ bassa.;3.7cm FK M42
+883=3.7cm FK M42||Calibro: 3.7cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -10/+80 gradi|Cadenza di fuoco: 250 rds/min|Clip size: 5|Tempo di ricarica: instantaneo||Note: Le mitragliatrici AA finali progettate per gli U-Boot erano le 3.7cm Flak M 42, che furono la versione navale di un'arma per l'esercito. Era considerevolmente pi√π efficace del 2cm Flak 38, dal momento in cui sparava proiettili pi√π pesanti pi√π lontano, sebbene la cadenza di fuoco fosse considerevolmente pi√π bassa.;3.7cm FK M42
 
 884=3.7cm SK C/30||Calibro: 3.7cm|Caricamento: semi-automatico|Brandeggio: 360 gradi|Elevazione: -10/+80 gradi|Cadenza di fuoco: 30 rds/min|Clip size: 1|Tempo di ricarica: 1.5 sec||Note: Era solo possibile effettuare fuoco semi-automatico con quest'arma, con ciascun proiettile caricato individualmente, cosa che rendeva una cadenza molto bassa, inadatta alla difesa antiaerea.;3.7cm SK C/30
 
 885=2cm FK C/38 Flakvierling||Calibro: 2cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -2/+90 gradi|Cadenza di fuoco: 480 rds/min|Clip size: 4x40|Tempo di ricarica: 7.5 sec||Note: La versione quadrinata del FK C/38 aveva una cadenza di approssimativamente 800 colpi per minuto.;2cm FK C/38 Flakvierling
 
-886=2cm FK C/30 Flakzwiling||Calibro: 2cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -2/+90 gradi|Cadenza di fuoco: 120 rds/min|Clip size: 2x20|Tempo di ricarica: 5.5 sec||Note: The Rheinmetall 2cm Flak 30 entro' in servizio alla Kriegsmarine all'inizio del 1930. Era un'arma di ripiego, poichË era in effetti solo una grossa mitragliatrice.;2cm FK C/30 Flakzwiling
+886=2cm FK C/30 Flakzwiling||Calibro: 2cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -2/+90 gradi|Cadenza di fuoco: 120 rds/min|Clip size: 2x20|Tempo di ricarica: 5.5 sec||Note: The Rheinmetall 2cm Flak 30 entro' in servizio alla Kriegsmarine all'inizio del 1930. Era un'arma di ripiego, poich√® era in effetti solo una grossa mitragliatrice.;2cm FK C/30 Flakzwiling
 
 887=2cm FK C/38||Calibro: 2cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -2/+90 gradi|Cadenza di fuoco: 120 rds/min|Clip size: 40|Tempo di ricarica: 5.5 sec||Note: La mitragliatrice AA 2cm 38 aveva un otturatore evoluto, accelerato, e che ritornava automaticamente, cosa che raddoppiava la cadenza di fuoco.;2cm FK C/38
 
-888=2cm FK C/30||Calibro: 2cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -2/+90 gradi|Cadenza di fuoco: 120 rds/min|Clip size: 20|Tempo di ricarica: 5.5 sec||Note: La Rheinmetall 2cm Flak 30 entro' in servizio presso la Kriegsmarine nei primi anni '30. Era un'arma di ripiego, poichË era in effetti solo una grossa mitragliatrice.;2cm FK C/30
+888=2cm FK C/30||Calibro: 2cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione: -2/+90 gradi|Cadenza di fuoco: 120 rds/min|Clip size: 20|Tempo di ricarica: 5.5 sec||Note: La Rheinmetall 2cm Flak 30 entro' in servizio presso la Kriegsmarine nei primi anni '30. Era un'arma di ripiego, poich√® era in effetti solo una grossa mitragliatrice.;2cm FK C/30
 
 889=2cm FK C/38 Flakzwiling||Calibro: 2cm|Caricamento: automatico|Brandeggio: 360 gradi|Elevazione:-2/+90 gradi|Cadenza di fuoco: 220 rds/min|Clip size: 2x40|Tempo di ricarica: 5.5 sec||Note: La versione binata della FK C/38 con una cadenza approssimativa di 400 colpi per minuto.;2cm FK C/38 Flakzwiling XXI
 
@@ -773,7 +773,7 @@ MaxStrings=5000
 1026=Timone tutto a sinistra
 1027=Timone tutto a dritta
 1028=Timone al centro
-1029=Profondit‡ %.0f metri
+1029=Profondit√† %.0f metri
 1030=Timoni a scendere
 1031=Emersione
 1032=Quota periscopio
@@ -787,11 +787,11 @@ MaxStrings=5000
 1041=Doppia virata a dritta
 1042=Lanciare falsi bersagli
 
-1050=Segnalare mercantile pi˘ vicino
-1051=Segnalare nave da guerra pi˘ vicina
-1052=Segnalare obiettivo pi˘ vicino
+1050=Segnalare mercantile pi√π vicino
+1051=Segnalare nave da guerra pi√π vicina
+1052=Segnalare obiettivo pi√π vicino
 1053=Obiettivo suggerito
-1054=Fuoco a volont‡
+1054=Fuoco a volont√†
 1055=Cessate il fuoco
 1056=Fuoco a corto raggio
 1057=Fuoco a medio raggio
@@ -800,7 +800,7 @@ MaxStrings=5000
 1060=Mirare al ponte di comando
 1061=Mirare all'artiglieria
 1062=Mirare alla linea di galleggiamento
-1063=Fuoco a volont‡
+1063=Fuoco a volont√†
 1064=Cessate il fuoco
 1065=Fuoco a corto raggio
 1066=Fuoco a medio raggio
@@ -815,14 +815,14 @@ MaxStrings=5000
 1075=Lancia siluro
 1076=Elabora una soluzione
 
-1100=1st / 1∞
-1101=2nd / 2∞
-1102=7th / 7∞
-1103=10th / 10∞
-1104=11th / 11∞
-1105=29th / 29∞
-1106=12th / 12∞
-1107=33rd / 33∞
+1100=1st / 1¬∞
+1101=2nd / 2¬∞
+1102=7th / 7¬∞
+1103=10th / 10¬∞
+1104=11th / 11¬∞
+1105=29th / 29¬∞
+1106=12th / 12¬∞
+1107=33rd / 33¬∞
 
 ;;selection dial tubes
 1181=I
@@ -928,7 +928,7 @@ MaxStrings=5000
 1272=Balkon Gerat
 
 1273=S-Gerat; (Sondergerat fur Aktive Schallortung)
-1274=SU-Apparat ëNibelungí; (Sonderapparat fur Uboote)
+1274=SU-Apparat ¬ëNibelung¬í; (Sonderapparat fur Uboote)
 
 1275=FuMO-29; (GEMA)
 1276=FuMO-30
@@ -986,7 +986,7 @@ MaxStrings=5000
 
 1425=Risultati: %s
 
-1429=Nazionalit‡
+1429=Nazionalit√†
 1430=Categoria
 1431=Classe
 1432=Versioni (Anno)
@@ -1019,7 +1019,7 @@ MaxStrings=5000
 
 1565=AFA 27 MAK 740||Le batterie installate solitamente sugli U-boot del tipo VII.
 
-1566=AFA 27 MAK 800||Un'evoluzione delle batterie per il tipo VII. Queste batterie avevano tempi di ricarica pi˘ brevi.
+1566=AFA 27 MAK 800||Un'evoluzione delle batterie per il tipo VII. Queste batterie avevano tempi di ricarica pi√π brevi.
 
 1567=AFA 33 MAL 800||Queste batterie migliorate per gli U-boot del tipo VII aumentavano l'autonomia del sommergibile sott'acqua.
 
@@ -1029,36 +1029,36 @@ MaxStrings=5000
 
 1570=GHG (Gruppenhorchgerat)||Il GHG, istallato sugli U-boot fin dal 1935, consisteva in due gruppi di idrofoni montati sui due lati della prua, che assicuravano la copertura di due aree di 140 gradi. In condizioni favorevoli, le singole navi potevano essere rilevate da circa 20km.
 
-1571=KDB(Kristalldrehbasisgerat)||Il KDB fu introdotto per migliorare le prestazioni del GHG. Il KDB era posizionato sulla coperta dell'U-boot e poteva essere ruotato dall'idrofonista, assicurando cosÏ una copertura di +/- 160 gradi dalla prua. Il suo maggiore svantaggio era la sua estrema vulnerabilit‡ alle bombe di profondit‡.
+1571=KDB(Kristalldrehbasisgerat)||Il KDB fu introdotto per migliorare le prestazioni del GHG. Il KDB era posizionato sulla coperta dell'U-boot e poteva essere ruotato dall'idrofonista, assicurando cos√¨ una copertura di +/- 160 gradi dalla prua. Il suo maggiore svantaggio era la sua estrema vulnerabilit√† alle bombe di profondit√†.
 
 1572=Balkon Gerat||Il Balkon Gerat era una versione migliorata del GHG. Era un dispositivo cilindrico posizionato sotto la prua, che conteneva 48 idrofoni. Le sue prestazioni erano molto migliori di quelle del GHG, e assicurava una copertura di +/- 170 gradi dalla prua.
 
-1573=S-Gerat||Il S-Gerat era un sistema attivo, che localizzava gli oggetti sommersi trasmettendo impulsi e rilevandone l'eco. Gli impulsi sono molto facili da captare per i nemici. Il S-Gerat copre un arco di +/- 120 gradi e ha una portata approssimativa di 4,000 metri contro le unit‡ di superficie.
+1573=S-Gerat||Il S-Gerat era un sistema attivo, che localizzava gli oggetti sommersi trasmettendo impulsi e rilevandone l'eco. Gli impulsi sono molto facili da captare per i nemici. Il S-Gerat copre un arco di +/- 120 gradi e ha una portata approssimativa di 4,000 metri contro le unit√† di superficie.
 
 1574=Nibelung||Il Nibelung fu un tipo di sonar attivo/passivo potenziato,
-in grado di localizzare la posizione e la velocit‡
+in grado di localizzare la posizione e la velocit√†
 approssimativa di un bersaglio. Originariamente fu concepito per essere
-installato sui sommergibili di Tipo VIIC/42, ma venne infine installato sui Tipo XXI, sull'estremit‡ anteriore del ponte,
-impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
+installato sui sommergibili di Tipo VIIC/42, ma venne infine installato sui Tipo XXI, sull'estremit√† anteriore del ponte,
+impedendo per√≤ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 
 
-1575=FuMO-29 ëGEMAí||Il primo radar per U-boot era in origine un sistema per navi di superficie, che utilizzava un sensore fisso allineato con la prua. Garantiva una copertura di +/- 10 gradi dalla prua, che poteva essere aumentata ad ogni virata, fino a formare un cerchio completo.
+1575=FuMO-29 ¬ëGEMA¬í||Il primo radar per U-boot era in origine un sistema per navi di superficie, che utilizzava un sensore fisso allineato con la prua. Garantiva una copertura di +/- 10 gradi dalla prua, che poteva essere aumentata ad ogni virata, fino a formare un cerchio completo.
 
 1576=FuMO-30||La seconda generazione di radar utilizzava lo stesso sistema,ma con una nuova antenna rotante, con copertura di 360 gradi, montata in plancia, che poteva essere retratta in un apposito alloggiamento.
 
-1577=FuMO-61 ëHohentwiel-Uí||La Kriegsmarine cerco' urgentemente un efficace rimpiazzo per il sistema GEMA, cosÏ scelse il FuMG-200 della Luftwaffe. Questo fu adattato per essere usato dagli U-boot e prese il nome di FuMO-61, con un'antenna "tipo materasso", che forniva la copertura di 360 gradi e una buona portata.
+1577=FuMO-61 ¬ëHohentwiel-U¬í||La Kriegsmarine cerco' urgentemente un efficace rimpiazzo per il sistema GEMA, cos√¨ scelse il FuMG-200 della Luftwaffe. Questo fu adattato per essere usato dagli U-boot e prese il nome di FuMO-61, con un'antenna "tipo materasso", che forniva la copertura di 360 gradi e una buona portata.
 
-1578=FuMO-64 ëHohentwiel Drauf|| Un sistema FuMO-61 leggermente modificato, chiamato FuMO-64, fu montato sugli U-boot del tipo XXI.
+1578=FuMO-64 ¬ëHohentwiel Drauf|| Un sistema FuMO-61 leggermente modificato, chiamato FuMO-64, fu montato sugli U-boot del tipo XXI.
 
 1579=FuMO-391 'Lessing'||Il FuMO-391 fu sviluppato per l'uso sul tipo XXI dove fu usato l'antenna'runddipol' antenna sopra lo snorkel.Puo' essere usato quando l'U-boot si trova a quota Snorkel.
 
-1580=FuMB-1 ëMetoxí||Il rilevatore radar FuMB-1 fu utilizzato dal 1942 in poi.
+1580=FuMB-1 ¬ëMetox¬í||Il rilevatore radar FuMB-1 fu utilizzato dal 1942 in poi.
 
-1581=FuMB-10 ëBorkumí||Questo nuovo apparecchio copre la frequenza compresa tra 3 e 0.75 metri.
+1581=FuMB-10 ¬ëBorkum¬í||Questo nuovo apparecchio copre la frequenza compresa tra 3 e 0.75 metri.
 
-1582=FuMB-7 ëNaxosí||Il Naxos copre la frequenza tra 9 e 12cm.
+1582=FuMB-7 ¬ëNaxos¬í||Il Naxos copre la frequenza tra 9 e 12cm.
 
-1583=FuMB-26 ëTunisí||Il FuMB-26 era progettato per controbattere il nuovo radar da 3cm , chiamato 'Meddo' in Germania.
+1583=FuMB-26 ¬ëTunis¬í||Il FuMB-26 era progettato per controbattere il nuovo radar da 3cm , chiamato 'Meddo' in Germania.
 
 1584=Bold 1||Il Bold era un dispositivo chimico usato per confondere i sonar nemici. Consisteva in un cilindro metallico lanciato da un apposito tubo. Forniva un falso bersaglio al sonar nemico per 3-5 minuti, permettendo al sommergibile di allontanarsi lentamente.
 
@@ -1106,7 +1106,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 1629=Sottufficiali deceduti:
 1630=Marinai deceduti:
 1631=Esperienza equipaggio:
-1632=Integrit‡ scafo:
+1632=Integrit√† scafo:
 1633=Fama (per pattugliamento):
 
 1634=Nome carriera:
@@ -1149,7 +1149,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 
 1721=Pattugliamento
 1722=Nome U-Boot:
-1723=La guerra Ë finita!
+1723=La guerra √® finita!
 
 1730=Inserire nome per favore!
 1740=Croce di Cavaliere
@@ -1168,12 +1168,12 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 1761=Selezionare un uomo per assegnare medaglia
 1762=Trascina la medaglia sulla descrizione dell'uomo
 1763=L'uomo deve completare almeno un pattugliamento
-1764=Ha gi‡ la medaglia
-1765=» necessario ricevere la %s prima
-1766=» stato ferito durante l'ultimo pattugliamento
+1764=Ha gi√† la medaglia
+1765=√à necessario ricevere la %s prima
+1766=√à stato ferito durante l'ultimo pattugliamento
 1767=Non puo'essere promosso. Richiede %.1f di esperienza
 1768=Troppi %s nell'U-Boot
-1769=Rango pi˘ alto! Non puoi pi˘ promuoverlo
+1769=Rango pi√π alto! Non puoi pi√π promuoverlo
 1770=Non puoi promuovere un marinaio!
 1771=Seleziona un uomo per assegnare promozione
 1772=Puoi assegnare una sola qualifica per pattugliamento
@@ -1183,28 +1183,28 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 1776=Devi completare un pattugliamento
 1778=Cancellando questa partita saranno cancellati tutti salvataggi associati ad essa. Sei sicuro?
 1779=Non abbastanza sottufficiali dopo questa promozione!
-1780=L'hai gi‡!
+1780=L'hai gi√†!
 1781=Non abbastanza marinai dopo questa promozione
 1782=Seleziona un uomo e trascina questa icona sopra la descrizione
 
 ;3D interior and exterior dials and buttons tooltips
 1800=QUADRI STRUMENTI
 1801=LANCIA SILURO
-1802=PROFONDIT¿ SILURO
+1802=PROFONDIT√Ä SILURO
 1803=ANGOLO DI SALVA
-1804=ANGOLO 2∞ GIROSCOPIO
+1804=ANGOLO 2¬∞ GIROSCOPIO
 1805=ANGOLO DI PERCORSO
 1806=SELEZIONE TUBO DI LANCIO
 1807=SELEZIONE TUBI PER SALVA
 1808=CORSA DRITTA
 1809=BORDATA
-1810=VELOCIT¿ SILURO
+1810=VELOCIT√Ä SILURO
 1811=DETONATORE SILURO
 1812=SALVA
 1813=DIREZIONE OBIETTIVO
 1814=DISTANZA OBIETTIVO
 1815=RILEVAMENTO
-1816=VELOCIT¿ OBIETTIVO
+1816=VELOCIT√Ä OBIETTIVO
 1817=ANGOLO GYRO
 1818=BATTERIE PRODIERE
 1819=BATTERIE POPPIERE
@@ -1216,17 +1216,17 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 1825=POSIZIONE TIMONI ORIZZONTALI DI POPPA
 1826=GIRI MOTORE DI DESTRA
 1827=GIRI MOTORE DI SINISTRA
-1828=VELOCIT¿ ATTUALE
+1828=VELOCIT√Ä ATTUALE
 1829=POSIZIONE TIMONE
 1830=ARIA COMPRESSA
 1831=TELEGRAFO DI BABORDO
 1832=TELEGRAFO DI DRITTA
-1833=PROFONDIT¿ ATTUALE
+1833=PROFONDIT√Ä ATTUALE
 1834=CARBURANTE
 1835=ATLAS ECHOLOT
 1836=IGROMETRO
 1837=POSIZIONE ORIZZONTALE U-BOOT
-1838=RILEVA PROFONDIT¿ SOTTO LA CHIGLIA
+1838=RILEVA PROFONDIT√Ä SOTTO LA CHIGLIA
 1839=IDROFONO
 1840=CONTATTI
 1841=RADAR
@@ -1260,7 +1260,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 1902=Tedesco;  texts
 1903=Francese;  texts
 
-1909=Questa opziona verr‡ attivata riavviando il gioco   
+1909=Questa opziona verr√† attivata riavviando il gioco   
 1910=Queste opzioni verranno attivate riavviando il gioco   
 1911=Fama |%.0f
 1919=Tipo
@@ -1277,8 +1277,8 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 1930=Camera eventi
 1931=Schermo intero
 1932=Sincronizzato
-1933=Densit‡ particolari
-1934=Texture alta qualit‡
+1933=Densit√† particolari
+1934=Texture alta qualit√†
 
 1940=Crediti
 1941=MISSIONI SINGOLE
@@ -1289,21 +1289,21 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 1946=SETTAGGI AUDIO
 1947=ACCADEMIA
 1948=PROFILI
-1949=La guerra Ë finita!
-1950=Non c'Ë pi˘ ossigeno!
+1949=La guerra √® finita!
+1950=Non c'√® pi√π ossigeno!
 1951=Esperienza:
 1952=Trascinalo sopra uno slot vuoto, o fai doppio click.
 1953=Sei stato decorato
 1954=Sei stato promosso
 1955=Equipaggio
 1956=Stesso profilo. Perderai il salvataggio precedente. Sei sicuro?
-1957=Non puoi caricare dopo che la guerra Ë finita!
+1957=Non puoi caricare dopo che la guerra √® finita!
 1958=Sovrascrivi la partita salvata?
 1959=Cancelli la partita salvata?
 1960=Esci dal gioco?
 1961=Cancella profilo?
 1962=Non puoi assegnare qualifica radio all'ufficiale
-1963=Ha gi‡ questa qualifica
+1963=Ha gi√† questa qualifica
 1964=Numero minimo di ufficiali. Non puoi spostarlo!
 1965=Numero minimo sottufficiali. Non puoi spostarlo!
 1966=Numero minimo di marinai. Non puoi spostarlo!
@@ -1345,7 +1345,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2001=NAVE:
 2002=DISTANZA:
 2003=AOB
-2004=VELOCIT¿
+2004=VELOCIT√Ä
 2005=ALBERO:
 2006=ANGOLO (segnali):
 2007=DISTANZA 1:
@@ -1362,7 +1362,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2016=Lunghezza:
 2017=Raggio:
 2018=Tonnellaggio:
-2019=Velocit‡:
+2019=Velocit√†:
 2020=DISTANZA
 2021=Pescaggio:
 2022=Albero:
@@ -1400,7 +1400,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2100=Ora:
 2101=Tipo:
 2102=Direzione:
-2103=Velocit‡:
+2103=Velocit√†:
 
 2110=N
 2111=NNE
@@ -1458,17 +1458,17 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2205=Controllo fuoco siluri
 2206=Altezza periscopio
 2207=Alza/Ammaina periscopio
-2208=Indicatore visibilit‡
+2208=Indicatore visibilit√†
 2209=Compressione tempo
 2210=Pausa
 2211=Mostra telegrafo/tachimetro
 2212=Cambia bussola/timone
-2213=Cambia indicatore profondit‡
+2213=Cambia indicatore profondit√†
 2214=Munizioni
 2215=Barra di caricamento
 2216=Distanza
 2217=Telegrafo di macchina
-2218=Velocit‡
+2218=Velocit√†
 2219=Bussola
 2220=Timone
 2221=Profondimetro
@@ -1501,8 +1501,8 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 
 
 ;gameplay settings
-2300=LIVELLO DI DIFFICOLT¿'
-2301=DIFFICOLT¿
+2300=LIVELLO DI DIFFICOLT√Ä'
+2301=DIFFICOLT√Ä
 2302=FACILE
 2303=NORMALE
 2304=DIFFICILE
@@ -1512,7 +1512,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2311=Aria compressa limitata
 2312=Ossigeno limitato
 2313=Carburante limitato
-2314=Vulnerabilit‡ realistica
+2314=Vulnerabilit√† realistica
 2315=Tempi di riparazione realistici
 2316=Tempo di affondamento navi realistico
 2317=Sistema di puntamento bersagli manuale
@@ -1522,27 +1522,27 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2321=Tempo di ricarica realistico
 2322=Visualizzazione eventi esclusa
 2323=Visualizzazione esterna esclusa
-2324=Stabilit‡ vista esclusa
-2325=Indicatore rumorosit‡ inattivo
+2324=Stabilit√† vista esclusa
+2325=Indicatore rumorosit√† inattivo
 2326=No assistenza dell'Ufficiale di Tiro
 
 
-2340=La carica delle batterie riduce la durata del tempo di immersione dell'u-boot limitando la sua mobilit‡ durante l'attacco
-2341=L'aria compressa Ë necessaria per cambiare profondit‡ senza usare i motori e per fermare l'assetto in casi di emergenza
+2340=La carica delle batterie riduce la durata del tempo di immersione dell'u-boot limitando la sua mobilit√† durante l'attacco
+2341=L'aria compressa √® necessaria per cambiare profondit√† senza usare i motori e per fermare l'assetto in casi di emergenza
 2342=L'esaurimento di ossigeno - rimanendo in immersione troppo a lungo - causa affaticamento all'equipaggio soffocandolo lentamente
-2343=Il carburante Ë necessario per alimentare i motori diesel, che permettono agli U-Boot di percorrere lunghe rotte
-2344=I danni subiti dal sommergibile saranno pi˘ consistenti.
-2345=Incrementa i tempi di riparazione, avvicinandoli a valori pi˘ realistici.
-2346=Il tempo di affondamento di una nave viene aumentato. Questo comporter‡ una pi˘ difficoltosa stima dei danni provocati.
+2343=Il carburante √® necessario per alimentare i motori diesel, che permettono agli U-Boot di percorrere lunghe rotte
+2344=I danni subiti dal sommergibile saranno pi√π consistenti.
+2345=Incrementa i tempi di riparazione, avvicinandoli a valori pi√π realistici.
+2346=Il tempo di affondamento di una nave viene aumentato. Questo comporter√† una pi√π difficoltosa stima dei danni provocati.
 2347=Permette esclusivamente il metodo manuale di attacco con siluri.
-2348=Disabilita la modalit‡ "occhio divino" nella mappa di navigazione.
+2348=Disabilita la modalit√† "occhio divino" nella mappa di navigazione.
 2349=Riduce il raggio dei sensori di rilevamento degli U-Boot e la loro efficacia.
-2350=Aumenta la probabilit‡ di malfunzionamento dei siluri ai livelli storici reali.
-2351=Utilizza i tempi di caricamento dei siluri reali storicamente. Questo limiter‡ la tua capacit‡ di effettuare attacchi multipli.
+2350=Aumenta la probabilit√† di malfunzionamento dei siluri ai livelli storici reali.
+2351=Utilizza i tempi di caricamento dei siluri reali storicamente. Questo limiter√† la tua capacit√† di effettuare attacchi multipli.
 2352=Disattiva il riquadro che mostra gli eventi importanti che accadono nelle vicinanze.
-2353=Limita l'utilizzo della camera esterna. Solo le modalit‡ di visuale dell'uboat saranno attive.
-2354=Disabilitando la visuale stabilizzata, il puntamento di un bersaglio sar‡ pi˘ difficile con il mare agitato.
-2355=L'indicatore di rumorosit‡ provvede un semplice indicatore visivo su quando puÚ essere rivelata la presenza dell'U-Boot ad un dato momento.
+2353=Limita l'utilizzo della camera esterna. Solo le modalit√† di visuale dell'uboat saranno attive.
+2354=Disabilitando la visuale stabilizzata, il puntamento di un bersaglio sar√† pi√π difficile con il mare agitato.
+2355=L'indicatore di rumorosit√† provvede un semplice indicatore visivo su quando pu√≤ essere rivelata la presenza dell'U-Boot ad un dato momento.
 2356=Disabilita identificazione bersaglio e soluzione di lancio da parte dell'Ufficiale di Tiro 
 
 2370=OK
@@ -1563,7 +1563,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2674=MERCANTILE AVVISTATO!
 2675=SOMMERGIBILE AVVISTATO!
 2676=AEREO AVVISTATO!
-2677=UNIT¿ TERRESTRE AVVISTATA!
+2677=UNIT√Ä TERRESTRE AVVISTATA!
 2678=Imposta come azione predefinita 
 
 ;Layout
@@ -1593,10 +1593,10 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2719=Obiettivi missione
 2720=Visuale esterna
 
-2724=Velocit‡
+2724=Velocit√†
 2725=Timone
 2726=Rotta
-2727=Profondit‡
+2727=Profondit√†
 
 2750=T;Siluro
 2751=S;Salva
@@ -1606,8 +1606,8 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2755=I;Impatto
 2756=M;Magnetico
 
-2760=Profondit‡
-2761=VELOCIT¿
+2760=Profondit√†
+2761=VELOCIT√Ä
 2762=INNESCO
 2763=Percorso diretto
 2764=2ndo angolo gyro
@@ -1615,7 +1615,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2766=DIREZIONE
 2767=PORTATA
 2768=AoB
-2769=VELOCIT¿
+2769=VELOCIT√Ä
 2770=ANGOLO GYRO
 2771=SELEZIONE TUBO
 2772=SELEZIONE TUBI
@@ -1627,7 +1627,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 
 ;Chief Egineer
 2801=Propulsione
-2802=Modalit‡ d'immersione
+2802=Modalit√† d'immersione
 2803=Manovre
 2804=Ordini d'emergenza
 2805=Rapporti
@@ -1660,10 +1660,10 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2844=Metodo 1
 2845=Metodo 2
 2846=Metodo 3
-2847=Massima autonomia alla velocit‡ corrente
+2847=Massima autonomia alla velocit√† corrente
 2848=Tempo alla fine della rotta
 2849=Distanza alla fine della rotta 
-2850=Profondit‡ sotto la chiglia
+2850=Profondit√† sotto la chiglia
 2851=Condizioni meteo
 
 
@@ -1676,9 +1676,9 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2865=Identificazione Nave
 2866=Soluzione di tiro
 2867=Siluro fuori!
-2868=Nave pi˘ vicina
-2869=Mercantile pi˘ vicino
-2870=Nave da guerra pi˘ vicina
+2868=Nave pi√π vicina
+2869=Mercantile pi√π vicino
+2870=Nave da guerra pi√π vicina
 2871=Bersaglio raccomandato
 2872=Stato dei tubi lanciasiluri
 2873=Rapporto danni
@@ -1688,12 +1688,12 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2881=Idrofono
 2882=Sonar
 2883=Ripeti l'ultimo rapporto
-2884=Rapporto sul contatto pi˘ vicino
+2884=Rapporto sul contatto pi√π vicino
 2885=Perlustrazione normale
-2886=Segui contatto sonoro pi˘ vicino
+2886=Segui contatto sonoro pi√π vicino
 2887=Stima distanza contatto
 2888=Distanza precisa da contatto
-2889=Riferire sulla nave da guerra pi˘ vicina  
+2889=Riferire sulla nave da guerra pi√π vicina  
 2890=Segui nave da guerra piu' vicina
 
 
@@ -1726,9 +1726,9 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2934=Cannone
 2935=Contraerea
 2936=Rapporti
-2937=Nave pi˘ vicina
-2938=Mercantile pi˘ vicino
-2939=Nave da guerra pi˘ vicina
+2937=Nave pi√π vicina
+2938=Mercantile pi√π vicino
+2939=Nave da guerra pi√π vicina
 2940=Bersaglio consigliato
 2941=Identificazione nave
 2942=Soluzione
@@ -1737,7 +1737,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2945=Equipaggio alla contraerea!
 2946=Equipaggio al cannone e alla contraerea!
 2947=Vedette in plancia!
-2948=Fuoco a volont‡
+2948=Fuoco a volont√†
 2949=Cessa il fuoco
 2950=Spara a distanza ravvicinata
 2951=Spara a media distanza
@@ -1746,7 +1746,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2954=Mira alla cabina di comando
 2955=Mira ai posti di combattimento
 2956=Mira alla linea di galleggiamento
-2957=Fuoco a volont‡
+2957=Fuoco a volont√†
 2958=Cessa il fuoco
 2959=Corto raggio
 2960=Medio raggio
@@ -1757,7 +1757,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 2965=Attacca solo i bersagli in avvicinamento
 2966=Attacca qualsiasi bersaglio
 2967=Contatti
-2968=Contatto visivo pi˘ vicino
+2968=Contatto visivo pi√π vicino
 
 ;Network
 
@@ -1805,7 +1805,7 @@ impedendo perÚ la copertura a poppa. Il Nibelung copre un arco di +/- 140 gradi.
 3045=Wolfpack
 3046=Competizione
 3047=Cacciatore
-3048=Difficolt‡ gioco
+3048=Difficolt√† gioco
 3049=Nome Server
 3050=Tipo di partita
 3051=Limitato
@@ -1837,7 +1837,7 @@ Scorta: %s|Esperienza Scorta: %s|Copertura Aerea: %s
 3074=Account aggiornato!
 3075=Password non valida. Digita la stessa password nel campo di riprova.
 3076=Nome giocatore '%s' non valido! Il nome deve avere almeno %d lettere.
-3077=Il Server Ë bloccato! Non puoi unirti ad un Server Bloccato!
+3077=Il Server √® bloccato! Non puoi unirti ad un Server Bloccato!
 3078=Troppi Giocatori! Il Server supporta solo %d giocatori.
 3079=Allontana giocatore
 3080=Interdici giocatore
@@ -1849,12 +1849,12 @@ Scorta: %s|Esperienza Scorta: %s|Copertura Aerea: %s
 3086=Raggiunto il numero massimo di giocatori
 3087=Password errata
 3088=Versione di gioco errata
-3089=La partita Ë finita
+3089=La partita √® finita
 3090=Risultati non validi
 3091=Non puoi unirti alla sessione!
 3092=Non puoi leggere il file %s
 3093=Aggiorna
-3094=Il Server Ë uscito. Game over!
+3094=Il Server √® uscito. Game over!
 3095=<Partita>: Non puoi inviare messaggi da immerso!
 
 3101=Continua come osservatore
@@ -1906,10 +1906,10 @@ Scorta: %s|Esperienza Scorta: %s|Copertura Aerea: %s
 3229=lontani
 
 
-3230=La missione sar‡ generata nei primi 6 mesi a partire dalla data sottostante
+3230=La missione sar√† generata nei primi 6 mesi a partire dalla data sottostante
 3231=Aspetta che gli altri giocatori siano pronti e premi Inizia
-3232=Account Ë stato creato con successo.Vuoi fare Login con questo Account?
-3233=La password non puÚ contenere l'username
+3232=Account √® stato creato con successo.Vuoi fare Login con questo Account?
+3233=La password non pu√≤ contenere l'username
 
 3234=Copertura Aerea
 
@@ -1930,28 +1930,28 @@ Scorta: %s|Esperienza Scorta: %s|Copertura Aerea: %s
 3246=Seleziona il tuo U-Boot e premi il tasto PRONTO
 3247=Sincronizzazione
 3248=Cambio Files
-3249=Aspetta mentre viene generata la missione. Impiegher‡ alcuni minuti.
+3249=Aspetta mentre viene generata la missione. Impiegher√† alcuni minuti.
 3250=L'username deve:|iniziare con una lettera|contenere solo lettere, numeri e _.-|avere tra 3 e 15 lettere
 3251=Password errata! La password deve:|contenere solo lettere, numeri e _.-|contenere almeno una lettera e un numero |avere tra 6 e 16 lettere |non essere l'username
 3252=E-mail non valida.
 3253=Verifica Password fallita
-3254=L'User esiste gi‡
+3254=L'User esiste gi√†
 3255=Errore interno
 3256=Inizializzazione connessione a internet
 3257=Stringa di connessione non valida
-3258=Non puoi connetterti a %s! La partita cercher‡ di usare le impostazioni di connessione precedenti per entrare in UBI.COM.
+3258=Non puoi connetterti a %s! La partita cercher√† di usare le impostazioni di connessione precedenti per entrare in UBI.COM.
 3259=Nessuna connessione internet
 3260=Logging in ...
-3261=Username gi‡ esistente
-3262=Username gi‡ in uso
+3261=Username gi√† esistente
+3262=Username gi√† in uso
 3263=Lo Username non esiste
 3264=Username riservato
-3265=Questa password Ë vietata
+3265=Questa password √® vietata
 3266=Nazione non valida
-3267=Il database di Ubi.com non Ë disponibile
-3268=Questo account Ë stato bannato
-3269=L'Account Ë stato bloccato
-3270=L'Account Ë stato bloccato
+3267=Il database di Ubi.com non √® disponibile
+3268=Questo account √® stato bannato
+3269=L'Account √® stato bloccato
+3270=L'Account √® stato bloccato
 3271=Errore Sconosciuto
 3272=Aggiornamento informazioni user ...
 3273=Creazione account ...
@@ -1965,41 +1965,41 @@ Scorta: %s|Esperienza Scorta: %s|Copertura Aerea: %s
 3281=Impossibile generare missione. Controlla i parametri e riprova
 
 3282=Il sistema di rete
-3283=La connessione ha fallito / non Ë disponibile
+3283=La connessione ha fallito / non √® disponibile
 3284=L'operazione richiede altro tempo per completarsi. Aspetta e riprova.
-3285=» avvenuto un errore nell'operazione di invio
-3286=» avvenuto un errore nell'operazione di ricevere
-3287=L'indirizzo specificato non Ë valido
-3288=Il socket specificato non Ë valido
+3285=√à avvenuto un errore nell'operazione di invio
+3286=√à avvenuto un errore nell'operazione di ricevere
+3287=L'indirizzo specificato non √® valido
+3288=Il socket specificato non √® valido
 
-3289=L'operazione Ë fallita senza una ragione specifica
-3290=Un Argomento passato alla funzione non Ë valido
+3289=L'operazione √® fallita senza una ragione specifica
+3290=Un Argomento passato alla funzione non √® valido
 3291=Non ci sono altri oggetti che possono essere creati/distrutti
-3292=Questa operazione non Ë attuabile
-3293=Non c'Ë altra memoria disponibile per allocazioni interne
+3292=Questa operazione non √® attuabile
+3293=Non c'√® altra memoria disponibile per allocazioni interne
 3294=Indice non valido (fuori dai limiti)
-3295=L'operazione Ë richiamata fuori dalla normale sequenza
+3295=L'operazione √® richiamata fuori dalla normale sequenza
 3296=Errore Interno (dati in eccesso, risultati errati, ecc.)
-3297=L'operazione non puÚ essere terminata in un tempo ragionevole
+3297=L'operazione non pu√≤ essere terminata in un tempo ragionevole
 3298=Non sei autorizzato ad eseguire questa operazione. Probabilmente non hai autorizzazioni sufficienti
-3299=L'operazione non puÚ essere eseguita a causa di dati forniti non validi
+3299=L'operazione non pu√≤ essere eseguita a causa di dati forniti non validi
 3300=Il Computer Remoto non riconosce l'autenticazione che hai fornito 
-3301=La versione che stai usando Ë diversa da quella attuata
-3302=L'operazione non puÚ essere completata perchË il processo Ë stato chiuso
+3301=La versione che stai usando √® diversa da quella attuata
+3302=L'operazione non pu√≤ essere completata perch√® il processo √® stato chiuso
 
 3303=Connessione...
 
-3304=Il Server non Ë pi˘ disponibile
-3305=Non Ë consentito su questo server
+3304=Il Server non √® pi√π disponibile
+3305=Non √® consentito su questo server
 3306=Non sono consentiti Spettatori
-3307=Questa missione Ë stata creata per %d giocatori! Il server sar‡ regolato su questo numero. Continuare?
+3307=Questa missione √® stata creata per %d giocatori! Il server sar√† regolato su questo numero. Continuare?
 3308=Non sono consentiti altri spettatori
 3309=Non sono consentiti altri membri
 3310=Membro non registrato
-3311=La partita Ë iniziata
+3311=La partita √® iniziata
 3312=Ricordami password
 3313=Nome Giocatore
-3314=Gi‡ in gioco
+3314=Gi√† in gioco
 3315=Non sei il Master
 3316=Non ti sei collegato al server
 3317=CONNECT ADD CONNECTION?
@@ -2011,7 +2011,7 @@ Scorta: %s|Esperienza Scorta: %s|Copertura Aerea: %s
 3323=Errore sconosciuto del server Lobby
 3324=Connessione Persa!
 
-3325=Non ti puoi unire al server fino a che il ping non sar‡ visibile.  Il 
+3325=Non ti puoi unire al server fino a che il ping non sar√† visibile.  Il 
 server potrebbe avere un firewall o essere un Server NAT.
 
 ;Results page
@@ -2026,7 +2026,7 @@ server potrebbe avere un firewall o essere un Server NAT.
 3408=TIPO DI NAVE
 3409=TONN.
 3410=FAMA
-3411=FEDELTAí
+3411=FEDELTA¬í
 3412=TEMPO
 3413=LOCAZIONE
 3414=RISULTATI DETTAGLIATI
@@ -2146,16 +2146,16 @@ server potrebbe avere un firewall o essere un Server NAT.
 4121=Media
 4122=Pesante
 
-4128=Cielo %s, Precipitazioni %s, Nebbia %s,|Velocit‡ vento %d metri al secondo, direzione %3d.
+4128=Cielo %s, Precipitazioni %s, Nebbia %s,|Velocit√† vento %d metri al secondo, direzione %3d.
 
 4130=Est
 4131=Ovest
 4132=Nord
 4133=Sud
 
-4140=Unit‡ Nemica Distrutta
-4141=Unit‡ Alleata Distrutta
-4142=Unit‡ Neutrale Distrutta
+4140=Unit√† Nemica Distrutta
+4141=Unit√† Alleata Distrutta
+4142=Unit√† Neutrale Distrutta
 
 4150=Caccia %d|%s, %s|Salpato il: %s|Da: %s
 4151=Caccia iniziata|%s|Data: %s|Posizione: %s
@@ -2181,7 +2181,7 @@ server potrebbe avere un firewall o essere un Server NAT.
 4192=Da: %s|A: %s|%s
 4193=BdU
 4194=Rapporto su contatto radio
-4195=Rapporto Contatto. %s %s , %s , Rotta %s, Velocit‡ %d KTS!
+4195=Rapporto Contatto. %s %s , %s , Rotta %s, Velocit√† %d KTS!
 4196=Rapporto su contatto ricevuto. Ottimo lavoro!
 4197=Maggiore aggressivita!
 4198=Continua la missione!
@@ -2189,8 +2189,8 @@ server potrebbe avere un firewall o essere un Server NAT.
 
 4200=Rapporto Contatti
 4201=%s. Posizione %s
-4202=Convoglio avvistato.|Velocit‡ stimata %d nodi.|Rotta stimata %d.
-4203=Task Force avvistata.|Velocit‡ stimata %d nodi.|Rotta stimata %d.
+4202=Convoglio avvistato.|Velocit√† stimata %d nodi.|Rotta stimata %d.
+4203=Task Force avvistata.|Velocit√† stimata %d nodi.|Rotta stimata %d.
 
 
 4210=Obiettivi primari
@@ -2204,7 +2204,7 @@ server potrebbe avere un firewall o essere un Server NAT.
 4222=Fallito
 
 4230=Sta rallentando
-4231=Velocit‡ costante
+4231=Velocit√† costante
 4232=Sta aumentando velocita'
 
 4240=Fermo		
@@ -2245,28 +2245,28 @@ server potrebbe avere un firewall o essere un Server NAT.
 4407=Ricarica batterie
 4408=Dobbiamo riemergere, signore!
 4409=Siamo in acque poco profonde, signore!
-4410=Profondit‡ attuale %03.0f metri
-4411=Velocit‡ attuale %02.0f nodi
+4410=Profondit√† attuale %03.0f metri
+4411=Velocit√† attuale %02.0f nodi
 4412=Rotta attuale %03.0f
 4413=Lanciare falsi bersagli!
 4414=Falsi bersagli non disponibili
 4415=Alzare lo snorkel
 4416=Ammainare lo snorkel
 4417=Snorkel non disponibile
-4418=Signore, la riserva di carburante Ë scesa sotto il %d%%
+4418=Signore, la riserva di carburante √® scesa sotto il %d%%
 4419=Abbiamo esaurito il carburante, signore!
-4420=Signore, la carica delle batterie Ë scesa sotto il %d%%
+4420=Signore, la carica delle batterie √® scesa sotto il %d%%
 4421=Le batterie sono scariche, signore!
 4422=Ossigeno sotto %d%%, signore 					
 4423=Siamo senza ossigeno! Signore, dobbiamo emergere!
-4424=Signore, l'aria compressa Ë scesa sotto il %d%%
+4424=Signore, l'aria compressa √® scesa sotto il %d%%
 4425=Abbiamo esaurito l'aria compressa, signore!
-4426=Velocit‡ %.0f nodi
-4427=Profondit‡ %.0f metri
+4426=Velocit√† %.0f nodi
+4427=Profondit√† %.0f metri
 4428=Nuova rotta %03.0f
 4429=Batterie ricaricate al %d%%, signore
-4430=Signore, la riserva di ossigeno Ë al %d%%
-4431=Signore, la riserva di aria compressa Ë al %d%%
+4430=Signore, la riserva di ossigeno √® al %d%%
+4431=Signore, la riserva di aria compressa √® al %d%%
 4432=Ricarica batterie
 
 ;Weapon Officer
@@ -2277,15 +2277,15 @@ server potrebbe avere un firewall o essere un Server NAT.
 4504=Signore, soluzione di lancio pronta
 4505=Bersaglio puntato!
 4506=Puntare la nave piu vicina
-4507=Puntare la pi˘ vicina nave da guerra
-4508=Puntare il pi˘ vicino mercantile
+4507=Puntare la pi√π vicina nave da guerra
+4508=Puntare il pi√π vicino mercantile
 4509=Puntare il miglior bersaglio
 4510=Signore, siamo troppo profondi per lanciare
 4511=Impossibile calcolare la soluzione per i tubi di prua!
 4512=Impossibile calcolare la soluzione per i tubi di poppa!
 4513=Bersaglio identificato
 4514=Distanza dal bersaglio calcolata
-4515=Velocit‡ del bersaglio calcolata
+4515=Velocit√† del bersaglio calcolata
 4516=Direzione del bersaglio acquisita
 4517=Danni allo scafo a pressione!!!
 4518=Non possiamo fermare la falla!!!
@@ -2295,7 +2295,7 @@ server potrebbe avere un firewall o essere un Server NAT.
 4522=Cannone non disponibile
 4523=Mitragliera antiaerea non disponibile
 4524=Impossibile lanciare contro al bersaglio, angolo troppo grande!
-4525=Il bersaglio Ë fuori portata
+4525=Il bersaglio √® fuori portata
 4526=Siamo in acque poco profonde, signore!
 4527=Signore, siamo troppo profondi per lanciare siluri
 4528=Aprire tubo %d
@@ -2315,11 +2315,11 @@ server potrebbe avere un firewall o essere un Server NAT.
 4609=Rifornimento in corso
 4610=Rifornimento interrotto
 4611=Rifornimento completato
-4612=La scorta Ë pronta, signore
+4612=La scorta √® pronta, signore
 4613=Dobbiamo seguire la scorta, signore
 4614=Seguiamo la scorta, signore
 4615=Stiamo attraccando,signore
-4616=Il contatto visivo piu' vicino Ë su rilevamento %03.0f, distanza %.0f metri
+4616=Il contatto visivo piu' vicino √® su rilevamento %03.0f, distanza %.0f metri
 4617=Nessun contatto visivo
 
 ;Navigation
@@ -2328,8 +2328,8 @@ server potrebbe avere un firewall o essere un Server NAT.
 4702=Rotta tracciata, signore
 4703=Impostare il tipo di ricerca
 4704=Tipo di ricerca impostato
-4705=La profondit‡ sotto la chiglia Ë %.0f metri
-4706=La profondit‡ sotto la chiglia Ë oltre %.0f metri
+4705=La profondit√† sotto la chiglia √® %.0f metri
+4706=La profondit√† sotto la chiglia √® oltre %.0f metri
 4707=Siamo in acque poco profonde, signore
 4708=Range to target, %02.0f centinaia!
 4709=Distanza dal bersaglio, meno di cento!
@@ -2339,12 +2339,12 @@ server potrebbe avere un firewall o essere un Server NAT.
 4713=Nessuna rotta tracciata, signore
 4714=Il tempo sta migliorando
 4715=Il tempo sta peggiorando
-4716=La massima autonomia all'attuale velocit‡ Ë %.0f km
-4717=Non Ë possibile stabilire la massima autonomia all'attuale velocit‡
+4716=La massima autonomia all'attuale velocit√† √® %.0f km
+4717=Non √® possibile stabilire la massima autonomia all'attuale velocit√†
 4718=Mancano %.0f ore
-4719=Non Ë possibile stabilire quanto tempo manca
+4719=Non √® possibile stabilire quanto tempo manca
 4720=Restano da percorrere %.0f km
-4721=Non Ë possibile stabilire quanto resta da percorrere
+4721=Non √® possibile stabilire quanto resta da percorrere
 4722=Seguire la rotta tracciata
 4723=Ultimo punto di rotta raggiunto
 
@@ -2373,13 +2373,13 @@ server potrebbe avere un firewall o essere un Server NAT.
 4906=Spazzata a poppa
 4907=Spazzata a sinistra di poppa
 4908=Spazzata a destra di poppa
-4909=Il sonar Ë spento
+4909=Il sonar √® spento
 4910=Nave affondata!
 4911=Nave colpita!
 4912=Contatto sonar piu' vicino: %s %s! %s su rilevamento %03.0f. %s.;tipo, velocita',aspetto,rilevamento,distanza
 4913=Nessun contatto sonar
 4914=Nessun bersaglio selezionato
-4915=La distanza dal bersaglio Ë %d
+4915=La distanza dal bersaglio √® %d
 4916=Breve distanza
 4917=Distanza media
 4918=Lunga distanza
